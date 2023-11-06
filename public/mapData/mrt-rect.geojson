@@ -1,0 +1,3278 @@
+{
+	"type": "FeatureCollection",
+	"name": "MRT-rect",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 0,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 294883.35815733997,
+				"geometry/coordinates/1": 2784459.1824556068,
+				"properties/FID CODE": 0,
+				"properties/NAME": "淡水站",
+				"properties/LOC": "原有台鐵淡水站附近",
+				"ppl_in": 1254,
+				"ppl_out": 1296
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.445009486347743, 25.167768331420806],
+						[121.445011124714938, 25.168219726660848],
+						[121.445507130942033, 25.16821823480025],
+						[121.445505490748886, 25.167766839590623],
+						[121.445009486347743, 25.167768331420806]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 1,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296269.23063553515,
+				"geometry/coordinates/1": 2782926.4734437321,
+				"properties/FID CODE": 1,
+				"properties/NAME": "紅樹林站",
+				"properties/LOC": "現有外北勢溪附近",
+				"ppl_in": 465,
+				"ppl_out": 267
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.458705694057301, 25.153889228178922],
+						[121.458707381786382, 25.154340623410182],
+						[121.459203330947261, 25.154339086450616],
+						[121.459201641393605, 25.153887691250702],
+						[121.458705694057301, 25.153889228178922]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 2,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296326.31285393884,
+				"geometry/coordinates/1": 2781025.3290137015,
+				"properties/FID CODE": 2,
+				"properties/NAME": "竹圍站",
+				"properties/LOC": "原有台鐵竹圍站附近",
+				"ppl_in": 370,
+				"ppl_out": 369
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.459207668251153, 25.136724103701045],
+						[121.459209356512986, 25.137175499946377],
+						[121.459705236281891, 25.137173962284059],
+						[121.459703546197133, 25.136722566070109],
+						[121.459207668251153, 25.136724103701045]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 3,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297111.34923629474,
+				"geometry/coordinates/1": 2779791.3823732585,
+				"properties/FID CODE": 3,
+				"properties/NAME": "關渡站",
+				"properties/LOC": "關渡國小附近近靠原台鐵淡水線",
+				"ppl_in": 606,
+				"ppl_out": 504
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.466950950388267, 25.125559796170339],
+						[121.46695266624846, 25.126011192600352],
+						[121.467448500396955, 25.12600962967117],
+						[121.467446782714916, 25.125558233273065],
+						[121.466950950388267, 25.125559796170339]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 4,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297706.64193101169,
+				"geometry/coordinates/1": 2780343.5470774113,
+				"properties/FID CODE": 4,
+				"properties/NAME": "忠義站",
+				"properties/LOC": "中央北路四段 (捷運系統北投機廠西側)",
+				"ppl_in": 138,
+				"ppl_out": 90
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.472873445532116, 25.130525978642556],
+						[121.472875183546066, 25.130977374385704],
+						[121.473371037319666, 25.130975791352849],
+						[121.473369297483401, 25.130524395642013],
+						[121.472873445532116, 25.130525978642556]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 5,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300669.54678988323,
+				"geometry/coordinates/1": 2781039.4183159056,
+				"properties/FID CODE": 5,
+				"properties/NAME": "新北投站",
+				"properties/LOC": "原台鐵新北投站附近",
+				"ppl_in": 204,
+				"ppl_out": 193
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.50228231024434, 25.136711545894734],
+						[121.50228415686378, 25.137162939280469],
+						[121.502780033437801, 25.137161257464321],
+						[121.502778184995478, 25.136709864112905],
+						[121.50228231024434, 25.136711545894734]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 6,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300274.33332433994,
+				"geometry/coordinates/1": 2780480.8600508152,
+				"properties/FID CODE": 6,
+				"properties/NAME": "北投站",
+				"properties/LOC": "原台鐵北投站址",
+				"ppl_in": 706,
+				"ppl_out": 636
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.498342316177627, 25.13168218573383],
+						[121.498344147894429, 25.132133579698188],
+						[121.498840004458415, 25.132131911378739],
+						[121.498838170919228, 25.131680517448427],
+						[121.498342316177627, 25.13168218573383]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 7,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300528.19565124909,
+				"geometry/coordinates/1": 2779781.504059019,
+				"properties/FID CODE": 7,
+				"properties/NAME": "奇岩站",
+				"properties/LOC": "原台鐵淡水線與三合街交叉口",
+				"ppl_in": 335,
+				"ppl_out": 256
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.500834147286483, 25.12535999632135],
+						[121.50083598763436, 25.125811390498782],
+						[121.501331818487188, 25.125809714234688],
+						[121.50132997631755, 25.125358320091472],
+						[121.500834147286483, 25.12535999632135]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 8,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301052.69368810346,
+				"geometry/coordinates/1": 2779259.8715776969,
+				"properties/FID CODE": 8,
+				"properties/NAME": "唭哩岸站",
+				"properties/LOC": "原台鐵淡水線與東華街２段３００巷交叉口",
+				"ppl_in": 309,
+				"ppl_out": 206
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.506015975736787, 25.12063309500261],
+						[121.506017834726521, 25.121084489107545],
+						[121.506513646106868, 25.121082795806068],
+						[121.506511785295842, 25.120631401735704],
+						[121.506015975736787, 25.12063309500261]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 9,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302001.07623328804,
+				"geometry/coordinates/1": 2778550.3772374117,
+				"properties/FID CODE": 9,
+				"properties/NAME": "石牌站",
+				"properties/LOC": "原台鐵淡水線與石牌路交叉口",
+				"ppl_in": 1548,
+				"ppl_out": 1208
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.515393446541765, 25.114195470311067],
+						[121.515395339428395, 25.114646864146408],
+						[121.515891124109089, 25.114645139892758],
+						[121.515889229401779, 25.114193746092628],
+						[121.515393446541765, 25.114195470311067]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 10,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302323.55610903288,
+				"geometry/coordinates/1": 2778039.1589803118,
+				"properties/FID CODE": 10,
+				"properties/NAME": "明德站",
+				"properties/LOC": "原台鐵淡水線與明德路交叉口",
+				"ppl_in": 580,
+				"ppl_out": 468
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.518571574653507, 25.109569106012483],
+						[121.518573478812385, 25.110020499902493],
+						[121.519069244584131, 25.110018765319587],
+						[121.519067338605026, 25.109567371465005],
+						[121.518571574653507, 25.109569106012483]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 11,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302701.91078392399,
+				"geometry/coordinates/1": 2777267.1351579973,
+				"properties/FID CODE": 11,
+				"properties/NAME": "芝山站",
+				"properties/LOC": "原台鐵淡水線與福國路交叉口",
+				"ppl_in": 808,
+				"ppl_out": 795
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.522293457768157, 25.10258620327113],
+						[121.522295374985532, 25.103037597318561],
+						[121.522791112307871, 25.103035850745268],
+						[121.522789193270967, 25.102584456733513],
+						[121.522293457768157, 25.10258620327113]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 12,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302472.19198125973,
+				"geometry/coordinates/1": 2773784.7304749503,
+				"properties/FID CODE": 12,
+				"properties/NAME": "圓山站",
+				"properties/LOC": "原台鐵淡水線與酒泉街交叉口",
+				"ppl_in": 1024,
+				"ppl_out": 921
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.519883026954247, 25.071155392052091],
+						[121.51988493260211, 25.071606788184873],
+						[121.520380543515046, 25.071605051696903],
+						[121.520378636050694, 25.071153655599627],
+						[121.519883026954247, 25.071155392052091]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 13,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302954.67502629367,
+				"geometry/coordinates/1": 2775210.6454702024,
+				"properties/FID CODE": 13,
+				"properties/NAME": "劍潭站",
+				"properties/LOC": "原台鐵淡水線與９６號計劃道路交叉口",
+				"ppl_in": 1012,
+				"ppl_out": 964
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.524720348702999, 25.084011596485684],
+						[121.524722273205157, 25.084462991487673],
+						[121.525217935492293, 25.084461238012846],
+						[121.525216009172425, 25.08400984304669],
+						[121.524720348702999, 25.084011596485684]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 14,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303073.99857677286,
+				"geometry/coordinates/1": 2776234.334185035,
+				"properties/FID CODE": 14,
+				"properties/NAME": "士林站",
+				"properties/LOC": "原台鐵士林站址",
+				"ppl_in": 1136,
+				"ppl_out": 1155
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.525942727896208, 25.093249161351501],
+						[121.525944657690758, 25.093700555702871],
+						[121.526440357091857, 25.093698797542022],
+						[121.526438425478716, 25.093247403226574],
+						[121.525942727896208, 25.093249161351501]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 15,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302398.22494387603,
+				"geometry/coordinates/1": 2772842.5294255526,
+				"properties/FID CODE": 15,
+				"properties/NAME": "民權西路站",
+				"properties/LOC": "原台鐵淡水線與民權西路交叉口",
+				"ppl_in": 909,
+				"ppl_out": 952
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.519114001306775, 25.062651833478011],
+						[121.519115903400817, 25.063103230182922],
+						[121.519611480159625, 25.063101496810486],
+						[121.51960957624992, 25.06265010014102],
+						[121.519114001306775, 25.062651833478011]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 16,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302536.38094212417,
+				"geometry/coordinates/1": 2772263.7692379449,
+				"properties/FID CODE": 16,
+				"properties/NAME": "雙連站",
+				"properties/LOC": "原台鐵淡水線與民生西路交叉口",
+				"ppl_in": 1030,
+				"ppl_out": 915
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.520461262372422, 25.057422030327047],
+						[121.520463168949689, 25.057873427253089],
+						[121.52095872456745, 25.057871689722308],
+						[121.520956816175044, 25.057420292831804],
+						[121.520461262372422, 25.057422030327047]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 17,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302506.90928645316,
+				"geometry/coordinates/1": 2771713.0103202793,
+				"properties/FID CODE": 17,
+				"properties/NAME": "中山站",
+				"properties/LOC": "原台鐵淡水線與南京西路交叉口",
+				"ppl_in": 1307,
+				"ppl_out": 2515
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.520148180075068, 25.052450833986285],
+						[121.520150085075016, 25.052902231236938],
+						[121.520645620728331, 25.052900495071974],
+						[121.520643713913742, 25.052449097856833],
+						[121.520148180075068, 25.052450833986285]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 18,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302090.05335108278,
+				"geometry/coordinates/1": 2770509.7422518255,
+				"properties/FID CODE": 18,
+				"properties/NAME": "臺大醫院站",
+				"properties/LOC": "公園路與常德街口",
+				"ppl_in": 375,
+				"ppl_out": 1651
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.515971387203066, 25.041602190599352],
+						[121.515973275974545, 25.042053588808024],
+						[121.516468768352297, 25.042051867272679],
+						[121.516466877767229, 25.041600469099237],
+						[121.515971387203066, 25.041602190599352]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 19,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 308478.53076957393,
+				"geometry/coordinates/1": 2765711.7133280062,
+				"properties/FID CODE": 19,
+				"properties/NAME": "動物園站",
+				"properties/LOC": "新光路木柵動物園正門口右側",
+				"ppl_in": 169,
+				"ppl_out": 346
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.579076362780299, 24.998052751442987],
+						[121.579078478351548, 24.998504147522752],
+						[121.579573790707045, 24.99850221867846],
+						[121.579571673326512, 24.998050822638216],
+						[121.579076362780299, 24.998052751442987]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 20,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 307857.82353113132,
+				"geometry/coordinates/1": 2765706.4019891317,
+				"properties/FID CODE": 20,
+				"properties/NAME": "木柵站",
+				"properties/LOC": "木柵路４段與軍功路交叉口附近",
+				"ppl_in": 122,
+				"ppl_out": 99
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.572927279363299, 24.998028608208763],
+						[121.572929372468195, 24.99848000477925],
+						[121.573424685264044, 24.998478096409212],
+						[121.57342259034985, 24.998026699877826],
+						[121.572927279363299, 24.998028608208763]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 21,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 307341.90218166483,
+				"geometry/coordinates/1": 2765743.4821668291,
+				"properties/FID CODE": 21,
+				"properties/NAME": "萬芳社區站",
+				"properties/LOC": "萬芳路南側臨近萬和街口",
+				"ppl_in": 100,
+				"ppl_out": 53
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.567817984565352, 24.998382960497178],
+						[121.567820059038269, 24.998834357448715],
+						[121.568315373696578, 24.998832466064378],
+						[121.568313297414292, 24.998381069151595],
+						[121.567817984565352, 24.998382960497178]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 22,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306328.20273573638,
+				"geometry/coordinates/1": 2765838.6013869825,
+				"properties/FID CODE": 22,
+				"properties/NAME": "萬芳醫院站",
+				"properties/LOC": "興隆路３段北側警察專科學校附近",
+				"ppl_in": 618,
+				"ppl_out": 392
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.557779883289982, 24.999279681993585],
+						[121.557781921173927, 24.999731079671093],
+						[121.558277240283815, 24.999729221645591],
+						[121.55827520059043, 24.999277824006153],
+						[121.557779883289982, 24.999279681993585]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 23,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306222.73435741232,
+				"geometry/coordinates/1": 2766489.3797459141,
+				"properties/FID CODE": 23,
+				"properties/NAME": "辛亥站",
+				"properties/LOC": "辛亥站西側臨近萬美街口處",
+				"ppl_in": 105,
+				"ppl_out": 78
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.556761555267073, 25.005158791449986],
+						[121.556763589975048, 25.005610188849158],
+						[121.557258932743892, 25.005608333807526],
+						[121.557256896225894, 25.005156936446355],
+						[121.556761555267073, 25.005158791449986]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 24,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306400.11656179884,
+				"geometry/coordinates/1": 2767945.5551049807,
+				"properties/FID CODE": 24,
+				"properties/NAME": "麟光站",
+				"properties/LOC": "和平東路底麟光新村西側",
+				"ppl_in": 173,
+				"ppl_out": 88
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.558578313542711, 25.018298463285735],
+						[121.558580356110866, 25.018749859747466],
+						[121.559075751437803, 25.018747997743763],
+						[121.559073707058374, 25.018296601320156],
+						[121.558578313542711, 25.018298463285735]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 25,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 305815.45079114113,
+				"geometry/coordinates/1": 2768532.6201826367,
+				"properties/FID CODE": 25,
+				"properties/NAME": "六張犁站",
+				"properties/LOC": "和平東路與基隆路口附近之和平東路上",
+				"ppl_in": 383,
+				"ppl_out": 379
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.552809254066403, 25.023620098796755],
+						[121.552811276028805, 25.024071495378244],
+						[121.553306693201151, 25.02406965223096],
+						[121.55330466942695, 25.023618255687207],
+						[121.552809254066403, 25.023620098796755]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 26,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304844.97487795539,
+				"geometry/coordinates/1": 2768766.520321927,
+				"properties/FID CODE": 26,
+				"properties/NAME": "科技大樓站",
+				"properties/LOC": "復興南路與和平東路口附近之復興南路上",
+				"ppl_in": 558,
+				"ppl_out": 644
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.543202765592937, 25.025767183307678],
+						[121.543204752613633, 25.026218580485995],
+						[121.543700179203867, 25.02621676920797],
+						[121.543698190371146, 25.025765372066733],
+						[121.543202765592937, 25.025767183307678]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 27,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304859.56312391814,
+				"geometry/coordinates/1": 2769522.9637663141,
+				"properties/FID CODE": 27,
+				"properties/NAME": "大安站",
+				"properties/LOC": "復興南路與信義路交叉口",
+				"ppl_in": 797,
+				"ppl_out": 953
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.54337738768136, 25.032595780639642],
+						[121.543379375958224, 25.033047177390188],
+						[121.543874829953808, 25.033045365069277],
+						[121.543872839864235, 25.032593968355826],
+						[121.54337738768136, 25.032595780639642]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 28,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304906.67145243095,
+				"geometry/coordinates/1": 2772623.041927055,
+				"properties/FID CODE": 28,
+				"properties/NAME": "中山國中站",
+				"properties/LOC": "復興北路介於錦州街與民權東路之間",
+				"ppl_in": 481,
+				"ppl_out": 470
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.543967659385984, 25.060581323069915],
+						[121.543969652356566, 25.061032718075857],
+						[121.544465218782364, 25.061030901896494],
+						[121.544463223996374, 25.060579506927699],
+						[121.543967659385984, 25.060581323069915]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 29,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 311309.40816670476,
+				"geometry/coordinates/1": 2771694.6203200766,
+				"properties/FID CODE": 29,
+				"properties/NAME": "南港站",
+				"properties/LOC": "南港火車站旁",
+				"ppl_in": 812,
+				"ppl_out": 1024
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.607385333485723, 25.051953696438332],
+						[121.607387557923346, 25.052405086925688],
+						[121.607883084116281, 25.052403059764284],
+						[121.607880857864174, 25.051951669318399],
+						[121.607385333485723, 25.051953696438332]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 30,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 309835.79862458352,
+				"geometry/coordinates/1": 2771467.6835002485,
+				"properties/FID CODE": 30,
+				"properties/NAME": "昆陽站",
+				"properties/LOC": "忠孝東路與向陽路口",
+				"ppl_in": 567,
+				"ppl_out": 397
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.592771267716742, 25.049963949621247],
+						[121.592773438438584, 25.050415341440857],
+						[121.593268957963033, 25.05041336317905],
+						[121.593266785426835, 25.049961971399913],
+						[121.592771267716742, 25.049963949621247]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 31,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 308727.06980960426,
+				"geometry/coordinates/1": 2770808.2176887137,
+				"properties/FID CODE": 31,
+				"properties/NAME": "後山埤站",
+				"properties/LOC": "忠孝東路與永吉路口",
+				"ppl_in": 612,
+				"ppl_out": 544
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.581755264155134, 25.04405382741578],
+						[121.581757393965589, 25.044505220488073],
+						[121.582252890717257, 25.044503279400473],
+						[121.582250759093043, 25.0440518863679],
+						[121.581755264155134, 25.04405382741578]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 32,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 308109.99557414214,
+				"geometry/coordinates/1": 2770427.3121523983,
+				"properties/FID CODE": 32,
+				"properties/NAME": "永春站",
+				"properties/LOC": "虎林街與忠孝東路口",
+				"ppl_in": 743,
+				"ppl_out": 718
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.575624063797946, 25.040638879772239],
+						[121.575626170835605, 25.041090273542078],
+						[121.57612165440348, 25.041088353146616],
+						[121.576119545552373, 25.04063695941608],
+						[121.575624063797946, 25.040638879772239]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 33,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 307038.85301785805,
+				"geometry/coordinates/1": 2770457.7194289854,
+				"properties/FID CODE": 33,
+				"properties/NAME": "市政府站",
+				"properties/LOC": "基隆路與忠孝東路口",
+				"ppl_in": 1705,
+				"ppl_out": 3152
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.565010677524029, 25.040954136090168],
+						[121.565012745742919, 25.041405530676972],
+						[121.565508231495699, 25.041403645651357],
+						[121.565506161463333, 25.040952251103132],
+						[121.565010677524029, 25.040954136090168]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 34,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306274.84055356041,
+				"geometry/coordinates/1": 2770473.22312597,
+				"properties/FID CODE": 34,
+				"properties/NAME": "國父紀念館",
+				"properties/LOC": "忠孝東路與光復南路交叉口",
+				"ppl_in": 331,
+				"ppl_out": 1461
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.557440185922047, 25.041122699547703],
+						[121.557442226445701, 25.041574094711155],
+						[121.557937713520332, 25.04157223491918],
+						[121.557935671183159, 25.041120839793788],
+						[121.557440185922047, 25.041122699547703]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 35,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 305464.17112091777,
+				"geometry/coordinates/1": 2770486.2269506166,
+				"properties/FID CODE": 35,
+				"properties/NAME": "忠孝敦化站",
+				"properties/LOC": "忠孝東路統領商圈附近",
+				"ppl_in": 890,
+				"ppl_out": 1640
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.549407206997103, 25.041270019347124],
+						[121.549409218130208, 25.041721415115713],
+						[121.549904706471196, 25.04171958210145],
+						[121.549902693524572, 25.04126818637037],
+						[121.549407206997103, 25.041270019347124]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 36,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304872.59889900737,
+				"geometry/coordinates/1": 2770495.7297050767,
+				"properties/FID CODE": 36,
+				"properties/NAME": "忠孝復興站",
+				"properties/LOC": "忠孝東路與復興南路交叉口",
+				"ppl_in": 1299,
+				"ppl_out": 2603
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.543545260142167, 25.041377370847499],
+						[121.543547249827668, 25.04182876705206],
+						[121.544042739085981, 25.041826953578653],
+						[121.544040747586934, 25.041375557411197],
+						[121.543545260142167, 25.041377370847499]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 37,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303306.78167111636,
+				"geometry/coordinates/1": 2768173.4483791124,
+				"properties/FID CODE": 37,
+				"properties/NAME": "台電大樓站",
+				"properties/LOC": "羅斯福路與師大路交叉口 (古亭國小前)",
+				"ppl_in": 696,
+				"ppl_out": 648
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.527938657613973, 25.02046786194305],
+						[121.527940588335056, 25.020919260572349],
+						[121.528435994893215, 25.020917500514503],
+						[121.528434062360617, 25.020466101921244],
+						[121.527938657613973, 25.02046786194305]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 38,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304604.10189055296,
+				"geometry/coordinates/1": 2765130.8925939212,
+				"properties/FID CODE": 38,
+				"properties/NAME": "景美站",
+				"properties/LOC": "羅斯福路與景福街交叉口 (景美分局前)",
+				"ppl_in": 818,
+				"ppl_out": 516
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.540672357581727, 24.99295355701803],
+						[121.540674332395255, 24.993404956377212],
+						[121.541169627573098, 24.993403155736729],
+						[121.541167650950726, 24.992951756414445],
+						[121.540672357581727, 24.99295355701803]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 39,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302024.22598321509,
+				"geometry/coordinates/1": 2767384.9410937536,
+				"properties/FID CODE": 39,
+				"properties/NAME": "頂溪站",
+				"properties/LOC": "永和路與竹林路交口",
+				"ppl_in": 1418,
+				"ppl_out": 988
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.51520124934305, 25.013393804058502],
+						[121.515203132877147, 25.013845204034897],
+						[121.515698512056289, 25.013843486873121],
+						[121.515696626711303, 25.013392086931894],
+						[121.51520124934305, 25.013393804058502]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 40,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297656.38106961438,
+				"geometry/coordinates/1": 2769172.9897017097,
+				"properties/FID CODE": 40,
+				"properties/NAME": "江子翠站",
+				"properties/LOC": "文化路與雙十路交叉口",
+				"ppl_in": 1039,
+				"ppl_out": 738
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.471988173744393, 25.029680028681135],
+						[121.471989900577626, 25.030131430615107],
+						[121.472485348362056, 25.030129856454618],
+						[121.472483619716314, 25.029678454552865],
+						[121.471988173744393, 25.029680028681135]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 41,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300579.21284926368,
+				"geometry/coordinates/1": 2769773.2367869937,
+				"properties/FID CODE": 41,
+				"properties/NAME": "龍山寺站",
+				"properties/LOC": "和平西路三段與康定路交叉口",
+				"ppl_in": 1287,
+				"ppl_out": 1089
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.500972212171135, 25.035004266005853],
+						[121.500974045487723, 25.035455665668785],
+						[121.501469512515939, 25.035453994563365],
+						[121.501467677386373, 25.035002594934639],
+						[121.500972212171135, 25.035004266005853]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 42,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296718.20627748099,
+				"geometry/coordinates/1": 2767440.9382542721,
+				"properties/FID CODE": 42,
+				"properties/NAME": "板橋站",
+				"properties/LOC": "文化路與光正街交叉口",
+				"ppl_in": 1554,
+				"ppl_out": 1119
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.462633251706947, 25.014072193463523],
+						[121.462634943113244, 25.014523596948969],
+						[121.463130328912641, 25.014522054868753],
+						[121.463128635695327, 25.014070651414887],
+						[121.462633251706947, 25.014072193463523]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 43,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296350.52400469745,
+				"geometry/coordinates/1": 2766845.7312747943,
+				"properties/FID CODE": 43,
+				"properties/NAME": "府中站",
+				"properties/LOC": "台鐵板橋火車站",
+				"ppl_in": 1081,
+				"ppl_out": 885
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.458970399151013, 25.00870990748982],
+						[121.458972076756638, 25.009161311533884],
+						[121.459467441300518, 25.00915978196193],
+						[121.459465761884417, 25.008708377949194],
+						[121.458970399151013, 25.00870990748982]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 44,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 295691.2048681025,
+				"geometry/coordinates/1": 2765697.5551284994,
+				"properties/FID CODE": 44,
+				"properties/NAME": "亞東醫院站",
+				"properties/LOC": "南雅南路亞東醫院",
+				"ppl_in": 1137,
+				"ppl_out": 616
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.452400388272878, 24.998364078191059],
+						[121.452402041086131, 24.998815483276463],
+						[121.452897364597874, 24.998813976169149],
+						[121.452895709975166, 24.998362571114626],
+						[121.452400388272878, 24.998364078191059]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 45,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 294872.94889024599,
+				"geometry/coordinates/1": 2762885.5155047886,
+				"properties/FID CODE": 45,
+				"properties/NAME": "土城站",
+				"properties/LOC": "土城中正路與和平路交叉口",
+				"ppl_in": 317,
+				"ppl_out": 191
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.44420315685629, 24.973001055248627],
+						[121.444204777848682, 24.973452462379907],
+						[121.444700000310846, 24.973450983965161],
+						[121.444698377511443, 24.972999576864197],
+						[121.44420315685629, 24.973001055248627]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 46,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 294105.31331755646,
+				"geometry/coordinates/1": 2762217.8598128525,
+				"properties/FID CODE": 46,
+				"properties/NAME": "永寧站",
+				"properties/LOC": "土城中央路承天路交叉口",
+				"ppl_in": 394,
+				"ppl_out": 297
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.43657890098406, 24.966995846091539],
+						[121.436580493718594, 24.967447254050668],
+						[121.437075692652684, 24.967445801322526],
+						[121.437074098111694, 24.966994393393186],
+						[121.43657890098406, 24.966995846091539]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 47,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304653.56637442589,
+				"geometry/coordinates/1": 2763994.1236793678,
+				"properties/FID CODE": 47,
+				"properties/NAME": "大坪林站",
+				"properties/LOC": "北新路與民權路交叉口",
+				"ppl_in": 789,
+				"ppl_out": 600
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.541117420289837, 24.982689033919598],
+						[121.541119395805268, 24.983140433868083],
+						[121.54161464982171, 24.98313863243628],
+						[121.541612672498431, 24.982687232524718],
+						[121.541117420289837, 24.982689033919598]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 48,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300986.79616858636,
+				"geometry/coordinates/1": 2765199.3151531052,
+				"properties/FID CODE": 48,
+				"properties/NAME": "景安站",
+				"properties/LOC": "景平路與景安路交口",
+				"ppl_in": 848,
+				"ppl_out": 700
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.50484220613113, 24.993697171297701],
+						[121.504844050140392, 24.994148573199094],
+						[121.505339351138971, 24.994146891781931],
+						[121.505337505320739, 24.993695489914991],
+						[121.50484220613113, 24.993697171297701]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 49,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297230.15198808431,
+				"geometry/coordinates/1": 2768406.228910902,
+				"properties/FID CODE": 49,
+				"properties/NAME": "新埔站",
+				"properties/LOC": "文化路與民生路交叉口",
+				"ppl_in": 1669,
+				"ppl_out": 1177
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.46773846318699, 25.022771026710476],
+						[121.467740173934686, 25.023222429339796],
+						[121.468235594283556, 25.02322086974652],
+						[121.468233881724018, 25.022769467149136],
+						[121.46773846318699, 25.022771026710476]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 50,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302807.25411112088,
+				"geometry/coordinates/1": 2770843.2446207674,
+				"properties/FID CODE": 50,
+				"properties/NAME": "善導寺站",
+				"properties/LOC": "忠孝東路與林森路交叉口",
+				"ppl_in": 1212,
+				"ppl_out": 1080
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.523091479581467, 25.044588182778266],
+						[121.523093394676081, 25.045039580294574],
+						[121.523588898491667, 25.045037834821137],
+						[121.523586981583179, 25.044586437340545],
+						[121.523091479581467, 25.044588182778266]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 51,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301543.85385524586,
+				"geometry/coordinates/1": 2769825.9834293663,
+				"properties/FID CODE": 51,
+				"properties/NAME": "小南門站",
+				"properties/LOC": "愛國西路與博愛路交叉口附近",
+				"ppl_in": 668,
+				"ppl_out": 467
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.510533096493091, 25.035447930492666],
+						[121.51053496483469, 25.035899329460715],
+						[121.511030432911426, 25.035897626451273],
+						[121.511028562756806, 25.035446227518079],
+						[121.510533096493091, 25.035447930492666]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 52,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302176.92608777934,
+				"geometry/coordinates/1": 2769673.4780921093,
+				"properties/FID CODE": 52,
+				"properties/NAME": "中正紀念堂",
+				"properties/LOC": "羅斯福路與愛國東路交叉口 (中央銀行前)",
+				"ppl_in": 516,
+				"ppl_out": 1103
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.516800643441755, 25.034049432578566],
+						[121.516802534599137, 25.034500831186854],
+						[121.517297996570193, 25.03449910737093],
+						[121.517296103599946, 25.034047708797925],
+						[121.516800643441755, 25.034049432578566]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 53,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302736.99411940778,
+				"geometry/coordinates/1": 2768857.212180166,
+				"properties/FID CODE": 53,
+				"properties/NAME": "古亭站",
+				"properties/LOC": "羅斯福路與和平東路交叉口",
+				"ppl_in": 1264,
+				"ppl_out": 1456
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.522319270010215, 25.026660806177926],
+						[121.522321180719459, 25.027112204838836],
+						[121.522816612585132, 25.027110463103945],
+						[121.522814700063734, 25.026659064478693],
+						[121.522319270010215, 25.026660806177926]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 54,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303774.86252284807,
+				"geometry/coordinates/1": 2770574.7358777355,
+				"properties/FID CODE": 54,
+				"properties/NAME": "忠孝新生站",
+				"properties/LOC": "忠孝東路與新生南路交叉口",
+				"ppl_in": 1234,
+				"ppl_out": 1766
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.532670037309359, 25.042130031017631],
+						[121.53267198725321, 25.042581427984828],
+						[121.5331674804236, 25.042579650727919],
+						[121.533165528666117, 25.042128253797092],
+						[121.532670037309359, 25.042130031017631]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 55,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302211.08872744208,
+				"geometry/coordinates/1": 2770998.2498106468,
+				"properties/FID CODE": 55,
+				"properties/NAME": "台北車站",
+				"properties/LOC": "台鐵火車站對面之忠孝西路地面下",
+				"ppl_in": 5280,
+				"ppl_out": 5551
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.517189323300059, 25.046008247235118],
+						[121.517191216909083, 25.046459645089215],
+						[121.517686726897566, 25.046457919209264],
+						[121.517684831474497, 25.046006521390478],
+						[121.517189323300059, 25.046008247235118]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 56,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301309.63445417845,
+				"geometry/coordinates/1": 2770549.4963619723,
+				"properties/FID CODE": 56,
+				"properties/NAME": "西門站",
+				"properties/LOC": "中華路與成都路交叉口",
+				"ppl_in": 2612,
+				"ppl_out": 2916
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.50823905653823, 25.041987745389132],
+						[121.508240917037995, 25.042439144121357],
+						[121.508736411565721, 25.042437448347492],
+						[121.508734549252338, 25.041986049649967],
+						[121.50823905653823, 25.041987745389132]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 57,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 312316.02943799237,
+				"geometry/coordinates/1": 2771963.6171417497,
+				"properties/FID CODE": 57,
+				"properties/NAME": "南港展覽館站",
+				"properties/LOC": "南港研究院路交叉口北側",
+				"ppl_in": 1683,
+				"ppl_out": 1657
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.617373595169724, 25.054341014541087],
+						[121.617375856431494, 25.05479240403848],
+						[121.617871391294813, 25.054790343372876],
+						[121.617869128218331, 25.054338953917632],
+						[121.617373595169724, 25.054341014541087]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 58,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 305294.56254260789,
+				"geometry/coordinates/1": 2774803.5490294979,
+				"properties/FID CODE": 58,
+				"properties/NAME": "大直站",
+				"properties/LOC": "北安路139巷口附近",
+				"ppl_in": 538,
+				"ppl_out": 432
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.547899733071688, 25.080252552503588],
+						[121.547901742242672, 25.08070394601706],
+						[121.548397387506128, 25.080702115377502],
+						[121.548395376517789, 25.08025072190145],
+						[121.547899733071688, 25.080252552503588]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 59,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 307216.89291487442,
+				"geometry/coordinates/1": 2774998.023572389,
+				"properties/FID CODE": 59,
+				"properties/NAME": "西湖站",
+				"properties/LOC": "內湖路一段西湖市場前",
+				"ppl_in": 642,
+				"ppl_out": 432
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.566963593399748, 25.081936665758182],
+						[121.566965672635547, 25.082388057701333],
+						[121.56746132306759, 25.082386163277988],
+						[121.567459242014351, 25.081934771373554],
+						[121.566963593399748, 25.081936665758182]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 60,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 308032.05026932713,
+				"geometry/coordinates/1": 2774761.4986227727,
+				"properties/FID CODE": 60,
+				"properties/NAME": "港墘站",
+				"properties/LOC": "內湖高工前",
+				"ppl_in": 455,
+				"ppl_out": 437
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.57503424407048, 25.079770268350416],
+						[121.575036352695463, 25.080221659788776],
+						[121.575531993705084, 25.080219738565908],
+						[121.57552988326286, 25.079768347166816],
+						[121.57503424407048, 25.079770268350416]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 61,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 309009.79335559509,
+				"geometry/coordinates/1": 2774603.7625254006,
+				"properties/FID CODE": 61,
+				"properties/NAME": "文德站",
+				"properties/LOC": "文德路101 巷口附近、內湖高中前",
+				"ppl_in": 181,
+				"ppl_out": 144
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.584719626752062, 25.07830838740297],
+						[121.584721770749354, 25.078759778154435],
+						[121.585217405020927, 25.078757824693309],
+						[121.585215259206535, 25.078306433981769],
+						[121.584719626752062, 25.07830838740297]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 62,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 309939.22874512849,
+				"geometry/coordinates/1": 2775158.6107168379,
+				"properties/FID CODE": 62,
+				"properties/NAME": "內湖站",
+				"properties/LOC": "金龍路與成功路交叉口附近",
+				"ppl_in": 429,
+				"ppl_out": 304
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.593956954735972, 25.083280862287779],
+						[121.593959133094529, 25.083732251984873],
+						[121.594454786561855, 25.083730267310688],
+						[121.594452606385744, 25.083278877654156],
+						[121.593956954735972, 25.083280862287779]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 63,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 310756.87818076665,
+				"geometry/coordinates/1": 2775195.8045474575,
+				"properties/FID CODE": 63,
+				"properties/NAME": "大湖公園站",
+				"properties/LOC": "成功路五段大湖公園旁",
+				"ppl_in": 126,
+				"ppl_out": 112
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.602063976464592, 25.083583977550603],
+						[121.602066184585269, 25.084035366559601],
+						[121.602561838537554, 25.084033354785873],
+						[121.602559628599309, 25.083581965817988],
+						[121.602063976464592, 25.083583977550603]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 64,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 311259.58787038643,
+				"geometry/coordinates/1": 2773966.3675113674,
+				"properties/FID CODE": 64,
+				"properties/NAME": "葫洲站",
+				"properties/LOC": "康寧路二段181巷口附近",
+				"ppl_in": 319,
+				"ppl_out": 236
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.606992629320388, 25.072464590059905],
+						[121.606994854392653, 25.072915979333509],
+						[121.607490463126993, 25.072913951936236],
+						[121.607488236238225, 25.072462562704079],
+						[121.606992629320388, 25.072464590059905]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 65,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 311715.69310254935,
+				"geometry/coordinates/1": 2773402.2470822651,
+				"properties/FID CODE": 65,
+				"properties/NAME": "東湖站",
+				"properties/LOC": "五分街加油站旁",
+				"ppl_in": 309,
+				"ppl_out": 189
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.611488318116912, 25.067353279169737],
+						[121.611490559148137, 25.067804668375743],
+						[121.611986146898104, 25.067802626357324],
+						[121.611983904050916, 25.067351237193069],
+						[121.611488318116912, 25.067353279169737]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 66,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 312145.00842157146,
+				"geometry/coordinates/1": 2772553.6039072634,
+				"properties/FID CODE": 66,
+				"properties/NAME": "南港軟體園區站",
+				"properties/LOC": "南港經貿園區內",
+				"ppl_in": 214,
+				"ppl_out": 210
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.615705275966462, 25.059674326771649],
+						[121.61570753166454, 25.060125716086997],
+						[121.616203088131158, 25.060123660579684],
+						[121.616200830617842, 25.059672271306372],
+						[121.615705275966462, 25.059674326771649]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 67,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 295315.06789533788,
+				"geometry/coordinates/1": 2764251.844303044,
+				"properties/FID CODE": 67,
+				"properties/NAME": "海山站",
+				"properties/LOC": "公館溝與裕民路口海山高工旁",
+				"ppl_in": 801,
+				"ppl_out": 438
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.448626831822665, 24.985323319725978],
+						[121.448628469876823, 24.985774725837278],
+						[121.449123741386472, 24.985773232020929],
+						[121.449122101524139, 24.985321825940247],
+						[121.448626831822665, 24.985323319725978]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 68,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304892.5954283817,
+				"geometry/coordinates/1": 2771679.9278445314,
+				"properties/FID CODE": 68,
+				"properties/NAME": "南京復興站",
+				"properties/LOC": "復興北路與南京東路交叉口(木柵線)",
+				"ppl_in": 1243,
+				"ppl_out": 1749
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.543790574479843, 25.05206748895101],
+						[121.54379256603093, 25.052518884487665],
+						[121.544288098234802, 25.052517069474213],
+						[121.544286104869144, 25.052065673974688],
+						[121.543790574479843, 25.05206748895101]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 69,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304406.5404917915,
+				"geometry/coordinates/1": 2766103.4094307856,
+				"properties/FID CODE": 69,
+				"properties/NAME": "萬隆站",
+				"properties/LOC": "羅斯福路與萬隆街交叉口附近",
+				"ppl_in": 440,
+				"ppl_out": 260
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.538753620418717, 25.001740522916073],
+						[121.538755589011586, 25.002191921885213],
+						[121.539250919569582, 25.002190127043527],
+						[121.539248949167003, 25.00173872811116],
+						[121.538753620418717, 25.001740522916073]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 70,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303931.07024129177,
+				"geometry/coordinates/1": 2767512.9347684104,
+				"properties/FID CODE": 70,
+				"properties/NAME": "公館站",
+				"properties/LOC": "羅斯福路與舟山路交叉口 (台灣大學旁",
+				"ppl_in": 1044,
+				"ppl_out": 1459
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.534098364958666, 25.01448267297679],
+						[121.534100317673904, 25.014934071517583],
+						[121.534595699717926, 25.014932291331657],
+						[121.534593745191742, 25.014480892827319],
+						[121.534098364958666, 25.01448267297679]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 71,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 298922.65746718663,
+				"geometry/coordinates/1": 2781089.5589744714,
+				"properties/FID CODE": 71,
+				"properties/NAME": "復興崗站",
+				"properties/LOC": "中央北路三段５３巷和原台鐵淡水線交叉口",
+				"ppl_in": 164,
+				"ppl_out": 116
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.484959304353097, 25.137221926302367],
+						[121.484961087328031, 25.13767332083815],
+						[121.485456967261641, 25.137671696964727],
+						[121.485455182463753, 25.13722030246208],
+						[121.484959304353097, 25.137221926302367]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 72,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304813.00262131827,
+				"geometry/coordinates/1": 2763127.3587223506,
+				"properties/FID CODE": 72,
+				"properties/NAME": "七張站",
+				"properties/LOC": "北新路與寶橋路交叉口",
+				"ppl_in": 628,
+				"ppl_out": 469
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.542662304728267, 24.974858128547396],
+						[121.542664285177054, 24.975309528855064],
+						[121.54315950770723, 24.975307722810779],
+						[121.543157525451335, 24.974856322540141],
+						[121.542662304728267, 24.974858128547396]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 73,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304653.62124918704,
+				"geometry/coordinates/1": 2762275.0954609858,
+				"properties/FID CODE": 73,
+				"properties/NAME": "新店區公所",
+				"properties/LOC": "北新路與中華路交叉口 (新店區公所前)",
+				"ppl_in": 668,
+				"ppl_out": 239
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.541050073505829, 24.967169630224411],
+						[121.541052047379381, 24.967621031118838],
+						[121.54154723926581, 24.967619230954625],
+						[121.541545263585903, 24.967167830097111],
+						[121.541050073505829, 24.967169630224411]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 74,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304285.36055915215,
+				"geometry/coordinates/1": 2761218.8297912502,
+				"properties/FID CODE": 74,
+				"properties/NAME": "新店站",
+				"properties/LOC": "北新路台汽客運總站",
+				"ppl_in": 408,
+				"ppl_out": 317
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.537361484676524, 24.957646840309742],
+						[121.537363444243056, 24.958098242056053],
+						[121.537858598329962, 24.958096454794422],
+						[121.537856636957997, 24.957645053084768],
+						[121.537361484676524, 24.957646840309742]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 75,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301400.31187067495,
+				"geometry/coordinates/1": 2764811.6850097501,
+				"properties/FID CODE": 75,
+				"properties/NAME": "南勢角站",
+				"properties/LOC": "台鐵中和貨運站",
+				"ppl_in": 669,
+				"ppl_out": 452
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.508924074298648, 24.990183677778713],
+						[121.508925932919766, 24.990635079607429],
+						[121.509421219524526, 24.990633384824488],
+						[121.509419359094764, 24.990181983030507],
+						[121.508924074298648, 24.990183677778713]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 76,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301592.3697215718,
+				"geometry/coordinates/1": 2766157.9228075333,
+				"properties/FID CODE": 76,
+				"properties/NAME": "永安市場站",
+				"properties/LOC": "永安市場附近",
+				"ppl_in": 924,
+				"ppl_out": 712
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.510876786458411, 25.002331029866049],
+						[121.510878653242884, 25.002782430820279],
+						[121.511373988387447, 25.002780728766783],
+						[121.511372119793151, 25.002329327847416],
+						[121.510876786458411, 25.002331029866049]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 77,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303792.02670187602,
+				"geometry/coordinates/1": 2772304.0143992389,
+				"properties/FID CODE": 77,
+				"properties/NAME": "行天宮站",
+				"properties/LOC": "民生東路與錦州街間之松江路下方",
+				"ppl_in": 1016,
+				"ppl_out": 1168
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.532907620216633, 25.05774122627075],
+						[121.532909572414979, 25.058192622271903],
+						[121.533405128321775, 25.058190843189475],
+						[121.533403174308262, 25.057739447224709],
+						[121.532907620216633, 25.05774122627075]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 78,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303235.89486566512,
+				"geometry/coordinates/1": 2772820.7753501446,
+				"properties/FID CODE": 78,
+				"properties/NAME": "中山國小站",
+				"properties/LOC": "林森北路與新生北路間之民權東路下方",
+				"ppl_in": 664,
+				"ppl_out": 598
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.527415718896222, 25.062426181848792],
+						[121.527417651388063, 25.062877577967381],
+						[121.527913226579983, 25.062875816903471],
+						[121.527911292272549, 25.0624244208209],
+						[121.527415718896222, 25.062426181848792]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 79,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300431.3489200102,
+				"geometry/coordinates/1": 2772842.5380818252,
+				"properties/FID CODE": 79,
+				"properties/NAME": "台北橋站",
+				"properties/LOC": "三重市重新路一、二段與文化南、北路交叉口兩側",
+				"ppl_in": 370,
+				"ppl_out": 319
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.499619276112469, 25.062718784697854],
+						[121.499621106782953, 25.063170182770339],
+						[121.500116685317835, 25.063168514455825],
+						[121.500114852831686, 25.062717116417456],
+						[121.499619276112469, 25.062718784697854]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 80,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 299551.93042589998,
+				"geometry/coordinates/1": 2772474.3046863903,
+				"properties/FID CODE": 80,
+				"properties/NAME": "菜寮站",
+				"properties/LOC": "三重市重新路三段，中正南路高架橋與光明路之間",
+				"ppl_in": 357,
+				"ppl_out": 247
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.490889636523903, 25.059423454555425],
+						[121.490891434939314, 25.059874853425402],
+						[121.491387000875307, 25.059873214446384],
+						[121.49138520064453, 25.059421815609927],
+						[121.490889636523903, 25.059423454555425]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 81,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 298827.93217635597,
+				"geometry/coordinates/1": 2772023.2192525929,
+				"properties/FID CODE": 81,
+				"properties/NAME": "三重站",
+				"properties/LOC": "三重市褔音街，重陽路一段與重新路四段交會口至河堤道",
+				"ppl_in": 218,
+				"ppl_out": 213
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.483697894861464, 25.055374606412464],
+						[121.483699666603897, 25.055826006012598],
+						[121.484195216789018, 25.055824391275859],
+						[121.484193443231604, 25.055372991708754],
+						[121.483697894861464, 25.055374606412464]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 82,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300183.62946640188,
+				"geometry/coordinates/1": 2773616.0519852354,
+				"properties/FID CODE": 82,
+				"properties/NAME": "三重國小站",
+				"properties/LOC": "三重市三重國小前之三和路三段",
+				"ppl_in": 418,
+				"ppl_out": 314
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.497192182325776, 25.069710278836556],
+						[121.497194004682086, 25.070161676651114],
+						[121.497689611530404, 25.070160016005186],
+						[121.497687787357748, 25.069708618224581],
+						[121.497192182325776, 25.069710278836556]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 83,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 299061.70752898697,
+				"geometry/coordinates/1": 2774373.2322357502,
+				"properties/FID CODE": 83,
+				"properties/NAME": "三和國中站",
+				"properties/LOC": "三重市三和國中前之三和路四段",
+				"ppl_in": 434,
+				"ppl_out": 271
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.486098552129192, 25.076582904004503],
+						[121.486100334381362, 25.077034302154569],
+						[121.486595969719346, 25.077032678127708],
+						[121.486594185650134, 25.076581280010842],
+						[121.486098552129192, 25.076582904004503]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 84,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 298381.12504917098,
+				"geometry/coordinates/1": 2774806.5570654655,
+				"properties/FID CODE": 84,
+				"properties/NAME": "徐匯中學站",
+				"properties/LOC": "蘆洲市集賢路與中山一路交叉口",
+				"ppl_in": 410,
+				"ppl_out": 323
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.479367390994184, 25.080516888171172],
+						[121.47936914888156, 25.080968286530837],
+						[121.479864800551354, 25.08096668474624],
+						[121.479863040846553, 25.080515286419313],
+						[121.479367390994184, 25.080516888171172]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 85,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297736.11156576173,
+				"geometry/coordinates/1": 2775350.2093225596,
+				"properties/FID CODE": 85,
+				"properties/NAME": "三民高中站",
+				"properties/LOC": "蘆洲市三民路與復興路口",
+				"ppl_in": 407,
+				"ppl_out": 245
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.472992231360436, 25.085445480622845],
+						[121.472993966258244, 25.085896879102073],
+						[121.473489638236643, 25.085895298318839],
+						[121.473487901520897, 25.085443899871912],
+						[121.472992231360436, 25.085445480622845]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 86,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296837.7614384573,
+				"geometry/coordinates/1": 2775999.8726265938,
+				"properties/FID CODE": 86,
+				"properties/NAME": "蘆洲站",
+				"properties/LOC": "蘆洲市三民路與中正路交會路口東北側",
+				"ppl_in": 489,
+				"ppl_out": 276
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.46410863802501, 25.091338745757948],
+						[121.464110340794804, 25.091790144453643],
+						[121.46460603714452, 25.091788593004384],
+						[121.464604332556235, 25.09133719434039],
+						[121.46410863802501, 25.091338745757948]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 87,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 293979.50314605678,
+				"geometry/coordinates/1": 2769477.8710340383,
+				"properties/FID CODE": 87,
+				"properties/NAME": "輔大站",
+				"properties/LOC": "新莊市中正路輔仁大學校園東側",
+				"ppl_in": 743,
+				"ppl_out": 392
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.435563892483174, 25.032543754286198],
+						[121.4355654862634, 25.032995158329392],
+						[121.436060948055797, 25.03299370542895],
+						[121.436059352462749, 25.032542301415493],
+						[121.435563892483174, 25.032543754286198]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 88,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297638.45889832883,
+				"geometry/coordinates/1": 2771014.0742835887,
+				"properties/FID CODE": 88,
+				"properties/NAME": "先嗇宮站",
+				"properties/LOC": "三重市重新路五段與光復路交會口",
+				"ppl_in": 136,
+				"ppl_out": 155
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.471874172925183, 25.046301957601788],
+						[121.471875900646708, 25.046753358533554],
+						[121.472371415215704, 25.046751783778774],
+						[121.472369685680064, 25.046300382879227],
+						[121.471874172925183, 25.046301957601788]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 89,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296581.7578257728,
+				"geometry/coordinates/1": 2770243.9786283765,
+				"properties/FID CODE": 89,
+				"properties/NAME": "頭前庄站",
+				"properties/LOC": "新莊市中正路近思源路口",
+				"ppl_in": 155,
+				"ppl_out": 140
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.461375971476627, 25.039382399521742],
+						[121.461377660229488, 25.039833801550543],
+						[121.461873147736028, 25.03983226220814],
+						[121.46187145716975, 25.039380860210837],
+						[121.461375971476627, 25.039382399521742]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 90,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 295643.90569926274,
+				"geometry/coordinates/1": 2769857.6268264763,
+				"properties/FID CODE": 90,
+				"properties/NAME": "新莊站",
+				"properties/LOC": "新莊市新莊國中前之中正路",
+				"ppl_in": 340,
+				"ppl_out": 262
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.452069332868518, 25.035922961130726],
+						[121.452070987297148, 25.036374363956806],
+						[121.452566461551001, 25.036372855842181],
+						[121.452564805309265, 25.035921453046971],
+						[121.452069332868518, 25.035922961130726]
+					]
+				]
+			}
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 92,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304046.77861251344,
+				"geometry/coordinates/1": 2762511.9188735238,
+				"properties/FID CODE": 92,
+				"properties/NAME": "小碧潭站",
+				"properties/LOC": "新店機場",
+				"ppl_in": 95,
+				"ppl_out": 179
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.535049266399128, 24.969329394706179],
+						[121.535051218573102, 24.969780795915696],
+						[121.535546419593089, 24.969779015563844],
+						[121.535544465612531, 24.969327614390835],
+						[121.535049266399128, 24.969329394706179]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 93,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 305654.12699541904,
+				"geometry/coordinates/1": 2772880.6530435462,
+				"properties/FID CODE": 93,
+				"properties/NAME": "松山機場站",
+				"properties/LOC": "松山機場(敦化北路340之9號)",
+				"ppl_in": 274,
+				"ppl_out": 305
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.551386313211594, 25.062879685202546],
+						[121.551388333572575, 25.063331079507559],
+						[121.551883908626905, 25.063329238413726],
+						[121.551881886450317, 25.06287784414636],
+						[121.551386313211594, 25.062879685202546]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 94,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301741.00436599011,
+				"geometry/coordinates/1": 2772845.0857090908,
+				"properties/FID CODE": 94,
+				"properties/NAME": "大橋頭站",
+				"properties/LOC": "民權西路大橋國小旁",
+				"ppl_in": 535,
+				"ppl_out": 435
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.512600052062908, 25.062697541419514],
+						[121.512601930293599, 25.063148938585805],
+						[121.513097507746153, 25.063147226950221],
+						[121.513095627699798, 25.062695829818932],
+						[121.512600052062908, 25.062697541419514]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 95,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303314.63207544218,
+				"geometry/coordinates/1": 2769639.4725048207,
+				"properties/FID CODE": 95,
+				"properties/NAME": "東門站",
+				"properties/LOC": "金山南路與永康街間之信義路下方(交會站)",
+				"ppl_in": 1013,
+				"ppl_out": 1280
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.528073077581013, 25.033702799728239],
+						[121.528075009956638, 25.034154197544087],
+						[121.528570469642077, 25.034152436170157],
+						[121.528568535453644, 25.033701038390358],
+						[121.528073077581013, 25.033702799728239]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 96,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306044.95113129064,
+				"geometry/coordinates/1": 2775296.3329538498,
+				"properties/FID CODE": 96,
+				"properties/NAME": "劍南路站",
+				"properties/LOC": "北安路821巷口附近",
+				"ppl_in": 288,
+				"ppl_out": 487
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.555358304357597, 25.084673687839988],
+						[121.555360341287582, 25.085125080516249],
+						[121.555856003730227, 25.085123224663349],
+						[121.555853964982489, 25.084671832025016],
+						[121.555358304357597, 25.084673687839988]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 97,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 291646.81860593689,
+				"geometry/coordinates/1": 2768335.0456112674,
+				"properties/FID CODE": 97,
+				"properties/NAME": "迴龍站",
+				"properties/LOC": "新莊市中正路與中山路交會口，省立樂生療養院前",
+				"ppl_in": 292,
+				"ppl_out": 282
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.412414328463953, 25.022292141430569],
+						[121.412415836835123, 25.022743547452077],
+						[121.412911258955262, 25.022742172251128],
+						[121.41290974877225, 25.022290766257772],
+						[121.412414328463953, 25.022292141430569]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 98,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 292657.49953498715,
+				"geometry/coordinates/1": 2769047.4951776364,
+				"properties/FID CODE": 98,
+				"properties/NAME": "丹鳳站",
+				"properties/LOC": "新莊市中正路與民安路交會口",
+				"ppl_in": 316,
+				"ppl_out": 197
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.422450576612249, 25.028696093321386],
+						[121.422452122139688, 25.029147498375337],
+						[121.42294756933417, 25.029146089392956],
+						[121.422946021994278, 25.028694684367849],
+						[121.422450576612249, 25.028696093321386]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 99,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306864.08806880878,
+				"geometry/coordinates/1": 2769548.7603840395,
+				"properties/FID CODE": 99,
+				"properties/NAME": "台北101/世貿站",
+				"properties/LOC": "信義路世貿中心旁",
+				"ppl_in": 671,
+				"ppl_out": 1348
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.563241338021783, 25.03275472059984],
+						[121.563243398995624, 25.03320611582253],
+						[121.563738851962256, 25.033204237270738],
+						[121.563736789175707, 25.032752842086495],
+						[121.563241338021783, 25.03275472059984]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 100,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304019.8223351264,
+				"geometry/coordinates/1": 2769598.7809667997,
+				"properties/FID CODE": 100,
+				"properties/NAME": "大安森林公園站",
+				"properties/LOC": "信義路三段大安森林公園內(建國南路與新生南路間,經濟",
+				"ppl_in": 301,
+				"ppl_out": 300
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.535059321159153, 25.033310444509912],
+						[121.535061279063811, 25.033761841836615],
+						[121.535556736610062, 25.03376005719792],
+						[121.535554776892596, 25.033308659907746],
+						[121.535059321159153, 25.033310444509912]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 101,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 305828.85721015418,
+				"geometry/coordinates/1": 2769563.3842495321,
+				"properties/FID CODE": 101,
+				"properties/NAME": "信義安和站",
+				"properties/LOC": "信義安和路口",
+				"ppl_in": 619,
+				"ppl_out": 770
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.552983792221397, 25.032925266509668],
+						[121.552985815678412, 25.03337666251279],
+						[121.55348127019839, 25.033374818144683],
+						[121.553479244928681, 25.032923422179312],
+						[121.552983792221397, 25.032925266509668]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 102,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 307588.37429785082,
+				"geometry/coordinates/1": 2769531.1738181589,
+				"properties/FID CODE": 102,
+				"properties/NAME": "象山站",
+				"properties/LOC": "松仁路與信義路五段91巷間",
+				"ppl_in": 295,
+				"ppl_out": 330
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.570417567956881, 25.032568578015645],
+						[121.57041965517098, 25.033019972687761],
+						[121.570915106772972, 25.033018070225925],
+						[121.570913017746221, 25.032566675592747],
+						[121.570417567956881, 25.032568578015645]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 104,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303783.81235838833,
+				"geometry/coordinates/1": 2771645.8549764245,
+				"properties/FID CODE": 104,
+				"properties/NAME": "松江南京站",
+				"properties/LOC": "松江路與南京東路交叉口(松山線)",
+				"ppl_in": 1194,
+				"ppl_out": 1421
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.532800518350626, 25.051799705105793],
+						[121.532802469629672, 25.052251101475896],
+						[121.533298001654529, 25.052249323143986],
+						[121.533296048560914, 25.051797926810263],
+						[121.532800518350626, 25.051799705105793]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 105,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 308293.42098659958,
+				"geometry/coordinates/1": 2771440.3029637854,
+				"properties/FID CODE": 105,
+				"properties/NAME": "松山站",
+				"properties/LOC": "臺鐵松山站前八德路4段下方",
+				"ppl_in": 690,
+				"ppl_out": 819
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.57748457540211, 25.04977697335967],
+						[121.577486690128183, 25.050228366426175],
+						[121.577982210258, 25.050226439171176],
+						[121.577980093717613, 25.049775046144095],
+						[121.57748457540211, 25.04977697335967]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 106,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 306947.07310528983,
+				"geometry/coordinates/1": 2771593.5303955181,
+				"properties/FID CODE": 106,
+				"properties/NAME": "南京三民站",
+				"properties/LOC": "南京東路5段與三民路口",
+				"ppl_in": 775,
+				"ppl_out": 891
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.564148086755779, 25.051211565110695],
+						[121.564150152780428, 25.051662959141591],
+						[121.564645679832282, 25.051661076273778],
+						[121.564643611993134, 25.051209682281403],
+						[121.564148086755779, 25.051211565110695]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 107,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 305696.43798006658,
+				"geometry/coordinates/1": 2771611.734321021,
+				"properties/FID CODE": 107,
+				"properties/NAME": "台北小巨蛋站",
+				"properties/LOC": "台北小巨蛋西北側\n臺北小巨蛋北側",
+				"ppl_in": 676,
+				"ppl_out": 812
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.551754380938206, 25.051422465248763],
+						[121.55175640159537, 25.051873860222027],
+						[121.552251930544244, 25.05187201868484],
+						[121.55224990807254, 25.051420623749241],
+						[121.551754380938206, 25.051422465248763]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 108,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 301487.39443316252,
+				"geometry/coordinates/1": 2771334.5766950762,
+				"properties/FID CODE": 108,
+				"properties/NAME": "北門站",
+				"properties/LOC": "塔城街\n塔城街",
+				"ppl_in": 460,
+				"ppl_out": 563
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.510029951111406, 25.049069389414559],
+						[121.510031818768041, 25.049520787590591],
+						[121.510527341618356, 25.049519085395755],
+						[121.510525472147378, 25.049067687254542],
+						[121.510029951111406, 25.049069389414559]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 109,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302506.90928645316,
+				"geometry/coordinates/1": 2771713.0103202793,
+				"properties/FID CODE": 109,
+				"properties/NAME": "中山站",
+				"properties/LOC": "原台鐵淡水線與南京西路交叉口(松山線)",
+				"ppl_in": 1307,
+				"ppl_out": 2515
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.520148180075068, 25.052450833986285],
+						[121.520150085075016, 25.052902231236938],
+						[121.520645620728331, 25.052900495071974],
+						[121.520643713913742, 25.052449097856833],
+						[121.520148180075068, 25.052450833986285]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 110,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296581.7578257728,
+				"geometry/coordinates/1": 2770243.9786283751,
+				"properties/FID CODE": 110,
+				"properties/NAME": "頭前庄站",
+				"properties/LOC": "位於新北市新莊區思源路、中正路路口，可與中和新蘆線",
+				"ppl_in": 155,
+				"ppl_out": 140
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.461375971476627, 25.039382399521728],
+						[121.461377660229488, 25.039833801550532],
+						[121.461873147736028, 25.039832262208126],
+						[121.46187145716975, 25.039380860210823],
+						[121.461375971476627, 25.039382399521728]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 112,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300986.79616858379,
+				"geometry/coordinates/1": 2765199.3151531043,
+				"properties/FID CODE": 112,
+				"properties/NAME": "景安站",
+				"properties/LOC": "位於新北市中和區景平路、景安路路口，可與中和新蘆線",
+				"ppl_in": 848,
+				"ppl_out": 600
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.504842206131102, 24.99369717129769],
+						[121.504844050140363, 24.994148573199084],
+						[121.505339351138957, 24.994146891781924],
+						[121.505337505320711, 24.99369548991498],
+						[121.504842206131102, 24.99369717129769]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 113,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302083.46618987346,
+				"geometry/coordinates/1": 2765009.1309296475,
+				"properties/FID CODE": 113,
+				"properties/NAME": "景平站",
+				"properties/LOC": "位於新北市中和區景平路123號，保警總隊前",
+				"ppl_in": 63,
+				"ppl_out": 50
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.515698626733808, 24.991942926629839],
+						[121.515700510246248, 24.992394327872422],
+						[121.516195803374387, 24.99239261042818],
+						[121.516193918053176, 24.991941209220794],
+						[121.515698626733808, 24.991942926629839]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 114,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 302909.26037918462,
+				"geometry/coordinates/1": 2764823.1659022341,
+				"properties/FID CODE": 114,
+				"properties/NAME": "秀朗橋站",
+				"properties/LOC": "位於新北市中和區景平路、秀朗路三段路口",
+				"ppl_in": 34,
+				"ppl_out": 50
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.523871678679143, 24.990235455928225],
+						[121.523873591892851, 24.99068685668755],
+						[121.524368877534513, 24.990685112149343],
+						[121.52436696251219, 24.99023371142577],
+						[121.523871678679143, 24.990235455928225]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 115,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 303372.50148204248,
+				"geometry/coordinates/1": 2764106.6181469662,
+				"properties/FID CODE": 115,
+				"properties/NAME": "十四張站",
+				"properties/LOC": "位於新北市新店區中正路、民權路路口西側十四張地區，",
+				"ppl_in": 71,
+				"ppl_out": 80
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.528432740298058, 24.983750228040034],
+						[121.528434669598724, 24.984201628861193],
+						[121.528929928894442, 24.984199869567703],
+						[121.528927997785814, 24.983748468782608],
+						[121.528432740298058, 24.983750228040034]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 116,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297732.53079674253,
+				"geometry/coordinates/1": 2767411.8145053824,
+				"properties/FID CODE": 116,
+				"properties/NAME": "板新站",
+				"properties/LOC": "位於新北市板橋區板新路、中山路路口",
+				"ppl_in": 39,
+				"ppl_out": 60
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.472681839575941, 25.013777657012781],
+						[121.472683567696336, 25.014229059866977],
+						[121.47317895160117, 25.014227484328099],
+						[121.473177221669815, 25.013776081506169],
+						[121.472681839575941, 25.013777657012781]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 117,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 298786.79863615934,
+				"geometry/coordinates/1": 2766807.0069830138,
+				"properties/FID CODE": 117,
+				"properties/NAME": "中原站",
+				"properties/LOC": "位於新北市中和區板南路、中正路路口附近，近板南2號?",
+				"ppl_in": 58,
+				"ppl_out": 30
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.483105776746626, 25.00828385676428],
+						[121.483107542534427, 25.008735259263798],
+						[121.483602903645021, 25.008733649328697],
+						[121.483601136046786, 25.008282246862159],
+						[121.483105776746626, 25.00828385676428]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 118,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 299481.99259654467,
+				"geometry/coordinates/1": 2766375.5134739485,
+				"properties/FID CODE": 118,
+				"properties/NAME": "橋和站",
+				"properties/LOC": "位於新北市中和區中山路、橋和路間之板南路上",
+				"ppl_in": 32,
+				"ppl_out": 50
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.48997773482165, 25.004365782754647],
+						[121.489979525407037, 25.004817185030081],
+						[121.49047487029695, 25.004815552445205],
+						[121.490473077901541, 25.004364150203216],
+						[121.48997773482165, 25.004365782754647]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 119,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 300152.1990931941,
+				"geometry/coordinates/1": 2766060.544810799,
+				"properties/FID CODE": 119,
+				"properties/NAME": "中和站",
+				"properties/LOC": "位於新北市中和區景平路、中山路二段路口，可與萬大-?",
+				"ppl_in": 99,
+				"ppl_out": 80
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.496605942816714, 25.001500213483023],
+						[121.496607757387082, 25.001951615480685],
+						[121.497103090290722, 25.001949960999418],
+						[121.49710127391063, 25.001498559035653],
+						[121.496605942816714, 25.001500213483023]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 120,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296404.09926714801,
+				"geometry/coordinates/1": 2771370.5731122051,
+				"properties/FID CODE": 120,
+				"properties/NAME": "幸福站",
+				"properties/LOC": "位於新北市新莊區思源路、幸福路路口",
+				"ppl_in": 50,
+				"ppl_out": 60
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.459653341145184, 25.049558792143415],
+						[121.459655024371457, 25.050010193663553],
+						[121.460150552894987, 25.050008659484334],
+						[121.460148867854272, 25.049557257995588],
+						[121.459653341145184, 25.049558792143415]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 121,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 296367.14701538213,
+				"geometry/coordinates/1": 2772621.8720871755,
+				"properties/FID CODE": 121,
+				"properties/NAME": "新北產業園區站",
+				"properties/LOC": "位於新北市新莊區五工路、中山路一段路口，可與臺灣桃",
+				"ppl_in": 37,
+				"ppl_out": 20
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.459329227620927, 25.060856682375544],
+						[121.45933091052423, 25.061308083229644],
+						[121.459826484500212, 25.061306549487078],
+						[121.45982479978133, 25.060855148664338],
+						[121.459329227620927, 25.060856682375544]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 122,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 304653.56637442589,
+				"geometry/coordinates/1": 2763994.123679366,
+				"properties/FID CODE": 122,
+				"properties/NAME": "大坪林站",
+				"properties/LOC": "位於新北市新店區民權路、北新路口，可與松山新店線交",
+				"ppl_in": 789,
+				"ppl_out": 600
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.541117420289837, 24.982689033919584],
+						[121.541119395805268, 24.983140433868066],
+						[121.54161464982171, 24.983138632436258],
+						[121.541612672498431, 24.9826872325247],
+						[121.541117420289837, 24.982689033919584]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Feature",
+				"id": 123,
+				"geometry/type": "Point",
+				"geometry/coordinates/0": 297230.15198808431,
+				"geometry/coordinates/1": 2768406.2289109011,
+				"properties/FID CODE": 123,
+				"properties/NAME": "新埔民生站",
+				"properties/LOC": "位於新北市板橋區民生路、文化路路口北側",
+				"ppl_in": 22,
+				"ppl_out": 10
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[121.46773846318699, 25.022771026710469],
+						[121.467740173934686, 25.023222429339789],
+						[121.468235594283556, 25.023220869746513],
+						[121.468233881724018, 25.022769467149129],
+						[121.46773846318699, 25.022771026710469]
+					]
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,2713 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392647",
+      "geometry": { "type": "Point", "coordinates": [121.5987, 25.0886] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0006",
+        "station_name": "大湖1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 15.61,
+        "ground_far": 3.7,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.598667,
+        "lat": 25.088639,
+        "district": "內湖區"
+      },
+      "bbox": [121.5987, 25.0886, 121.5987, 25.0886]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392648",
+      "geometry": { "type": "Point", "coordinates": [121.607, 25.0787] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0007",
+        "station_name": "大湖2(大湖公園)",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 13.92,
+        "ground_far": 2.88,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.606972,
+        "lat": 25.078686,
+        "district": "內湖區"
+      },
+      "bbox": [121.607, 25.0787, 121.607, 25.0787]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392649",
+      "geometry": { "type": "Point", "coordinates": [121.5834, 25.0802] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0008",
+        "station_name": "碧湖1(碧湖公園)",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 8.39,
+        "ground_far": 1.02,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.583388,
+        "lat": 25.080168,
+        "district": "內湖區"
+      },
+      "bbox": [121.5834, 25.0802, 121.5834, 25.0802]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392650",
+      "geometry": { "type": "Point", "coordinates": [121.5925, 25.0434] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0009",
+        "station_name": "南港3(南港公園)",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 10.14,
+        "ground_far": 3.12,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.592542,
+        "lat": 25.043417,
+        "district": "南港區"
+      },
+      "bbox": [121.5925, 25.0434, 121.5925, 25.0434]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392651",
+      "geometry": { "type": "Point", "coordinates": [121.6195, 25.0732] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0010",
+        "station_name": "康樂1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 5.49,
+        "ground_far": 5.84,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.619472,
+        "lat": 25.073222,
+        "district": "內湖區"
+      },
+      "bbox": [121.6195, 25.0732, 121.6195, 25.0732]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392652",
+      "geometry": { "type": "Point", "coordinates": [121.616, 25.0684] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0011",
+        "station_name": "康樂2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 6.3,
+        "ground_far": 3.53,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.616,
+        "lat": 25.068417,
+        "district": "內湖區"
+      },
+      "bbox": [121.616, 25.0684, 121.616, 25.0684]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392653",
+      "geometry": { "type": "Point", "coordinates": [121.5669, 24.9833] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0017",
+        "station_name": "木新1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 14.46,
+        "ground_far": 3.06,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.566861,
+        "lat": 24.983278,
+        "district": "文山區"
+      },
+      "bbox": [121.5669, 24.9833, 121.5669, 24.9833]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392654",
+      "geometry": { "type": "Point", "coordinates": [121.5626, 24.989] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0018",
+        "station_name": "中港1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 13.66,
+        "ground_far": 1.71,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.562583,
+        "lat": 24.988972,
+        "district": "文山區"
+      },
+      "bbox": [121.5626, 24.989, 121.5626, 24.989]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392655",
+      "geometry": { "type": "Point", "coordinates": [121.5552, 24.9875] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0019",
+        "station_name": "中港2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 12,
+        "ground_far": 2.15,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.555194,
+        "lat": 24.987528,
+        "district": "文山區"
+      },
+      "bbox": [121.5552, 24.9875, 121.5552, 24.9875]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392656",
+      "geometry": { "type": "Point", "coordinates": [121.5546, 24.9866] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0020",
+        "station_name": "中港3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 11.37,
+        "ground_far": 3.808,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.554556,
+        "lat": 24.986583,
+        "district": "文山區"
+      },
+      "bbox": [121.5546, 24.9866, 121.5546, 24.9866]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392657",
+      "geometry": { "type": "Point", "coordinates": [121.5585, 25.0309] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0023",
+        "station_name": "玉成3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.67,
+        "ground_far": 1.72,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.558528,
+        "lat": 25.030944,
+        "district": "信義區"
+      },
+      "bbox": [121.5585, 25.0309, 121.5585, 25.0309]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392658",
+      "geometry": { "type": "Point", "coordinates": [121.5655, 25.0429] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0024",
+        "station_name": "玉成4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.44,
+        "ground_far": 3.55,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.565472,
+        "lat": 25.042889,
+        "district": "信義區"
+      },
+      "bbox": [121.5655, 25.0429, 121.5655, 25.0429]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392659",
+      "geometry": { "type": "Point", "coordinates": [121.5684, 25.0345] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0025",
+        "station_name": "玉成5",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3.4,
+        "ground_far": 5.01,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.568389,
+        "lat": 25.0345,
+        "district": "信義區"
+      },
+      "bbox": [121.5684, 25.0345, 121.5684, 25.0345]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392660",
+      "geometry": { "type": "Point", "coordinates": [121.5807, 25.0405] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0026",
+        "station_name": "玉成6",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3.97,
+        "ground_far": 3.79,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.580722,
+        "lat": 25.040472,
+        "district": "信義區"
+      },
+      "bbox": [121.5807, 25.0405, 121.5807, 25.0405]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392661",
+      "geometry": { "type": "Point", "coordinates": [121.584, 25.0424] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0027",
+        "station_name": "玉成7",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 4.37,
+        "ground_far": 3.45,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.584028,
+        "lat": 25.042389,
+        "district": "信義區"
+      },
+      "bbox": [121.584, 25.0424, 121.584, 25.0424]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392662",
+      "geometry": { "type": "Point", "coordinates": [121.5678, 25.044] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0028",
+        "station_name": "玉成8",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.63,
+        "ground_far": 4.03,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.567798,
+        "lat": 25.043951,
+        "district": "信義區"
+      },
+      "bbox": [121.5678, 25.044, 121.5678, 25.044]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392663",
+      "geometry": { "type": "Point", "coordinates": [121.5805, 25.0468] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0029",
+        "station_name": "玉成9",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.98,
+        "ground_far": 5.39,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.580531,
+        "lat": 25.046824,
+        "district": "信義區"
+      },
+      "bbox": [121.5805, 25.0468, 121.5805, 25.0468]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392664",
+      "geometry": { "type": "Point", "coordinates": [121.5798, 25.0513] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0030",
+        "station_name": "玉成10",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.65,
+        "ground_far": 5.633,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.579795,
+        "lat": 25.051286,
+        "district": "松山區"
+      },
+      "bbox": [121.5798, 25.0513, 121.5798, 25.0513]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392665",
+      "geometry": { "type": "Point", "coordinates": [121.5727, 25.0231] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0032",
+        "station_name": "玉成12",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 13.92,
+        "ground_far": 3.01,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.572696,
+        "lat": 25.023076,
+        "district": "信義區"
+      },
+      "bbox": [121.5727, 25.0231, 121.5727, 25.0231]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392666",
+      "geometry": { "type": "Point", "coordinates": [121.5352, 25.1181] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0034",
+        "station_name": "福林2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 9.44,
+        "ground_far": 2.938,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.535167,
+        "lat": 25.118111,
+        "district": "士林區"
+      },
+      "bbox": [121.5352, 25.1181, 121.5352, 25.1181]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392667",
+      "geometry": { "type": "Point", "coordinates": [121.5391, 25.1183] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0035",
+        "station_name": "福林3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 25.65,
+        "ground_far": 1.99,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.539139,
+        "lat": 25.118306,
+        "district": "士林區"
+      },
+      "bbox": [121.5391, 25.1183, 121.5391, 25.1183]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392668",
+      "geometry": { "type": "Point", "coordinates": [121.5397, 25.116] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0036",
+        "station_name": "福林4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 14.73,
+        "ground_far": 1.901,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.539729,
+        "lat": 25.115999,
+        "district": "士林區"
+      },
+      "bbox": [121.5397, 25.116, 121.5397, 25.116]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392669",
+      "geometry": { "type": "Point", "coordinates": [121.5404, 25.1091] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0037",
+        "station_name": "福林5",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 13.88,
+        "ground_far": 1.64,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.540389,
+        "lat": 25.10913,
+        "district": "士林區"
+      },
+      "bbox": [121.5404, 25.1091, 121.5404, 25.1091]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392670",
+      "geometry": { "type": "Point", "coordinates": [121.5829, 25.0904] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0038",
+        "station_name": "陽港1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 17.55,
+        "ground_far": 1.87,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.582926,
+        "lat": 25.09041,
+        "district": "內湖區"
+      },
+      "bbox": [121.5829, 25.0904, 121.5829, 25.0904]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392671",
+      "geometry": { "type": "Point", "coordinates": [121.5878, 25.077] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0039",
+        "station_name": "陽港2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 4.1,
+        "ground_far": 4.18,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.587806,
+        "lat": 25.077028,
+        "district": "內湖區"
+      },
+      "bbox": [121.5878, 25.077, 121.5878, 25.077]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392672",
+      "geometry": { "type": "Point", "coordinates": [121.5778, 25.0732] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0040",
+        "station_name": "陽港3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.9,
+        "ground_far": 6.95,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.577846,
+        "lat": 25.073233,
+        "district": "內湖區"
+      },
+      "bbox": [121.5778, 25.0732, 121.5778, 25.0732]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392673",
+      "geometry": { "type": "Point", "coordinates": [121.5737, 25.0752] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0041",
+        "station_name": "陽港4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.94,
+        "ground_far": 4.44,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.573663,
+        "lat": 25.075228,
+        "district": "內湖區"
+      },
+      "bbox": [121.5737, 25.0752, 121.5737, 25.0752]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392674",
+      "geometry": { "type": "Point", "coordinates": [121.5383, 25.0682] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0042",
+        "station_name": "中山1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.38,
+        "ground_far": 3.41,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.538278,
+        "lat": 25.068222,
+        "district": "中山區"
+      },
+      "bbox": [121.5383, 25.0682, 121.5383, 25.0682]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392675",
+      "geometry": { "type": "Point", "coordinates": [121.5488, 25.0562] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0043",
+        "station_name": "中山2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.31,
+        "ground_far": 4.29,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.548833,
+        "lat": 25.056222,
+        "district": "松山區"
+      },
+      "bbox": [121.5488, 25.0562, 121.5488, 25.0562]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392676",
+      "geometry": { "type": "Point", "coordinates": [121.5512, 25.0542] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0044",
+        "station_name": "中山3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.55,
+        "ground_far": 3.21,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.551194,
+        "lat": 25.054222,
+        "district": "松山區"
+      },
+      "bbox": [121.5512, 25.0542, 121.5512, 25.0542]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392677",
+      "geometry": { "type": "Point", "coordinates": [121.544, 25.0482] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0046",
+        "station_name": "中山5",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 1.76,
+        "ground_far": 2.55,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.544,
+        "lat": 25.048222,
+        "district": "松山區"
+      },
+      "bbox": [121.544, 25.0482, 121.544, 25.0482]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392678",
+      "geometry": { "type": "Point", "coordinates": [121.5488, 25.0409] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0047",
+        "station_name": "中山6",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 2.03,
+        "ground_far": 3.46,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.548779,
+        "lat": 25.040944,
+        "district": "大安區"
+      },
+      "bbox": [121.5488, 25.0409, 121.5488, 25.0409]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392679",
+      "geometry": { "type": "Point", "coordinates": [121.5366, 25.051] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0050",
+        "station_name": "建國3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.12,
+        "ground_far": 4.76,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.536638,
+        "lat": 25.050968,
+        "district": "中山區"
+      },
+      "bbox": [121.5366, 25.051, 121.5366, 25.051]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392680",
+      "geometry": { "type": "Point", "coordinates": [121.5422, 25.05] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0051",
+        "station_name": "建國4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.93,
+        "ground_far": 2.72,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.542184,
+        "lat": 25.049969,
+        "district": "中山區"
+      },
+      "bbox": [121.5422, 25.05, 121.5422, 25.05]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392681",
+      "geometry": { "type": "Point", "coordinates": [121.5377, 25.0438] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0052",
+        "station_name": "建國5",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.24,
+        "ground_far": 5.51,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.537722,
+        "lat": 25.043806,
+        "district": "大安區"
+      },
+      "bbox": [121.5377, 25.0438, 121.5377, 25.0438]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392682",
+      "geometry": { "type": "Point", "coordinates": [121.5461, 25.0359] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0054",
+        "station_name": "建國7",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 4.96,
+        "ground_far": 1.86,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.546139,
+        "lat": 25.035917,
+        "district": "大安區"
+      },
+      "bbox": [121.5461, 25.0359, 121.5461, 25.0359]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392683",
+      "geometry": { "type": "Point", "coordinates": [121.5246, 25.0581] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0055",
+        "station_name": "新生1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.94,
+        "ground_far": 2.9,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.524633,
+        "lat": 25.058112,
+        "district": "中山區"
+      },
+      "bbox": [121.5246, 25.0581, 121.5246, 25.0581]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392684",
+      "geometry": { "type": "Point", "coordinates": [121.5255, 25.0549] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0056",
+        "station_name": "新生2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.65,
+        "ground_far": 2.97,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.525528,
+        "lat": 25.054917,
+        "district": "中山區"
+      },
+      "bbox": [121.5255, 25.0549, 121.5255, 25.0549]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392685",
+      "geometry": { "type": "Point", "coordinates": [121.5362, 25.0437] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0060",
+        "station_name": "新生6",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.37,
+        "ground_far": 4.76,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.536197,
+        "lat": 25.043654,
+        "district": "大安區"
+      },
+      "bbox": [121.5362, 25.0437, 121.5362, 25.0437]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392686",
+      "geometry": { "type": "Point", "coordinates": [121.5349, 25.027] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0062",
+        "station_name": "新生8",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3.35,
+        "ground_far": 3.32,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.534917,
+        "lat": 25.027,
+        "district": "大安區"
+      },
+      "bbox": [121.5349, 25.027, 121.5349, 25.027]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392687",
+      "geometry": { "type": "Point", "coordinates": [121.5345, 25.0223] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0064",
+        "station_name": "新生10",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 4.78,
+        "ground_far": 3.19,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.534528,
+        "lat": 25.022333,
+        "district": "大安區"
+      },
+      "bbox": [121.5345, 25.0223, 121.5345, 25.0223]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392688",
+      "geometry": { "type": "Point", "coordinates": [121.5029, 25.1225] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0066",
+        "station_name": "奇岩1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.73,
+        "ground_far": 2.57,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.502874,
+        "lat": 25.122497,
+        "district": "北投區"
+      },
+      "bbox": [121.5029, 25.1225, 121.5029, 25.1225]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392689",
+      "geometry": { "type": "Point", "coordinates": [121.5001, 25.1233] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0067",
+        "station_name": "大業東1",
+        "rec_time": "2023-06-01T16:22:00Z",
+        "level_out": 0.92,
+        "ground_far": 1.87,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.50007,
+        "lat": 25.123291,
+        "district": "北投區"
+      },
+      "bbox": [121.5001, 25.1233, 121.5001, 25.1233]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392690",
+      "geometry": { "type": "Point", "coordinates": [121.554, 25.0011] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0068",
+        "station_name": "興隆1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 10.94,
+        "ground_far": 1.76,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.553972,
+        "lat": 25.001139,
+        "district": "文山區"
+      },
+      "bbox": [121.554, 25.0011, 121.554, 25.0011]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392691",
+      "geometry": { "type": "Point", "coordinates": [121.5115, 25.0737] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0069",
+        "station_name": "迪化1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": -0.35,
+        "ground_far": 2,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.511472,
+        "lat": 25.073694,
+        "district": "大同區"
+      },
+      "bbox": [121.5115, 25.0737, 121.5115, 25.0737]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392692",
+      "geometry": { "type": "Point", "coordinates": [121.5013, 25.0352] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0072",
+        "station_name": "雙園1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.8,
+        "ground_far": 2.42,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.501333,
+        "lat": 25.035194,
+        "district": "萬華區"
+      },
+      "bbox": [121.5013, 25.0352, 121.5013, 25.0352]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392693",
+      "geometry": { "type": "Point", "coordinates": [121.5183, 25.0609] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0073",
+        "station_name": "圓山1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.22,
+        "ground_far": 2.34,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.518322,
+        "lat": 25.060918,
+        "district": "大同區"
+      },
+      "bbox": [121.5183, 25.0609, 121.5183, 25.0609]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392694",
+      "geometry": { "type": "Point", "coordinates": [121.5481, 25.0773] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0074",
+        "station_name": "大直1",
+        "rec_time": "2023-06-01T16:20:00Z",
+        "level_out": 0.45,
+        "ground_far": 3.72,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.548083,
+        "lat": 25.077306,
+        "district": "中山區"
+      },
+      "bbox": [121.5481, 25.0773, 121.5481, 25.0773]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392695",
+      "geometry": { "type": "Point", "coordinates": [121.5364, 25.0067] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0075",
+        "station_name": "景美1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 5.63,
+        "ground_far": 4.68,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.536415,
+        "lat": 25.006686,
+        "district": "文山區"
+      },
+      "bbox": [121.5364, 25.0067, 121.5364, 25.0067]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392696",
+      "geometry": { "type": "Point", "coordinates": [121.5262, 25.1117] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0076",
+        "station_name": "蘭興1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.34,
+        "ground_far": 2.415,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.526167,
+        "lat": 25.111722,
+        "district": "士林區"
+      },
+      "bbox": [121.5262, 25.1117, 121.5262, 25.1117]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392697",
+      "geometry": { "type": "Point", "coordinates": [121.5193, 25.1096] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0077",
+        "station_name": "東華1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.9,
+        "ground_far": 3.18,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.519278,
+        "lat": 25.109639,
+        "district": "北投區"
+      },
+      "bbox": [121.5193, 25.1096, 121.5193, 25.1096]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392698",
+      "geometry": { "type": "Point", "coordinates": [121.5209, 25.1106] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0078",
+        "station_name": "東華2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3,
+        "ground_far": 3.9,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.520944,
+        "lat": 25.110639,
+        "district": "北投區"
+      },
+      "bbox": [121.5209, 25.1106, 121.5209, 25.1106]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392699",
+      "geometry": { "type": "Point", "coordinates": [121.5021, 25.1201] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0079",
+        "station_name": "百齡1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.62,
+        "ground_far": 2.577,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.502111,
+        "lat": 25.120139,
+        "district": "北投區"
+      },
+      "bbox": [121.5021, 25.1201, 121.5021, 25.1201]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392700",
+      "geometry": { "type": "Point", "coordinates": [121.5066, 25.1186] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0080",
+        "station_name": "百齡2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.72,
+        "ground_far": 1.84,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.506583,
+        "lat": 25.118556,
+        "district": "北投區"
+      },
+      "bbox": [121.5066, 25.1186, 121.5066, 25.1186]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392701",
+      "geometry": { "type": "Point", "coordinates": [121.5123, 25.1141] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0081",
+        "station_name": "百齡4",
+        "rec_time": "2023-06-01T16:22:00Z",
+        "level_out": 2.89,
+        "ground_far": 2.52,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.512311,
+        "lat": 25.114142,
+        "district": "北投區"
+      },
+      "bbox": [121.5123, 25.1141, 121.5123, 25.1141]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392702",
+      "geometry": { "type": "Point", "coordinates": [121.5169, 25.1063] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0082",
+        "station_name": "百齡5",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.56,
+        "ground_far": 2.06,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.516889,
+        "lat": 25.106278,
+        "district": "北投區"
+      },
+      "bbox": [121.5169, 25.1063, 121.5169, 25.1063]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392703",
+      "geometry": { "type": "Point", "coordinates": [121.5247, 25.0603] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0087",
+        "station_name": "圓山4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.45,
+        "ground_far": 1.58,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.524694,
+        "lat": 25.060306,
+        "district": "中山區"
+      },
+      "bbox": [121.5247, 25.0603, 121.5247, 25.0603]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392704",
+      "geometry": { "type": "Point", "coordinates": [121.5147, 25.0595] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0088",
+        "station_name": "圓山5",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0,
+        "ground_far": 2.38,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.514739,
+        "lat": 25.059497,
+        "district": "大同區"
+      },
+      "bbox": [121.5147, 25.0595, 121.5147, 25.0595]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392705",
+      "geometry": { "type": "Point", "coordinates": [121.5038, 25.0252] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0091",
+        "station_name": "雙園2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.73,
+        "ground_far": 1.86,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.503778,
+        "lat": 25.025167,
+        "district": "萬華區"
+      },
+      "bbox": [121.5038, 25.0252, 121.5038, 25.0252]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392706",
+      "geometry": { "type": "Point", "coordinates": [121.5035, 25.0934] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0092",
+        "station_name": "社子2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0,
+        "ground_far": 1.85,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.503526,
+        "lat": 25.093425,
+        "district": "士林區"
+      },
+      "bbox": [121.5035, 25.0934, 121.5035, 25.0934]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392707",
+      "geometry": { "type": "Point", "coordinates": [121.531, 25.1046] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0093",
+        "station_name": "芝山1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.29,
+        "ground_far": 4.77,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.530972,
+        "lat": 25.104639,
+        "district": "士林區"
+      },
+      "bbox": [121.531, 25.1046, 121.531, 25.1046]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392708",
+      "geometry": { "type": "Point", "coordinates": [121.542, 25.0775] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0096",
+        "station_name": "大直2",
+        "rec_time": "2023-06-01T16:20:00Z",
+        "level_out": 1.19,
+        "ground_far": 2.66,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.541972,
+        "lat": 25.0775,
+        "district": "中山區"
+      },
+      "bbox": [121.542, 25.0775, 121.542, 25.0775]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392709",
+      "geometry": { "type": "Point", "coordinates": [121.5405, 24.9915] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0097",
+        "station_name": "景福1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 11.39,
+        "ground_far": 2.5,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.540528,
+        "lat": 24.991528,
+        "district": "文山區"
+      },
+      "bbox": [121.5405, 24.9915, 121.5405, 24.9915]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392710",
+      "geometry": { "type": "Point", "coordinates": [121.5101, 25.0839] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0099",
+        "station_name": "迪化2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.5,
+        "ground_far": 1.13,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.510111,
+        "lat": 25.083861,
+        "district": "士林區"
+      },
+      "bbox": [121.5101, 25.0839, 121.5101, 25.0839]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392711",
+      "geometry": { "type": "Point", "coordinates": [121.5252, 25.095] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0210",
+        "station_name": "士林3",
+        "rec_time": "2023-06-01T16:22:00Z",
+        "level_out": 1.25,
+        "ground_far": 1.73,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.52516,
+        "lat": 25.095015,
+        "district": "士林區"
+      },
+      "bbox": [121.5252, 25.095, 121.5252, 25.095]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392712",
+      "geometry": { "type": "Point", "coordinates": [121.5993, 25.0893] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0212",
+        "station_name": "大湖9",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 15.35,
+        "ground_far": 3.908,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.599315,
+        "lat": 25.089265,
+        "district": "內湖區"
+      },
+      "bbox": [121.5993, 25.0893, 121.5993, 25.0893]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392713",
+      "geometry": { "type": "Point", "coordinates": [121.5205, 25.0563] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0211",
+        "station_name": "民生1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.19,
+        "ground_far": 2.42,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.520515,
+        "lat": 25.056295,
+        "district": "大同區"
+      },
+      "bbox": [121.5205, 25.0563, 121.5205, 25.0563]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392714",
+      "geometry": null,
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0100",
+        "station_name": "貴陽1",
+        "rec_time": "2016-06-20T16:10:00Z",
+        "level_out": 556.36,
+        "ground_far": -551.301,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": null,
+        "lat": null,
+        "district": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392715",
+      "geometry": { "type": "Point", "coordinates": [121.5426, 25.0156] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0209",
+        "station_name": "新生11",
+        "rec_time": "2023-06-01T16:20:00Z",
+        "level_out": 7.58,
+        "ground_far": 1.59,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.542552,
+        "lat": 25.015635,
+        "district": "大安區"
+      },
+      "bbox": [121.5426, 25.0156, 121.5426, 25.0156]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392716",
+      "geometry": { "type": "Point", "coordinates": [121.5162, 25.0467] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0101",
+        "station_name": "忠孝1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 1.38,
+        "ground_far": 2.6,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.516172,
+        "lat": 25.046658,
+        "district": "中正區"
+      },
+      "bbox": [121.5162, 25.0467, 121.5162, 25.0467]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392717",
+      "geometry": { "type": "Point", "coordinates": [121.5172, 25.045] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0102",
+        "station_name": "忠孝2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.54,
+        "ground_far": 1.87,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.517154,
+        "lat": 25.045015,
+        "district": "中正區"
+      },
+      "bbox": [121.5172, 25.045, 121.5172, 25.045]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392718",
+      "geometry": { "type": "Point", "coordinates": [121.5351, 25.0652] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0104",
+        "station_name": "建國8",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.63,
+        "ground_far": 3.3,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.535111,
+        "lat": 25.065167,
+        "district": "中山區"
+      },
+      "bbox": [121.5351, 25.0652, 121.5351, 25.0652]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392719",
+      "geometry": { "type": "Point", "coordinates": [121.5462, 25.0414] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0106",
+        "station_name": "建國10",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.77,
+        "ground_far": 2.21,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.546222,
+        "lat": 25.041417,
+        "district": "大安區"
+      },
+      "bbox": [121.5462, 25.0414, 121.5462, 25.0414]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392720",
+      "geometry": { "type": "Point", "coordinates": [121.5598, 25.085] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0108",
+        "station_name": "北安1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.85,
+        "ground_far": 3.8,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.559833,
+        "lat": 25.085,
+        "district": "內湖區"
+      },
+      "bbox": [121.5598, 25.085, 121.5598, 25.085]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392721",
+      "geometry": { "type": "Point", "coordinates": [121.5248, 25.1063] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0111",
+        "station_name": "福林6",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3.2,
+        "ground_far": 2.11,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.524833,
+        "lat": 25.106333,
+        "district": "士林區"
+      },
+      "bbox": [121.5248, 25.1063, 121.5248, 25.1063]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392722",
+      "geometry": { "type": "Point", "coordinates": [121.5836, 25.0685] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0112",
+        "station_name": "民權1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 3.47,
+        "ground_far": 2.74,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.583611,
+        "lat": 25.0685,
+        "district": "內湖區"
+      },
+      "bbox": [121.5836, 25.0685, 121.5836, 25.0685]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392723",
+      "geometry": { "type": "Point", "coordinates": [121.5184, 25.0562] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0116",
+        "station_name": "錦州1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 0.11,
+        "ground_far": 2.25,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.518444,
+        "lat": 25.056222,
+        "district": "大同區"
+      },
+      "bbox": [121.5184, 25.0562, 121.5184, 25.0562]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392724",
+      "geometry": { "type": "Point", "coordinates": [121.5153, 25.1068] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0117",
+        "station_name": "百齡3",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 0.15,
+        "ground_far": 2.86,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.515307,
+        "lat": 25.106844,
+        "district": "北投區"
+      },
+      "bbox": [121.5153, 25.1068, 121.5153, 25.1068]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392725",
+      "geometry": { "type": "Point", "coordinates": [121.5935, 25.0464] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0118",
+        "station_name": "玉成13",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.79,
+        "ground_far": 2.29,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.5935,
+        "lat": 25.046417,
+        "district": "南港區"
+      },
+      "bbox": [121.5935, 25.0464, 121.5935, 25.0464]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392726",
+      "geometry": { "type": "Point", "coordinates": [121.5517, 25.0026] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0119",
+        "station_name": "興隆2",
+        "rec_time": "2023-06-01T16:20:00Z",
+        "level_out": 9.81,
+        "ground_far": 2.75,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.551722,
+        "lat": 25.002583,
+        "district": "文山區"
+      },
+      "bbox": [121.5517, 25.0026, 121.5517, 25.0026]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392727",
+      "geometry": { "type": "Point", "coordinates": [121.5551, 25.0008] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0120",
+        "station_name": "興隆3",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 11.23,
+        "ground_far": 2,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.555111,
+        "lat": 25.00075,
+        "district": "文山區"
+      },
+      "bbox": [121.5551, 25.0008, 121.5551, 25.0008]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392728",
+      "geometry": { "type": "Point", "coordinates": [121.5404, 25.0054] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0121",
+        "station_name": "興隆4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 8.01,
+        "ground_far": 2.53,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.540389,
+        "lat": 25.005389,
+        "district": "文山區"
+      },
+      "bbox": [121.5404, 25.0054, 121.5404, 25.0054]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392729",
+      "geometry": { "type": "Point", "coordinates": [121.6121, 25.0697] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0123",
+        "station_name": "大湖4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 6.01,
+        "ground_far": 5.56,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.612111,
+        "lat": 25.069694,
+        "district": "內湖區"
+      },
+      "bbox": [121.6121, 25.0697, 121.6121, 25.0697]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392730",
+      "geometry": { "type": "Point", "coordinates": [121.6069, 25.0728] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0124",
+        "station_name": "大湖3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.54,
+        "ground_far": 4.34,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.606861,
+        "lat": 25.072806,
+        "district": "內湖區"
+      },
+      "bbox": [121.6069, 25.0728, 121.6069, 25.0728]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392731",
+      "geometry": { "type": "Point", "coordinates": [121.5759, 25.0011] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0125",
+        "station_name": "萬芳1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 19.89,
+        "ground_far": 2.24,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.575917,
+        "lat": 25.001056,
+        "district": "文山區"
+      },
+      "bbox": [121.5759, 25.0011, 121.5759, 25.0011]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392732",
+      "geometry": { "type": "Point", "coordinates": [121.5622, 24.974] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0126",
+        "station_name": "老泉1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 19.36,
+        "ground_far": 1.37,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.562194,
+        "lat": 24.974028,
+        "district": "文山區"
+      },
+      "bbox": [121.5622, 24.974, 121.5622, 24.974]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392733",
+      "geometry": { "type": "Point", "coordinates": [121.5118, 25.1205] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0127",
+        "station_name": "東華3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 5.4,
+        "ground_far": 1.68,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.511785,
+        "lat": 25.120544,
+        "district": "北投區"
+      },
+      "bbox": [121.5118, 25.1205, 121.5118, 25.1205]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392734",
+      "geometry": { "type": "Point", "coordinates": [121.6005, 25.0882] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0130",
+        "station_name": "大湖8",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 14.92,
+        "ground_far": 4.3,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.6005,
+        "lat": 25.088194,
+        "district": "內湖區"
+      },
+      "bbox": [121.6005, 25.0882, 121.6005, 25.0882]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392735",
+      "geometry": { "type": "Point", "coordinates": [121.5984, 25.0897] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0132",
+        "station_name": "大湖6(親水河道)",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 16.19,
+        "ground_far": 10.61,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.598447,
+        "lat": 25.089662,
+        "district": "內湖區"
+      },
+      "bbox": [121.5984, 25.0897, 121.5984, 25.0897]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392736",
+      "geometry": { "type": "Point", "coordinates": [121.5965, 25.0904] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0133",
+        "station_name": "大湖7(溢流明渠)",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 23.43,
+        "ground_far": 3.03,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.596468,
+        "lat": 25.090376,
+        "district": "內湖區"
+      },
+      "bbox": [121.5965, 25.0904, 121.5965, 25.0904]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392737",
+      "geometry": { "type": "Point", "coordinates": [121.4921, 25.1218] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0135",
+        "station_name": "八仙1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.01,
+        "ground_far": 5.04,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.4921,
+        "lat": 25.121767,
+        "district": "北投區"
+      },
+      "bbox": [121.4921, 25.1218, 121.4921, 25.1218]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392738",
+      "geometry": { "type": "Point", "coordinates": [121.5984, 25.0893] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0161",
+        "station_name": "大湖5(豎井)",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 16.09,
+        "ground_far": 11.13,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.598404,
+        "lat": 25.089263,
+        "district": "內湖區"
+      },
+      "bbox": [121.5984, 25.0893, 121.5984, 25.0893]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392739",
+      "geometry": { "type": "Point", "coordinates": [121.5184, 25.0642] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0185",
+        "station_name": "圓山2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.51,
+        "ground_far": 2.78,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.518417,
+        "lat": 25.064194,
+        "district": "大同區"
+      },
+      "bbox": [121.5184, 25.0642, 121.5184, 25.0642]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392740",
+      "geometry": { "type": "Point", "coordinates": [121.5005, 25.1347] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0198",
+        "station_name": "磺港右2閘",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 6.24,
+        "ground_far": 3.02,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.500472,
+        "lat": 25.134722,
+        "district": "北投區"
+      },
+      "bbox": [121.5005, 25.1347, 121.5005, 25.1347]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392741",
+      "geometry": { "type": "Point", "coordinates": [121.5044, 25.1314] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0141",
+        "station_name": "磺港右4閘",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3.7,
+        "ground_far": 2.9,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.504361,
+        "lat": 25.131361,
+        "district": "北投區"
+      },
+      "bbox": [121.5044, 25.1314, 121.5044, 25.1314]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392742",
+      "geometry": { "type": "Point", "coordinates": [121.5018, 25.1237] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0142",
+        "station_name": "磺港右14閘",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 1.73,
+        "ground_far": 1.51,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.501819,
+        "lat": 25.12368,
+        "district": "北投區"
+      },
+      "bbox": [121.5018, 25.1237, 121.5018, 25.1237]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392743",
+      "geometry": { "type": "Point", "coordinates": [121.5245, 25.1002] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0145",
+        "station_name": "雙溪右4閘",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.6,
+        "ground_far": 2.985,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.524535,
+        "lat": 25.100202,
+        "district": "士林區"
+      },
+      "bbox": [121.5245, 25.1002, 121.5245, 25.1002]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392744",
+      "geometry": { "type": "Point", "coordinates": [121.5376, 24.9931] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0147",
+        "station_name": "景美1閘",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 9.05,
+        "ground_far": 3.154,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.537556,
+        "lat": 24.993083,
+        "district": "文山區"
+      },
+      "bbox": [121.5376, 24.9931, 121.5376, 24.9931]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392745",
+      "geometry": { "type": "Point", "coordinates": [121.5004, 25.1348] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0164",
+        "station_name": "磺港右2A",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 5.73,
+        "ground_far": 3.5,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.500417,
+        "lat": 25.134778,
+        "district": "北投區"
+      },
+      "bbox": [121.5004, 25.1348, 121.5004, 25.1348]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392746",
+      "geometry": { "type": "Point", "coordinates": [121.5018, 25.1237] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0165",
+        "station_name": "磺港右14A",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.76,
+        "ground_far": 3.75,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.501806,
+        "lat": 25.123667,
+        "district": "北投區"
+      },
+      "bbox": [121.5018, 25.1237, 121.5018, 25.1237]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392747",
+      "geometry": { "type": "Point", "coordinates": [121.5229, 25.1105] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0166",
+        "station_name": "磺溪左11A",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 4.91,
+        "ground_far": 2.07,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.522944,
+        "lat": 25.110472,
+        "district": "士林區"
+      },
+      "bbox": [121.5229, 25.1105, 121.5229, 25.1105]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392748",
+      "geometry": { "type": "Point", "coordinates": [121.5262, 25.1009] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0168",
+        "station_name": "雙溪右4A",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.46,
+        "ground_far": 3.13,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.526151,
+        "lat": 25.100919,
+        "district": "士林區"
+      },
+      "bbox": [121.5262, 25.1009, 121.5262, 25.1009]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392749",
+      "geometry": { "type": "Point", "coordinates": [121.5376, 24.9927] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0170",
+        "station_name": "景美1A",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 8.47,
+        "ground_far": 3.73,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.537572,
+        "lat": 24.992747,
+        "district": "文山區"
+      },
+      "bbox": [121.5376, 24.9927, 121.5376, 24.9927]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392750",
+      "geometry": { "type": "Point", "coordinates": [121.5673, 24.9855] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0171",
+        "station_name": "木新2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 11.25,
+        "ground_far": 5.79,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.56727,
+        "lat": 24.985522,
+        "district": "文山區"
+      },
+      "bbox": [121.5673, 24.9855, 121.5673, 24.9855]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392751",
+      "geometry": { "type": "Point", "coordinates": [121.5474, 24.987] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0172",
+        "station_name": "埤腹1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 12.51,
+        "ground_far": 2.95,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.547417,
+        "lat": 24.987028,
+        "district": "文山區"
+      },
+      "bbox": [121.5474, 24.987, 121.5474, 24.987]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392752",
+      "geometry": { "type": "Point", "coordinates": [121.5675, 25.0881] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0173",
+        "station_name": "北安2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 14.77,
+        "ground_far": 2.791,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.567451,
+        "lat": 25.088109,
+        "district": "內湖區"
+      },
+      "bbox": [121.5675, 25.0881, 121.5675, 25.0881]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392753",
+      "geometry": { "type": "Point", "coordinates": [121.5012, 25.0254] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0174",
+        "station_name": "雙園4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.78,
+        "ground_far": 2.1,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.501194,
+        "lat": 25.025417,
+        "district": "萬華區"
+      },
+      "bbox": [121.5012, 25.0254, 121.5012, 25.0254]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392754",
+      "geometry": { "type": "Point", "coordinates": [121.4948, 25.0316] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0197",
+        "station_name": "雙園5",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.74,
+        "ground_far": 1.66,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.494821,
+        "lat": 25.031581,
+        "district": "萬華區"
+      },
+      "bbox": [121.4948, 25.0316, 121.4948, 25.0316]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392755",
+      "geometry": { "type": "Point", "coordinates": [121.5081, 25.1264] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0189",
+        "station_name": "奇岩2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 5.66,
+        "ground_far": 1.94,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.508139,
+        "lat": 25.126444,
+        "district": "北投區"
+      },
+      "bbox": [121.5081, 25.1264, 121.5081, 25.1264]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392756",
+      "geometry": { "type": "Point", "coordinates": [121.521, 25.0602] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0190",
+        "station_name": "圓山6",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.39,
+        "ground_far": 1.56,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.521028,
+        "lat": 25.060222,
+        "district": "中山區"
+      },
+      "bbox": [121.521, 25.0602, 121.521, 25.0602]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392757",
+      "geometry": { "type": "Point", "coordinates": [121.5819, 25.0911] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0201",
+        "station_name": "陽港3滯洪池",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 19.31,
+        "ground_far": 6.19,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.581889,
+        "lat": 25.091061,
+        "district": "內湖區"
+      },
+      "bbox": [121.5819, 25.0911, 121.5819, 25.0911]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392758",
+      "geometry": { "type": "Point", "coordinates": [121.581, 25.0911] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0202",
+        "station_name": "陽港3進水口",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 21.05,
+        "ground_far": 4.45,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.581048,
+        "lat": 25.091092,
+        "district": "內湖區"
+      },
+      "bbox": [121.581, 25.0911, 121.581, 25.0911]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392759",
+      "geometry": { "type": "Point", "coordinates": [121.5879, 25.0894] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0203",
+        "station_name": "陽港5",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 16.2,
+        "ground_far": 3.83,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.587862,
+        "lat": 25.08938,
+        "district": "內湖區"
+      },
+      "bbox": [121.5879, 25.0894, 121.5879, 25.0894]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392760",
+      "geometry": { "type": "Point", "coordinates": [121.5771, 25.0051] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0204",
+        "station_name": "萬芳2",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 24.29,
+        "ground_far": 3.08,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.577125,
+        "lat": 25.005145,
+        "district": "文山區"
+      },
+      "bbox": [121.5771, 25.0051, 121.5771, 25.0051]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392761",
+      "geometry": { "type": "Point", "coordinates": [121.5492, 25.0171] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0206",
+        "station_name": "玉成14",
+        "rec_time": "2023-06-01T16:20:00Z",
+        "level_out": 9.32,
+        "ground_far": 1.62,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.549172,
+        "lat": 25.017099,
+        "district": "大安區"
+      },
+      "bbox": [121.5492, 25.0171, 121.5492, 25.0171]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392762",
+      "geometry": { "type": "Point", "coordinates": [121.5449, 25.0168] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0207",
+        "station_name": "建國12",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.72,
+        "ground_far": 1.47,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.54489,
+        "lat": 25.01683,
+        "district": "大安區"
+      },
+      "bbox": [121.5449, 25.0168, 121.5449, 25.0168]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392763",
+      "geometry": { "type": "Point", "coordinates": [121.5468, 25.0265] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0208",
+        "station_name": "建國11",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 5.57,
+        "ground_far": 1.63,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.546813,
+        "lat": 25.026454,
+        "district": "大安區"
+      },
+      "bbox": [121.5468, 25.0265, 121.5468, 25.0265]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392764",
+      "geometry": { "type": "Point", "coordinates": [121.5611, 25.0885] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0213",
+        "station_name": "北安4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 8.25,
+        "ground_far": 2.3,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.561092,
+        "lat": 25.088463,
+        "district": "內湖區"
+      },
+      "bbox": [121.5611, 25.0885, 121.5611, 25.0885]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392765",
+      "geometry": { "type": "Point", "coordinates": [121.5418, 25.0024] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0215",
+        "station_name": "興隆6",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.15,
+        "ground_far": 4.75,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.541806,
+        "lat": 25.002418,
+        "district": "文山區"
+      },
+      "bbox": [121.5418, 25.0024, 121.5418, 25.0024]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392766",
+      "geometry": { "type": "Point", "coordinates": [121.5558, 25.0027] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0216",
+        "station_name": "興隆7",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 11.61,
+        "ground_far": 3.79,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.5558,
+        "lat": 25.0027,
+        "district": "文山區"
+      },
+      "bbox": [121.5558, 25.0027, 121.5558, 25.0027]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392767",
+      "geometry": { "type": "Point", "coordinates": [121.5501, 25.062] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0217",
+        "station_name": "中山7",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -1.05,
+        "ground_far": 5.15,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.550082,
+        "lat": 25.062001,
+        "district": "松山區"
+      },
+      "bbox": [121.5501, 25.062, 121.5501, 25.062]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392768",
+      "geometry": { "type": "Point", "coordinates": [121.5504, 25.0621] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0218",
+        "station_name": "中山8",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.82,
+        "ground_far": 4.92,
+        "voltage": "13.24",
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.550415,
+        "lat": 25.062077,
+        "district": "松山區"
+      },
+      "bbox": [121.5504, 25.0621, 121.5504, 25.0621]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392769",
+      "geometry": { "type": "Point", "coordinates": [121.4976, 25.1425] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0220",
+        "station_name": "大業1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 15.95,
+        "ground_far": 2.21,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.497624,
+        "lat": 25.142524,
+        "district": "北投區"
+      },
+      "bbox": [121.4976, 25.1425, 121.4976, 25.1425]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392770",
+      "geometry": { "type": "Point", "coordinates": [121.5074, 25.1145] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0221",
+        "station_name": "百齡6",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.97,
+        "ground_far": 2.27,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.507388,
+        "lat": 25.114459,
+        "district": "北投區"
+      },
+      "bbox": [121.5074, 25.1145, 121.5074, 25.1145]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392771",
+      "geometry": { "type": "Point", "coordinates": [121.482, 25.1059] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0222",
+        "station_name": "社子3",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 0.27,
+        "ground_far": 1.39,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.481993,
+        "lat": 25.1059,
+        "district": "士林區"
+      },
+      "bbox": [121.482, 25.1059, 121.482, 25.1059]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392772",
+      "geometry": { "type": "Point", "coordinates": [121.5753, 25.08] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0223",
+        "station_name": "環山1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 3.35,
+        "ground_far": 2.97,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.575279,
+        "lat": 25.07995,
+        "district": "內湖區"
+      },
+      "bbox": [121.5753, 25.08, 121.5753, 25.08]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392773",
+      "geometry": { "type": "Point", "coordinates": [121.5305, 25.042] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0227",
+        "station_name": "林森1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.92,
+        "ground_far": 2.56,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.530485,
+        "lat": 25.041995,
+        "district": "中正區"
+      },
+      "bbox": [121.5305, 25.042, 121.5305, 25.042]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392774",
+      "geometry": { "type": "Point", "coordinates": [121.5318, 25.0248] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0228",
+        "station_name": "新生12",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 5.51,
+        "ground_far": 2.37,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.531827,
+        "lat": 25.024816,
+        "district": "大安區"
+      },
+      "bbox": [121.5318, 25.0248, 121.5318, 25.0248]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392775",
+      "geometry": { "type": "Point", "coordinates": [121.5496, 25.0398] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0229",
+        "station_name": "建國15",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 2.6,
+        "ground_far": 2.5,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.549639,
+        "lat": 25.039766,
+        "district": "大安區"
+      },
+      "bbox": [121.5496, 25.0398, 121.5496, 25.0398]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392776",
+      "geometry": { "type": "Point", "coordinates": [121.5285, 25.0494] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0225",
+        "station_name": "長安1",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": -0.84,
+        "ground_far": 3.92,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.528459,
+        "lat": 25.049439,
+        "district": "中山區"
+      },
+      "bbox": [121.5285, 25.0494, 121.5285, 25.0494]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392777",
+      "geometry": { "type": "Point", "coordinates": [121.5326, 25.0149] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0226",
+        "station_name": "古亭1",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 7.45,
+        "ground_far": 2.45,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.532581,
+        "lat": 25.014864,
+        "district": "中正區"
+      },
+      "bbox": [121.5326, 25.0149, 121.5326, 25.0149]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392778",
+      "geometry": { "type": "Point", "coordinates": [121.5371, 25.0618] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0230",
+        "station_name": "建國13",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": -0.68,
+        "ground_far": 4.62,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.537111,
+        "lat": 25.061841,
+        "district": "中山區"
+      },
+      "bbox": [121.5371, 25.0618, 121.5371, 25.0618]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392779",
+      "geometry": { "type": "Point", "coordinates": [121.5294, 25.0941] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0232",
+        "station_name": "士林4",
+        "rec_time": "2023-06-01T16:23:00Z",
+        "level_out": 1.61,
+        "ground_far": 2.21,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.529351,
+        "lat": 25.09405,
+        "district": "士林區"
+      },
+      "bbox": [121.5294, 25.0941, 121.5294, 25.0941]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392780",
+      "geometry": { "type": "Point", "coordinates": [121.5436, 25.0343] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0231",
+        "station_name": "建國14",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 3.27,
+        "ground_far": 3.66,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.543571,
+        "lat": 25.03428,
+        "district": "大安區"
+      },
+      "bbox": [121.5436, 25.0343, 121.5436, 25.0343]
+    },
+    {
+      "type": "Feature",
+      "id": "patrol_rain_sewer.6392781",
+      "geometry": { "type": "Point", "coordinates": [121.5743, 25.0818] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "station_no": "U0224",
+        "station_name": "陽港6",
+        "rec_time": "2023-06-01T16:25:00Z",
+        "level_out": 3.3,
+        "ground_far": 2.84,
+        "voltage": null,
+        "_ctime": "2023-06-01T08:30:15.698Z",
+        "_mtime": "2023-06-01T08:30:15.698Z",
+        "lng": 121.574321,
+        "lat": 25.08184,
+        "district": "內湖區"
+      },
+      "bbox": [121.5743, 25.0818, 121.5743, 25.0818]
+    }
+  ],
+  "totalFeatures": 135,
+  "numberMatched": 135,
+  "numberReturned": 135,
+  "timeStamp": "2023-06-01T08:38:52.170Z",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::4326" }
+  },
+  "bbox": [121.4813, 24.9732, 121.6202, 25.1434]
+}
