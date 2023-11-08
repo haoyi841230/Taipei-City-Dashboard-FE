@@ -1,0 +1,6020 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4997915, 25.0922801]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路六段434號"
+			},
+			"bbox": [121.4997915, 25.0922801, 121.4997915, 25.0922801]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.530776, 25.0959881]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中正路17號"
+			},
+			"bbox": [121.530776, 25.0959881, 121.530776, 25.0959881]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5214658, 25.0992248]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區文林路615巷20號地下"
+			},
+			"bbox": [121.5214658, 25.0992248, 121.5214658, 25.0992248]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5020712, 25.0904715]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路6段308號地下"
+			},
+			"bbox": [121.5020712, 25.0904715, 121.5020712, 25.0904715]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5225283, 25.0898396]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區基河路150號"
+			},
+			"bbox": [121.5225283, 25.0898396, 121.5225283, 25.0898396]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5200235, 25.1031923]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區文林路752號"
+			},
+			"bbox": [121.5200235, 25.1031923, 121.5200235, 25.1031923]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5103362, 25.0814606]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路5段111號"
+			},
+			"bbox": [121.5103362, 25.0814606, 121.5103362, 25.0814606]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4815967, 25.1058434]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路8段175號"
+			},
+			"bbox": [121.4815967, 25.1058434, 121.4815967, 25.1058434]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5016769, 25.0910935]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區社中街462號"
+			},
+			"bbox": [121.5016769, 25.0910935, 121.5016769, 25.0910935]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.532029, 25.1088852]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區德行東路206號"
+			},
+			"bbox": [121.532029, 25.1088852, 121.532029, 25.1088852]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4944236, 25.0966491]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "里辦公室",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路7段107巷10號"
+			},
+			"bbox": [121.4944236, 25.0966491, 121.4944236, 25.0966491]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5288601, 25.1036617]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "里辦公室",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區雨聲街68號"
+			},
+			"bbox": [121.5288601, 25.1036617, 121.5288601, 25.1036617]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5250016, 25.0842438]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中山北路5段65號"
+			},
+			"bbox": [121.5250016, 25.0842438, 121.5250016, 25.0842438]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.522514, 25.1030599]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區福國路70號"
+			},
+			"bbox": [121.522514, 25.1030599, 121.522514, 25.1030599]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5180051, 25.0919088]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中正路臨707-1號(重陽橋下)"
+			},
+			"bbox": [121.5180051, 25.0919088, 121.5180051, 25.0919088]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5465596, 25.1370671]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區格致路34號"
+			},
+			"bbox": [121.5465596, 25.1370671, 121.5465596, 25.1370671]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5356426, 25.1128919]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區士東路250號"
+			},
+			"bbox": [121.5356426, 25.1128919, 121.5356426, 25.1128919]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.518757, 25.0887668]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區大南路295號"
+			},
+			"bbox": [121.518757, 25.0887668, 121.518757, 25.0887668]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5260607, 25.1170619]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中山北路6段405巷79號1樓"
+			},
+			"bbox": [121.5260607, 25.1170619, 121.5260607, 25.1170619]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5260073, 25.1171862]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中山北路6段405巷83號"
+			},
+			"bbox": [121.5260073, 25.1171862, 121.5260073, 25.1171862]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5208035, 25.093658]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中正路411、413號"
+			},
+			"bbox": [121.5208035, 25.093658, 121.5208035, 25.093658]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5097801, 25.0865496]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區中正路605號"
+			},
+			"bbox": [121.5097801, 25.0865496, 121.5097801, 25.0865496]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5303147, 25.1143251]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區天母東路8巷99號"
+			},
+			"bbox": [121.5303147, 25.1143251, 121.5303147, 25.1143251]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5262043, 25.092191]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區文林路314號"
+			},
+			"bbox": [121.5262043, 25.092191, 121.5262043, 25.092191]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5224075, 25.1007335]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區文林路663號"
+			},
+			"bbox": [121.5224075, 25.1007335, 121.5224075, 25.1007335]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51972, 25.103607]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區文林路764號"
+			},
+			"bbox": [121.51972, 25.103607, 121.51972, 25.103607]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5372188, 25.1010597]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區至誠路1段2-6號"
+			},
+			"bbox": [121.5372188, 25.1010597, 121.5372188, 25.1010597]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5102655, 25.0820185]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路5段129號"
+			},
+			"bbox": [121.5102655, 25.0820185, 121.5102655, 25.0820185]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5113021, 25.0795003]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路5段14號"
+			},
+			"bbox": [121.5113021, 25.0795003, 121.5113021, 25.0795003]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5100855, 25.0840577]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路5段220號"
+			},
+			"bbox": [121.5100855, 25.0840577, 121.5100855, 25.0840577]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5108202, 25.0799134]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路5段41號1樓"
+			},
+			"bbox": [121.5108202, 25.0799134, 121.5108202, 25.0799134]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5077299, 25.0890642]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路6段139號"
+			},
+			"bbox": [121.5077299, 25.0890642, 121.5077299, 25.0890642]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5075453, 25.0892336]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區延平北路6段149號"
+			},
+			"bbox": [121.5075453, 25.0892336, 121.5075453, 25.0892336]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547422, 25.096635]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區故宮路41巷1號"
+			},
+			"bbox": [121.547422, 25.096635, 121.547422, 25.096635]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5113414, 25.0863432]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區重慶北路4段232號"
+			},
+			"bbox": [121.5113414, 25.0863432, 121.5113414, 25.0863432]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510921, 25.0858362]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區重慶北路4段244號"
+			},
+			"bbox": [121.510921, 25.0858362, 121.510921, 25.0858362]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5160129, 25.0865885]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區通河東街1段198號1樓"
+			},
+			"bbox": [121.5160129, 25.0865885, 121.5160129, 25.0865885]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5198848, 25.0814403]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區通河街169號"
+			},
+			"bbox": [121.5198848, 25.0814403, 121.5198848, 25.0814403]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5427704, 25.1379829]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區華岡路31之3號1樓"
+			},
+			"bbox": [121.5427704, 25.1379829, 121.5427704, 25.1379829]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5192849, 25.0847437]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區華齡街71號"
+			},
+			"bbox": [121.5192849, 25.0847437, 121.5192849, 25.0847437]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.525865, 25.1069358]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "士林區",
+				"裝設位置": "臺北市士林區德行東路23號"
+			},
+			"bbox": [121.525865, 25.1069358, 121.525865, 25.1069358]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5119309, 25.0744316]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區延平北路4段205號"
+			},
+			"bbox": [121.5119309, 25.0744316, 121.5119309, 25.0744316]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5184286, 25.0540267]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路2段31號"
+			},
+			"bbox": [121.5184286, 25.0540267, 121.5184286, 25.0540267]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196574, 25.0504086]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區長安西路37號之一"
+			},
+			"bbox": [121.5196574, 25.0504086, 121.5196574, 25.0504086]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5166925, 25.073409]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區哈密街47號"
+			},
+			"bbox": [121.5166925, 25.073409, 121.5166925, 25.073409]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5157097, 25.0563873]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區寧夏路35號"
+			},
+			"bbox": [121.5157097, 25.0563873, 121.5157097, 25.0563873]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5158369, 25.0697324]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區大龍街230號"
+			},
+			"bbox": [121.5158369, 25.0697324, 121.5158369, 25.0697324]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5197187, 25.0747215]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路3段312號"
+			},
+			"bbox": [121.5197187, 25.0747215, 121.5197187, 25.0747215]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5178355, 25.072039]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區庫倫街31號"
+			},
+			"bbox": [121.5178355, 25.072039, 121.5178355, 25.072039]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5141461, 25.0628026]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區民權西路194之1號"
+			},
+			"bbox": [121.5141461, 25.0628026, 121.5141461, 25.0628026]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5188136, 25.0777125]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路3段303之1號(承德橋下)"
+			},
+			"bbox": [121.5188136, 25.0777125, 121.5188136, 25.0777125]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5116535, 25.0767375]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區敦煌路151之1號"
+			},
+			"bbox": [121.5116535, 25.0767375, 121.5116535, 25.0767375]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5115991, 25.0498653]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區鄭州路臨50號"
+			},
+			"bbox": [121.5115991, 25.0498653, 121.5115991, 25.0498653]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5086512, 25.0779224]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區環河北路1段臨63-1號"
+			},
+			"bbox": [121.5086512, 25.0779224, 121.5086512, 25.0779224]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5086811, 25.0525532]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區西寧北路17-4號"
+			},
+			"bbox": [121.5086811, 25.0525532, 121.5086811, 25.0525532]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5091453, 25.0566321]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區西寧北路93號"
+			},
+			"bbox": [121.5091453, 25.0566321, 121.5091453, 25.0566321]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.477736, 25.1058398]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區延平北路1段24號"
+			},
+			"bbox": [121.477736, 25.1058398, 121.477736, 25.1058398]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51128, 25.060364]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區延平北路2段256號"
+			},
+			"bbox": [121.51128, 25.060364, 121.51128, 25.060364]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511122, 25.066278]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區延平北路3段67-1號"
+			},
+			"bbox": [121.511122, 25.066278, 121.511122, 25.066278]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.518185, 25.06945]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路1段47號"
+			},
+			"bbox": [121.518185, 25.06945, 121.518185, 25.06945]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51838, 25.057998]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路2段149號"
+			},
+			"bbox": [121.51838, 25.057998, 121.51838, 25.057998]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5181778, 25.068759]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路3段160號"
+			},
+			"bbox": [121.5181778, 25.068759, 121.5181778, 25.068759]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5182034, 25.0687669]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區承德路3段162號"
+			},
+			"bbox": [121.5182034, 25.0687669, 121.5182034, 25.0687669]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51304, 25.051976]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區長安西路199號"
+			},
+			"bbox": [121.51304, 25.051976, 121.51304, 25.051976]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5153033, 25.0741838]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區哈密街63巷1號"
+			},
+			"bbox": [121.5153033, 25.0741838, 121.5153033, 25.0741838]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5147933, 25.0730897]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區哈密街83號"
+			},
+			"bbox": [121.5147933, 25.0730897, 121.5147933, 25.0730897]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5143858, 25.0550974]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區重慶北路2段39號"
+			},
+			"bbox": [121.5143858, 25.0550974, 121.5143858, 25.0550974]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5145879, 25.0605169]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區寧夏路127號"
+			},
+			"bbox": [121.5145879, 25.0605169, 121.5145879, 25.0605169]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5158402, 25.0600583]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區錦西街53巷2號"
+			},
+			"bbox": [121.5158402, 25.0600583, 121.5158402, 25.0600583]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196988, 25.0601986]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區錦西街56號"
+			},
+			"bbox": [121.5196988, 25.0601986, 121.5196988, 25.0601986]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5086512, 25.0779224]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大同區",
+				"裝設位置": "臺北市大同區環河北路1段335號"
+			},
+			"bbox": [121.5086512, 25.0779224, 121.5086512, 25.0779224]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5382271, 25.0237532]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區建國南路2段269號地下停車場"
+			},
+			"bbox": [121.5382271, 25.0237532, 121.5382271, 25.0237532]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5362253, 25.0326001]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區建國南路2段2號"
+			},
+			"bbox": [121.5362253, 25.0326001, 121.5362253, 25.0326001]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55835, 25.0318217]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區嘉興街373號"
+			},
+			"bbox": [121.55835, 25.0318217, 121.55835, 25.0318217]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5344209, 25.0341151]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區和平東路3段228巷88號"
+			},
+			"bbox": [121.5344209, 25.0341151, 121.5344209, 25.0341151]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5561353, 25.0238026]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區富陽街2號"
+			},
+			"bbox": [121.5561353, 25.0238026, 121.5561353, 25.0238026]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5433783, 25.0249441]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區和平東路3段410號"
+			},
+			"bbox": [121.5433783, 25.0249441, 121.5433783, 25.0249441]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5546312, 25.0005937]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區辛亥路1段臨138號"
+			},
+			"bbox": [121.5546312, 25.0005937, 121.5546312, 25.0005937]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5546312, 25.0005937]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區辛亥路1段臨143號"
+			},
+			"bbox": [121.5546312, 25.0005937, 121.5546312, 25.0005937]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544007, 25.0418168]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區忠孝東路3段31號(建國北路橋孔下)"
+			},
+			"bbox": [121.544007, 25.0418168, 121.544007, 25.0418168]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5372832, 25.0228567]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區建國南路1段臨173號(近濟南路3段)"
+			},
+			"bbox": [121.5372832, 25.0228567, 121.5372832, 25.0228567]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5372832, 25.0228567]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區建國南路2段臨263號"
+			},
+			"bbox": [121.5372832, 25.0228567, 121.5372832, 25.0228567]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5456535, 25.018168]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區基隆路3段臨24號"
+			},
+			"bbox": [121.5456535, 25.018168, 121.5456535, 25.018168]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.534073, 25.0448781]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區八德路2段35號"
+			},
+			"bbox": [121.534073, 25.0448781, 121.534073, 25.0448781]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5448174, 25.0447032]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區市民大道4段22號"
+			},
+			"bbox": [121.5448174, 25.0447032, 121.5448174, 25.0447032]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5468387, 25.0448202]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區市民大道4段64號"
+			},
+			"bbox": [121.5468387, 25.0448202, 121.5468387, 25.0448202]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5433783, 25.0249441]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區辛亥路1段58號"
+			},
+			"bbox": [121.5433783, 25.0249441, 121.5433783, 25.0249441]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5433783, 25.0249441]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區和平東路2段141號"
+			},
+			"bbox": [121.5433783, 25.0249441, 121.5433783, 25.0249441]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5433783, 25.0249441]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區和平東路3段127號"
+			},
+			"bbox": [121.5433783, 25.0249441, 121.5433783, 25.0249441]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5538743, 25.043398]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區延吉街64-1號"
+			},
+			"bbox": [121.5538743, 25.043398, 121.5538743, 25.043398]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.526893, 25.0300747]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區金華街118-4號"
+			},
+			"bbox": [121.526893, 25.0300747, 121.526893, 25.0300747]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5381508, 25.0284558]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區建國南路2段161號"
+			},
+			"bbox": [121.5381508, 25.0284558, 121.5381508, 25.0284558]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.538314, 25.0309681]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區建國南路2段79巷3號"
+			},
+			"bbox": [121.538314, 25.0309681, 121.538314, 25.0309681]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5508324, 25.0225508]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區基隆路2段233號"
+			},
+			"bbox": [121.5508324, 25.0225508, 121.5508324, 25.0225508]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5535997, 25.0283178]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區通化街168號"
+			},
+			"bbox": [121.5535997, 25.0283178, 121.5535997, 25.0283178]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5544389, 25.02803]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區通化街171巷11號"
+			},
+			"bbox": [121.5544389, 25.02803, 121.5544389, 25.02803]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.534563, 25.027169]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區新生南路2段82-1號1樓"
+			},
+			"bbox": [121.534563, 25.027169, 121.534563, 25.027169]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5418954, 25.029229]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區瑞安街152號"
+			},
+			"bbox": [121.5418954, 25.029229, 121.5418954, 25.029229]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5246447, 25.0290397]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區潮州街86號"
+			},
+			"bbox": [121.5246447, 25.0290397, 121.5246447, 25.0290397]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.537237, 25.040038]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區濟南路三段68號"
+			},
+			"bbox": [121.537237, 25.040038, 121.537237, 25.040038]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5263455, 25.0226062]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "大安區",
+				"裝設位置": "臺北市大安區羅斯福路3段93號"
+			},
+			"bbox": [121.5263455, 25.0226062, 121.5263455, 25.0226062]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5315595, 25.0469733]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區新生北路一段25號之5"
+			},
+			"bbox": [121.5315595, 25.0469733, 121.5315595, 25.0469733]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5247468, 25.0592421]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區中山北路2段93巷30號"
+			},
+			"bbox": [121.5247468, 25.0592421, 121.5247468, 25.0592421]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5301871, 25.0498163]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區吉林路15號地下停車場"
+			},
+			"bbox": [121.5301871, 25.0498163, 121.5301871, 25.0498163]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5377847, 25.0640384]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區建國北路3段39號"
+			},
+			"bbox": [121.5377847, 25.0640384, 121.5377847, 25.0640384]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5616506, 25.0794297]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區樂群2路266巷1號地下停車場"
+			},
+			"bbox": [121.5616506, 25.0794297, 121.5616506, 25.0794297]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5348345, 25.0452175]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區八德路2段61號"
+			},
+			"bbox": [121.5348345, 25.0452175, 121.5348345, 25.0452175]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5355234, 25.0453429]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區八德路二段70號"
+			},
+			"bbox": [121.5355234, 25.0453429, 121.5355234, 25.0453429]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5497822, 25.084091]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區北安路670巷9號"
+			},
+			"bbox": [121.5497822, 25.084091, 121.5497822, 25.084091]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5402671, 25.047826]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區龍江路16號"
+			},
+			"bbox": [121.5402671, 25.047826, 121.5402671, 25.047826]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5427093, 25.0792018]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "商店",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區民生東路2段77號"
+			},
+			"bbox": [121.5427093, 25.0792018, 121.5427093, 25.0792018]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5468812, 25.0816455]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區大直街21巷2號"
+			},
+			"bbox": [121.5468812, 25.0816455, 121.5468812, 25.0816455]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5442756, 25.0479928]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區建國北路1段臨5-1號"
+			},
+			"bbox": [121.5442756, 25.0479928, 121.5442756, 25.0479928]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5372863, 25.0558287]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區建國北路2段63號對面"
+			},
+			"bbox": [121.5372863, 25.0558287, 121.5372863, 25.0558287]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5340276, 25.0670235]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區建國北路3段96之1號"
+			},
+			"bbox": [121.5340276, 25.0670235, 121.5340276, 25.0670235]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5273176, 25.0574829]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區新生北路2段臨30-1號"
+			},
+			"bbox": [121.5273176, 25.0574829, 121.5273176, 25.0574829]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5337764, 25.060337]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區錦州街臨306號"
+			},
+			"bbox": [121.5337764, 25.060337, 121.5337764, 25.060337]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5214518, 25.0549545]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "運動中心",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區中山北路二段44巷2號B1"
+			},
+			"bbox": [121.5214518, 25.0549545, 121.5214518, 25.0549545]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.543199, 25.047509]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區八德路2段329號"
+			},
+			"bbox": [121.543199, 25.047509, 121.543199, 25.047509]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5359477, 25.0449334]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區八德路2段88巷20號"
+			},
+			"bbox": [121.5359477, 25.0449334, 121.5359477, 25.0449334]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5253198, 25.0616082]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區中山北路2段137巷36-2號"
+			},
+			"bbox": [121.5253198, 25.0616082, 121.5253198, 25.0616082]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5289781, 25.0562688]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區中原街23號"
+			},
+			"bbox": [121.5289781, 25.0562688, 121.5289781, 25.0562688]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5289683, 25.058406]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區中原街55號"
+			},
+			"bbox": [121.5289683, 25.058406, 121.5289683, 25.058406]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5226912, 25.0486506]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區天津街27號"
+			},
+			"bbox": [121.5226912, 25.0486506, 121.5226912, 25.0486506]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5446486, 25.0793452]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區北安路458巷3號"
+			},
+			"bbox": [121.5446486, 25.0793452, 121.5446486, 25.0793452]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5493443, 25.0835919]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區北安路656號1樓"
+			},
+			"bbox": [121.5493443, 25.0835919, 121.5493443, 25.0835919]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5279788, 25.0623924]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區民權東路2段126號"
+			},
+			"bbox": [121.5279788, 25.0623924, 121.5279788, 25.0623924]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5279788, 25.0623924]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區民權東路2段133號"
+			},
+			"bbox": [121.5279788, 25.0623924, 121.5279788, 25.0623924]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5299237, 25.0502952]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區吉林路12-3號"
+			},
+			"bbox": [121.5299237, 25.0502952, 121.5299237, 25.0502952]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5302035, 25.0655378]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區吉林路408號"
+			},
+			"bbox": [121.5302035, 25.0655378, 121.5302035, 25.0655378]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5405885, 25.0484736]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區長安東路1段45號"
+			},
+			"bbox": [121.5405885, 25.0484736, 121.5405885, 25.0484736]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5308208, 25.0549702]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區長春路131-1號"
+			},
+			"bbox": [121.5308208, 25.0549702, 121.5308208, 25.0549702]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5281644, 25.0677066]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區新生北路3段91號"
+			},
+			"bbox": [121.5281644, 25.0677066, 121.5281644, 25.0677066]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5426009, 25.0562738]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區興安街65號"
+			},
+			"bbox": [121.5426009, 25.0562738, 121.5426009, 25.0562738]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5375455, 25.060194]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區錦州街310號"
+			},
+			"bbox": [121.5375455, 25.060194, 121.5375455, 25.060194]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5411313, 25.0647002]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中山區",
+				"裝設位置": "臺北市中山區龍江路375號"
+			},
+			"bbox": [121.5411313, 25.0647002, 121.5411313, 25.0647002]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511146, 25.0269395]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區汀州路1段204號"
+			},
+			"bbox": [121.511146, 25.0269395, 121.511146, 25.0269395]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5233474, 25.0215783]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "里辦公室",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區金門街11之1號"
+			},
+			"bbox": [121.5233474, 25.0215783, 121.5233474, 25.0215783]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5192212, 25.0220333]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "里辦公室",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區牯嶺街165號"
+			},
+			"bbox": [121.5192212, 25.0220333, 121.5192212, 25.0220333]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5142953, 25.0356043]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "校園停車場",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區愛國西路1號"
+			},
+			"bbox": [121.5142953, 25.0356043, 121.5142953, 25.0356043]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5170584, 25.0216809]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區水源路臨2號"
+			},
+			"bbox": [121.5170584, 25.0216809, 121.5170584, 25.0216809]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.507552, 25.0288021]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區惠安街47號"
+			},
+			"bbox": [121.507552, 25.0288021, 121.507552, 25.0288021]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.518687, 25.0250571]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區汀州路2段76號"
+			},
+			"bbox": [121.518687, 25.0250571, 121.518687, 25.0250571]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5226511, 25.0235855]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區汀洲路1段182號"
+			},
+			"bbox": [121.5226511, 25.0235855, 121.5226511, 25.0235855]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5275797, 25.0437045]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區忠孝東路2段31號"
+			},
+			"bbox": [121.5275797, 25.0437045, 121.5275797, 25.0437045]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5166651, 25.0299018]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區牯嶺街47號"
+			},
+			"bbox": [121.5166651, 25.0299018, 121.5166651, 25.0299018]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5171513, 25.0293195]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區牯嶺街61-3號"
+			},
+			"bbox": [121.5171513, 25.0293195, 121.5171513, 25.0293195]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5180137, 25.0282127]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區牯嶺街77號"
+			},
+			"bbox": [121.5180137, 25.0282127, 121.5180137, 25.0282127]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5165213, 25.0244455]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區重慶南路3段130-1、130-2號"
+			},
+			"bbox": [121.5165213, 25.0244455, 121.5165213, 25.0244455]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5170577, 25.0237441]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區重慶南路3段135號"
+			},
+			"bbox": [121.5170577, 25.0237441, 121.5170577, 25.0237441]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5154061, 25.0286888]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區重慶南路3段32號"
+			},
+			"bbox": [121.5154061, 25.0286888, 121.5154061, 25.0286888]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5157092, 25.0276335]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區重慶南路3段56號"
+			},
+			"bbox": [121.5157092, 25.0276335, 121.5157092, 25.0276335]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5264883, 25.0212098]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區師大路146號"
+			},
+			"bbox": [121.5264883, 25.0212098, 121.5264883, 25.0212098]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5325183, 25.0366337]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區新生南路1段134-1號"
+			},
+			"bbox": [121.5325183, 25.0366337, 121.5325183, 25.0366337]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.532517, 25.040405]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "中正區",
+				"裝設位置": "臺北市中正區濟南路2段73號"
+			},
+			"bbox": [121.532517, 25.040405, 121.532517, 25.040405]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5714144, 25.0831294]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路一段411巷56號"
+			},
+			"bbox": [121.5714144, 25.0831294, 121.5714144, 25.0831294]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6020551, 25.0835653]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區成功路5段7號"
+			},
+			"bbox": [121.6020551, 25.0835653, 121.6020551, 25.0835653]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.616062, 25.0684371]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區東湖路115號地下停車場"
+			},
+			"bbox": [121.616062, 25.0684371, 121.616062, 25.0684371]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6191733, 25.0726326]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區康樂街150號"
+			},
+			"bbox": [121.6191733, 25.0726326, 121.6191733, 25.0726326]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59036, 25.080734]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路1段411巷11號"
+			},
+			"bbox": [121.59036, 25.080734, 121.59036, 25.080734]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.582208, 25.079749]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路2段67號"
+			},
+			"bbox": [121.582208, 25.079749, 121.582208, 25.079749]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.591629, 25.085571]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路3段59巷17號"
+			},
+			"bbox": [121.591629, 25.085571, 121.591629, 25.085571]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5992373, 25.0844694]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區成功路4段331號"
+			},
+			"bbox": [121.5992373, 25.0844694, 121.5992373, 25.0844694]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5769002, 25.0823158]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區港華街30號"
+			},
+			"bbox": [121.5769002, 25.0823158, 121.5769002, 25.0823158]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5710971, 25.086506]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區環山路2段10巷2號"
+			},
+			"bbox": [121.5710971, 25.086506, 121.5710971, 25.086506]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6176432, 25.0740793]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "里辦公室",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區安泰街49巷1號1樓"
+			},
+			"bbox": [121.6176432, 25.0740793, 121.6176432, 25.0740793]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5892012, 25.0690834]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區民權東路6段臨10之2號"
+			},
+			"bbox": [121.5892012, 25.0690834, 121.5892012, 25.0690834]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6045321, 25.062212]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "焚化廠",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區安康路290號"
+			},
+			"bbox": [121.6045321, 25.062212, 121.6045321, 25.062212]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6136336, 25.0676162]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區五分街39號"
+			},
+			"bbox": [121.6136336, 25.0676162, 121.6136336, 25.0676162]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5909027, 25.0689422]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路1段31號"
+			},
+			"bbox": [121.5909027, 25.0689422, 121.5909027, 25.0689422]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5909027, 25.0689422]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路1段91巷7號"
+			},
+			"bbox": [121.5909027, 25.0689422, 121.5909027, 25.0689422]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5819205, 25.0793594]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區內湖路2段114號"
+			},
+			"bbox": [121.5819205, 25.0793594, 121.5819205, 25.0793594]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5636636, 25.0867245]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區文湖街75號"
+			},
+			"bbox": [121.5636636, 25.0867245, 121.5636636, 25.0867245]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5792875, 25.0783579]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區文德路18號"
+			},
+			"bbox": [121.5792875, 25.0783579, 121.5792875, 25.0783579]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5794135, 25.0782047]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區文德路22巷1號"
+			},
+			"bbox": [121.5794135, 25.0782047, 121.5794135, 25.0782047]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.587541, 25.068847]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區民權東路6段128號"
+			},
+			"bbox": [121.587541, 25.068847, 121.587541, 25.068847]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6060457, 25.0728599]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區民權東路6段320號"
+			},
+			"bbox": [121.6060457, 25.0728599, 121.6060457, 25.0728599]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5848108, 25.0686302]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區民權東路6段60號"
+			},
+			"bbox": [121.5848108, 25.0686302, 121.5848108, 25.0686302]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.611528, 25.066072]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區安康路191號"
+			},
+			"bbox": [121.611528, 25.066072, 121.611528, 25.066072]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5903883, 25.0672429]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區成功路2段314號"
+			},
+			"bbox": [121.5903883, 25.0672429, 121.5903883, 25.0672429]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59011, 25.077904]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區成功路3段73號"
+			},
+			"bbox": [121.59011, 25.077904, 121.59011, 25.077904]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5776773, 25.0776602]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區江南街28號"
+			},
+			"bbox": [121.5776773, 25.0776602, 121.5776773, 25.0776602]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6163509, 25.0701228]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區東湖路119巷49弄30號"
+			},
+			"bbox": [121.6163509, 25.0701228, 121.6163509, 25.0701228]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5918933, 25.0853389]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區金龍路87號"
+			},
+			"bbox": [121.5918933, 25.0853389, 121.5918933, 25.0853389]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5949769, 25.0845422]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區金龍路9號"
+			},
+			"bbox": [121.5949769, 25.0845422, 121.5949769, 25.0845422]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6088852, 25.0758327]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區康寧路1段206號"
+			},
+			"bbox": [121.6088852, 25.0758327, 121.6088852, 25.0758327]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.609557, 25.0711261]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區康寧路3段16巷115號"
+			},
+			"bbox": [121.609557, 25.0711261, 121.609557, 25.0711261]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6211301, 25.0762679]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區康樂街200號1樓"
+			},
+			"bbox": [121.6211301, 25.0762679, 121.6211301, 25.0762679]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6183063, 25.0688407]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區康樂街32號"
+			},
+			"bbox": [121.6183063, 25.0688407, 121.6183063, 25.0688407]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.618525, 25.068766]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區康樂街69號"
+			},
+			"bbox": [121.618525, 25.068766, 121.618525, 25.068766]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.578026, 25.0825087]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區港墘路34號"
+			},
+			"bbox": [121.578026, 25.0825087, 121.578026, 25.0825087]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5825084, 25.0558072]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區新明路363號"
+			},
+			"bbox": [121.5825084, 25.0558072, 121.5825084, 25.0558072]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5656678, 25.0826777]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區環山路1段37號"
+			},
+			"bbox": [121.5656678, 25.0826777, 121.5656678, 25.0826777]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5712854, 25.0860824]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "內湖區",
+				"裝設位置": "臺北市內湖區環山路2段21號"
+			},
+			"bbox": [121.5712854, 25.0860824, 121.5712854, 25.0860824]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5555694, 25.0027602]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區辛亥路四段202巷2號"
+			},
+			"bbox": [121.5555694, 25.0027602, 121.5555694, 25.0027602]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.591065, 24.967016]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路1段311巷1號"
+			},
+			"bbox": [121.591065, 24.967016, 121.591065, 24.967016]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.551195, 25.0005935]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區仙岩路128號"
+			},
+			"bbox": [121.551195, 25.0005935, 121.551195, 25.0005935]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5767155, 24.9894653]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區秀明路2段116號"
+			},
+			"bbox": [121.5767155, 24.9894653, 121.5767155, 24.9894653]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5402646, 24.9885022]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區景文街142巷2號地下停車場"
+			},
+			"bbox": [121.5402646, 24.9885022, 121.5402646, 24.9885022]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5603106, 24.9932252]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路1段15號"
+			},
+			"bbox": [121.5603106, 24.9932252, 121.5603106, 24.9932252]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5627731, 24.9880192]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路4段105巷45號"
+			},
+			"bbox": [121.5627731, 24.9880192, 121.5627731, 24.9880192]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5350513, 25.0043479]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公務單位停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區溪洲街128號"
+			},
+			"bbox": [121.5350513, 25.0043479, 121.5350513, 25.0043479]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5616629, 25.0040863]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公務單位停車場",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區萬美街二段21巷20號"
+			},
+			"bbox": [121.5616629, 25.0040863, 121.5616629, 25.0040863]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5797758, 24.985636]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區指南路2段128號"
+			},
+			"bbox": [121.5797758, 24.985636, 121.5797758, 24.985636]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5603106, 24.9932252]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路1段139號"
+			},
+			"bbox": [121.5603106, 24.9932252, 121.5603106, 24.9932252]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449895, 24.9938533]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "里辦公室",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區景興路153巷1號"
+			},
+			"bbox": [121.5449895, 24.9938533, 121.5449895, 24.9938533]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.535545, 25.002924]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區溪洲街臨220號"
+			},
+			"bbox": [121.535545, 25.002924, 121.535545, 25.002924]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5689169, 25.0331095]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "焚化廠",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路5段53號"
+			},
+			"bbox": [121.5689169, 25.0331095, 121.5689169, 25.0331095]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5711331, 24.99168]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路1段206號"
+			},
+			"bbox": [121.5711331, 24.99168, 121.5711331, 24.99168]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5711331, 24.99168]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路1段212號"
+			},
+			"bbox": [121.5711331, 24.99168, 121.5711331, 24.99168]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5711331, 24.99168]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路1段34號"
+			},
+			"bbox": [121.5711331, 24.99168, 121.5711331, 24.99168]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5711331, 24.99168]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路1段57-6號"
+			},
+			"bbox": [121.5711331, 24.99168, 121.5711331, 24.99168]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.567662, 24.9882779]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木柵路3段102巷7號"
+			},
+			"bbox": [121.567662, 24.9882779, 121.567662, 24.9882779]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5695869, 24.9840947]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木新路2段123號"
+			},
+			"bbox": [121.5695869, 24.9840947, 121.5695869, 24.9840947]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5657334, 24.9827782]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木新路2段285號"
+			},
+			"bbox": [121.5657334, 24.9827782, 121.5657334, 24.9827782]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5635135, 24.9821232]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區木新路3段73號"
+			},
+			"bbox": [121.5635135, 24.9821232, 121.5635135, 24.9821232]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5581369, 24.9840475]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區忠順街1段36、38號"
+			},
+			"bbox": [121.5581369, 24.9840475, 121.5581369, 24.9840475]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.569877, 24.9876835]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區指南路1段4號"
+			},
+			"bbox": [121.569877, 24.9876835, 121.569877, 24.9876835]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544269, 24.998439]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區景隆街54號"
+			},
+			"bbox": [121.544269, 24.998439, 121.544269, 24.998439]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544521, 24.997458]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區景興路28-1號"
+			},
+			"bbox": [121.544521, 24.997458, 121.544521, 24.997458]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544792, 24.9982759]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區景興路7號1樓"
+			},
+			"bbox": [121.544792, 24.9982759, 121.544792, 24.9982759]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54453, 24.9948301]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區景興路94號"
+			},
+			"bbox": [121.54453, 24.9948301, 121.54453, 24.9948301]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5490426, 25.0007509]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路2段177號"
+			},
+			"bbox": [121.5490426, 25.0007509, 121.5490426, 25.0007509]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5455689, 24.9986126]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路2段18號"
+			},
+			"bbox": [121.5455689, 24.9986126, 121.5455689, 24.9986126]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.551362, 25.0019609]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路2段241號"
+			},
+			"bbox": [121.551362, 25.0019609, 121.551362, 25.0019609]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5581763, 24.9990158]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路3段117號"
+			},
+			"bbox": [121.5581763, 24.9990158, 121.5581763, 24.9990158]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.561277, 24.9864326]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區興隆路4段111-2號"
+			},
+			"bbox": [121.561277, 24.9864326, 121.561277, 24.9864326]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5384505, 25.0040268]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區羅斯福路5段182號"
+			},
+			"bbox": [121.5384505, 25.0040268, 121.5384505, 25.0040268]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.537582, 25.0086729]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區羅斯福路5段48號"
+			},
+			"bbox": [121.537582, 25.0086729, 121.537582, 25.0086729]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5413918, 24.9939281]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區羅斯福路6段317號"
+			},
+			"bbox": [121.5413918, 24.9939281, 121.5413918, 24.9939281]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5406783, 24.9983159]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "文山區",
+				"裝設位置": "臺北市文山區羅斯福路6段73、75號"
+			},
+			"bbox": [121.5406783, 24.9983159, 121.5406783, 24.9983159]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4988588, 25.1267903]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區大業路262號"
+			},
+			"bbox": [121.4988588, 25.1267903, 121.4988588, 25.1267903]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5021269, 25.1365371]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區七星街3號"
+			},
+			"bbox": [121.5021269, 25.1365371, 121.5021269, 25.1365371]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5232622, 25.1187915]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區天母西路112號"
+			},
+			"bbox": [121.5232622, 25.1187915, 121.5232622, 25.1187915]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5030525, 25.1184968]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區承德路7段372號"
+			},
+			"bbox": [121.5030525, 25.1184968, 121.5030525, 25.1184968]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5117748, 25.1156862]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區致遠二路80號地下停車場"
+			},
+			"bbox": [121.5117748, 25.1156862, 121.5117748, 25.1156862]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.515018, 25.1151759]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區湖山路1段51號"
+			},
+			"bbox": [121.515018, 25.1151759, 121.515018, 25.1151759]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5029288, 25.1323774]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公務單位停車場",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區新市街30號地下停車場(要從清江路25巷進去)"
+			},
+			"bbox": [121.5029288, 25.1323774, 121.5029288, 25.1323774]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5010067, 25.1276573]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央南路一段225巷4號"
+			},
+			"bbox": [121.5010067, 25.1276573, 121.5010067, 25.1276573]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5002307, 25.1216686]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央南路二段123號"
+			},
+			"bbox": [121.5002307, 25.1216686, 121.5002307, 25.1216686]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4949817, 25.1453522]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中和街486號"
+			},
+			"bbox": [121.4949817, 25.1453522, 121.4949817, 25.1453522]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5181986, 25.1125835]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區東陽街423號"
+			},
+			"bbox": [121.5181986, 25.1125835, 121.5181986, 25.1125835]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5176127, 25.1075163]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區致遠一路1段4號"
+			},
+			"bbox": [121.5176127, 25.1075163, 121.5176127, 25.1075163]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5015483, 25.1258802]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區崇仁路1段25號"
+			},
+			"bbox": [121.5015483, 25.1258802, 121.5015483, 25.1258802]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5195017, 25.1119698]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區懷德街30號"
+			},
+			"bbox": [121.5195017, 25.1119698, 121.5195017, 25.1119698]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5010117, 25.1260169]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區三合街2段489號"
+			},
+			"bbox": [121.5010117, 25.1260169, 121.5010117, 25.1260169]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4853756, 25.137621]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路3段53巷10號"
+			},
+			"bbox": [121.4853756, 25.137621, 121.4853756, 25.137621]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4732455, 25.1309977]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路4段301號"
+			},
+			"bbox": [121.4732455, 25.1309977, 121.4732455, 25.1309977]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510814, 25.1133685]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區石牌路1段200號"
+			},
+			"bbox": [121.510814, 25.1133685, 121.510814, 25.1133685]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4985464, 25.131796]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區光明路1號"
+			},
+			"bbox": [121.4985464, 25.131796, 121.4985464, 25.131796]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5187564, 25.1098346]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "捷運站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區明德路95號"
+			},
+			"bbox": [121.5187564, 25.1098346, 121.5187564, 25.1098346]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4677544, 25.1233369]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區大度路3段臨250號"
+			},
+			"bbox": [121.4677544, 25.1233369, 121.4677544, 25.1233369]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4983713, 25.1124206]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區承德路7段393巷200號"
+			},
+			"bbox": [121.4983713, 25.1124206, 121.4983713, 25.1124206]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4992782, 25.1079548]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "焚化廠",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區洲美街271號"
+			},
+			"bbox": [121.4992782, 25.1079548, 121.4992782, 25.1079548]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4970923, 25.1353596]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區大業路560號"
+			},
+			"bbox": [121.4970923, 25.1353596, 121.4970923, 25.1353596]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.475307, 25.1328975]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路1段203號"
+			},
+			"bbox": [121.475307, 25.1328975, 121.475307, 25.1328975]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.493342, 25.1376049]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路2段167號"
+			},
+			"bbox": [121.493342, 25.1376049, 121.493342, 25.1376049]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.489974, 25.1383459]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路2段303號"
+			},
+			"bbox": [121.489974, 25.1383459, 121.489974, 25.1383459]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4694727, 25.1285266]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路4段479號"
+			},
+			"bbox": [121.4694727, 25.1285266, 121.4694727, 25.1285266]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4676348, 25.1276868]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央北路4段545號"
+			},
+			"bbox": [121.4676348, 25.1276868, 121.4676348, 25.1276868]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.501289, 25.132238]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央南路1段156號"
+			},
+			"bbox": [121.501289, 25.132238, 121.501289, 25.132238]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.501289, 25.132238]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中央南路1段210號"
+			},
+			"bbox": [121.501289, 25.132238, 121.501289, 25.132238]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4967949, 25.1446192]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區中和街453-11號"
+			},
+			"bbox": [121.4967949, 25.1446192, 121.4967949, 25.1446192]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.505613, 25.129255]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區公館路146號"
+			},
+			"bbox": [121.505613, 25.129255, 121.505613, 25.129255]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510814, 25.1133685]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區石牌路1段24號"
+			},
+			"bbox": [121.510814, 25.1133685, 121.510814, 25.1133685]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5144826, 25.1187304]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區立農街2段206號"
+			},
+			"bbox": [121.5144826, 25.1187304, 121.5144826, 25.1187304]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5159382, 25.1186118]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區立農街2段284號1樓"
+			},
+			"bbox": [121.5159382, 25.1186118, 121.5159382, 25.1186118]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5139296, 25.1103809]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區自強街62號"
+			},
+			"bbox": [121.5139296, 25.1103809, 121.5139296, 25.1103809]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5264718, 25.1250843]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區行義路21號"
+			},
+			"bbox": [121.5264718, 25.1250843, 121.5264718, 25.1250843]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511186, 25.1194771]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區西安街2段185號"
+			},
+			"bbox": [121.511186, 25.1194771, 121.511186, 25.1194771]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504569, 25.1179871]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區承德路7段344巷15號"
+			},
+			"bbox": [121.504569, 25.1179871, 121.504569, 25.1179871]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5147059, 25.1162464]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區東華街2段14號"
+			},
+			"bbox": [121.5147059, 25.1162464, 121.5147059, 25.1162464]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5197862, 25.1121574]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區東陽街470號1樓"
+			},
+			"bbox": [121.5197862, 25.1121574, 121.5197862, 25.1121574]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5176127, 25.1075163]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區致遠一路1段92號"
+			},
+			"bbox": [121.5176127, 25.1075163, 121.5176127, 25.1075163]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5129581, 25.1172618]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區致遠二路116號"
+			},
+			"bbox": [121.5129581, 25.1172618, 121.5129581, 25.1172618]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5116437, 25.1162192]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區致遠二路89號"
+			},
+			"bbox": [121.5116437, 25.1162192, 121.5116437, 25.1162192]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5015483, 25.1258802]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區崇仁路1段21號"
+			},
+			"bbox": [121.5015483, 25.1258802, 121.5015483, 25.1258802]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5015483, 25.1258802]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "北投區",
+				"裝設位置": "臺北市北投區崇仁路1段40號"
+			},
+			"bbox": [121.5015483, 25.1258802, 121.5015483, 25.1258802]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5719857, 25.0496991]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區八德路4段580號"
+			},
+			"bbox": [121.5719857, 25.0496991, 121.5719857, 25.0496991]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5782913, 25.0503201]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區八德路4段746號"
+			},
+			"bbox": [121.5782913, 25.0503201, 121.5782913, 25.0503201]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5613359, 25.0477411]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區市民大道5段99號"
+			},
+			"bbox": [121.5613359, 25.0477411, 121.5613359, 25.0477411]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5407915, 25.0624428]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區民權東路3段140巷15號"
+			},
+			"bbox": [121.5407915, 25.0624428, 121.5407915, 25.0624428]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5524318, 25.0496452]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公務單位停車場",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區敦化北路3號"
+			},
+			"bbox": [121.5524318, 25.0496452, 121.5524318, 25.0496452]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5397563, 25.0669187]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區龍江路384巷31號"
+			},
+			"bbox": [121.5397563, 25.0669187, 121.5397563, 25.0669187]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5687206, 25.0515495]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區南京東路5段372號"
+			},
+			"bbox": [121.5687206, 25.0515495, 121.5687206, 25.0515495]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5563432, 25.047902]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區八德路3段198號"
+			},
+			"bbox": [121.5563432, 25.047902, 121.5563432, 25.047902]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5680754, 25.0490995]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區八德路4段332號"
+			},
+			"bbox": [121.5680754, 25.0490995, 121.5680754, 25.0490995]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5681818, 25.0491089]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區八德路4段336號"
+			},
+			"bbox": [121.5681818, 25.0491089, 121.5681818, 25.0491089]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5453123, 25.0647154]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區五常街281-2號"
+			},
+			"bbox": [121.5453123, 25.0647154, 121.5453123, 25.0647154]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5478665, 25.0452433]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區市民大道4段99號"
+			},
+			"bbox": [121.5478665, 25.0452433, 121.5478665, 25.0452433]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5608832, 25.0585789]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區民生東路5段57號"
+			},
+			"bbox": [121.5608832, 25.0585789, 121.5608832, 25.0585789]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5650816, 25.0633146]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區民權東路5段30號"
+			},
+			"bbox": [121.5650816, 25.0633146, 121.5650816, 25.0633146]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5581296, 25.0511995]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區光復北路109號"
+			},
+			"bbox": [121.5581296, 25.0511995, 121.5581296, 25.0511995]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.557559, 25.0462347]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區光復南路46號"
+			},
+			"bbox": [121.557559, 25.0462347, 121.557559, 25.0462347]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5613839, 25.0538489]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區健康路230號"
+			},
+			"bbox": [121.5613839, 25.0538489, 121.5613839, 25.0538489]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.552811, 25.053212]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區健康路44號"
+			},
+			"bbox": [121.552811, 25.053212, 121.552811, 25.053212]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5690668, 25.0574419]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區塔悠路206號"
+			},
+			"bbox": [121.5690668, 25.0574419, 121.5690668, 25.0574419]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5684756, 25.059576]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區撫遠街189號"
+			},
+			"bbox": [121.5684756, 25.059576, 121.5684756, 25.059576]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.565859, 25.0630701]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "松山區",
+				"裝設位置": "臺北市松山區撫遠街362號"
+			},
+			"bbox": [121.565859, 25.0630701, 121.565859, 25.0630701]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5643485, 25.0381727]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區市府路1號"
+			},
+			"bbox": [121.5643485, 25.0381727, 121.5643485, 25.0381727]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437974, 25.0417427]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區忠孝東路5段236巷15號"
+			},
+			"bbox": [121.5437974, 25.0417427, 121.5437974, 25.0417427]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437974, 25.0417427]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區忠孝東路5段666號"
+			},
+			"bbox": [121.5437974, 25.0417427, 121.5437974, 25.0417427]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5681064, 25.0402552]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松仁路2號"
+			},
+			"bbox": [121.5681064, 25.0402552, 121.5681064, 25.0402552]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5669333, 25.0305704]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松平路81號"
+			},
+			"bbox": [121.5669333, 25.0305704, 121.5669333, 25.0305704]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5629871, 25.0313662]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松勤街60號"
+			},
+			"bbox": [121.5629871, 25.0313662, 121.5629871, 25.0313662]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.558242, 25.026725]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區信安街49號"
+			},
+			"bbox": [121.558242, 25.026725, 121.558242, 25.026725]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5663757, 25.0330964]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區信義路5段11號"
+			},
+			"bbox": [121.5663757, 25.0330964, 121.5663757, 25.0330964]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.566345, 25.028965]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區莊敬路391巷11弄2號"
+			},
+			"bbox": [121.566345, 25.028965, 121.566345, 25.028965]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5842636, 25.0389702]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區中坡南路271號"
+			},
+			"bbox": [121.5842636, 25.0389702, 121.5842636, 25.0389702]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.572335, 25.047835]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松信路45號"
+			},
+			"bbox": [121.572335, 25.047835, 121.572335, 25.047835]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5563992, 25.0268549]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區嘉興街216巷7號"
+			},
+			"bbox": [121.5563992, 25.0268549, 121.5563992, 25.0268549]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437974, 25.0417427]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區忠孝東路5段255巷臨6號"
+			},
+			"bbox": [121.5437974, 25.0417427, 121.5437974, 25.0417427]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5841918, 25.0385993]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區中坡南路287號"
+			},
+			"bbox": [121.5841918, 25.0385993, 121.5841918, 25.0385993]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5669833, 25.0251079]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區吳興街378號1樓"
+			},
+			"bbox": [121.5669833, 25.0251079, 121.5669833, 25.0251079]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5692031, 25.0237533]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區吳興街469號"
+			},
+			"bbox": [121.5692031, 25.0237533, 121.5692031, 25.0237533]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5720055, 25.0409201]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區和平東路3段285號"
+			},
+			"bbox": [121.5720055, 25.0409201, 121.5720055, 25.0409201]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437974, 25.0417427]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區忠孝東路5段205號"
+			},
+			"bbox": [121.5437974, 25.0417427, 121.5437974, 25.0417427]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437974, 25.0417427]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區忠孝東路5段713號"
+			},
+			"bbox": [121.5437974, 25.0417427, 121.5437974, 25.0417427]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.578017, 25.044879]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松山路225巷1號"
+			},
+			"bbox": [121.578017, 25.044879, 121.578017, 25.044879]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5776174, 25.0411699]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松山路348號"
+			},
+			"bbox": [121.5776174, 25.0411699, 121.5776174, 25.0411699]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.56849, 25.0282269]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松仁路167號"
+			},
+			"bbox": [121.56849, 25.0282269, 121.56849, 25.0282269]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.57665, 25.048426]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松隆路217號"
+			},
+			"bbox": [121.57665, 25.048426, 121.57665, 25.048426]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5692449, 25.044435]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區松隆路80號"
+			},
+			"bbox": [121.5692449, 25.044435, 121.5692449, 25.044435]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5552271, 25.0232324]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區信安街184號"
+			},
+			"bbox": [121.5552271, 25.0232324, 121.5552271, 25.0232324]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.575421, 25.034391]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區信義路6段19號"
+			},
+			"bbox": [121.575421, 25.034391, 121.575421, 25.034391]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5763007, 25.0350663]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區信義路6段47號"
+			},
+			"bbox": [121.5763007, 25.0350663, 121.5763007, 25.0350663]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5539621, 25.0254044]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區基隆路2段165號"
+			},
+			"bbox": [121.5539621, 25.0254044, 121.5539621, 25.0254044]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.554856, 25.0241697]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區崇德街78號1樓"
+			},
+			"bbox": [121.554856, 25.0241697, 121.554856, 25.0241697]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5616175, 25.0301298]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區莊敬路214號"
+			},
+			"bbox": [121.5616175, 25.0301298, 121.5616175, 25.0301298]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5643704, 25.0287675]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區莊敬路325巷33號"
+			},
+			"bbox": [121.5643704, 25.0287675, 121.5643704, 25.0287675]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5644099, 25.028515]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區莊敬路325巷38號"
+			},
+			"bbox": [121.5644099, 25.028515, 121.5644099, 25.028515]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5565455, 25.0220019]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區富陽街63號"
+			},
+			"bbox": [121.5565455, 25.0220019, 121.5565455, 25.0220019]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5564823, 25.0256036]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區嘉興街219巷4號"
+			},
+			"bbox": [121.5564823, 25.0256036, 121.5564823, 25.0256036]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5858494, 25.0391579]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區福德街268巷1號"
+			},
+			"bbox": [121.5858494, 25.0391579, 121.5858494, 25.0391579]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.580721, 25.037019]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "信義區",
+				"裝設位置": "臺北市信義區福德街66號"
+			},
+			"bbox": [121.580721, 25.037019, 121.580721, 25.037019]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5914124, 25.0569551]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區成功路一段36巷20號"
+			},
+			"bbox": [121.5914124, 25.0569551, 121.5914124, 25.0569551]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5859634, 25.0424058]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區成福路118號"
+			},
+			"bbox": [121.5859634, 25.0424058, 121.5859634, 25.0424058]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5926842, 25.0532174]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區昆陽街23號"
+			},
+			"bbox": [121.5926842, 25.0532174, 121.5926842, 25.0532174]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6132688, 25.0589479]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區經貿二路88巷1號"
+			},
+			"bbox": [121.6132688, 25.0589479, 121.6132688, 25.0589479]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6064886, 25.0561567]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區興中路44巷1號"
+			},
+			"bbox": [121.6064886, 25.0561567, 121.6064886, 25.0561567]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.611801, 25.0566736]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區興東街59號"
+			},
+			"bbox": [121.611801, 25.0566736, 121.611801, 25.0566736]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5828621, 25.0457976]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區忠孝東路7段589號"
+			},
+			"bbox": [121.5828621, 25.0457976, 121.5828621, 25.0457976]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5946231, 25.0499478]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區昆陽街157巷11號"
+			},
+			"bbox": [121.5946231, 25.0499478, 121.5946231, 25.0499478]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.592597, 25.0546656]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區南港路3段16巷2-1號"
+			},
+			"bbox": [121.592597, 25.0546656, 121.592597, 25.0546656]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.617798, 25.0427148]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區舊莊街1段185號"
+			},
+			"bbox": [121.617798, 25.0427148, 121.617798, 25.0427148]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5944563, 25.0539281]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區向陽路49號"
+			},
+			"bbox": [121.5944563, 25.0539281, 121.5944563, 25.0539281]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6111945, 25.0611395]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區松河街699號"
+			},
+			"bbox": [121.6111945, 25.0611395, 121.6111945, 25.0611395]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5835487, 25.0429873]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區中坡南路43號"
+			},
+			"bbox": [121.5835487, 25.0429873, 121.5835487, 25.0429873]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5816523, 25.0451494]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區永吉路548號"
+			},
+			"bbox": [121.5816523, 25.0451494, 121.5816523, 25.0451494]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5876602, 25.0418246]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區成福路137號"
+			},
+			"bbox": [121.5876602, 25.0418246, 121.5876602, 25.0418246]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5881088, 25.0413762]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區成福路155號1樓"
+			},
+			"bbox": [121.5881088, 25.0413762, 121.5881088, 25.0413762]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58833, 25.04081]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區成福路200之1號1樓"
+			},
+			"bbox": [121.58833, 25.04081, 121.58833, 25.04081]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.587935, 25.04878]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區忠孝東路6段240號1樓"
+			},
+			"bbox": [121.587935, 25.04878, 121.587935, 25.04878]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5894852, 25.0491448]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區忠孝東路6段284號"
+			},
+			"bbox": [121.5894852, 25.0491448, 121.5894852, 25.0491448]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5828621, 25.0457976]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區忠孝東路7段564號"
+			},
+			"bbox": [121.5828621, 25.0457976, 121.5828621, 25.0457976]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5828621, 25.0457976]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區忠孝東路7段597號"
+			},
+			"bbox": [121.5828621, 25.0457976, 121.5828621, 25.0457976]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5828621, 25.0457976]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區忠孝東路7段600號"
+			},
+			"bbox": [121.5828621, 25.0457976, 121.5828621, 25.0457976]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5823534, 25.0512322]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區東新街4號"
+			},
+			"bbox": [121.5823534, 25.0512322, 121.5823534, 25.0512322]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5881347, 25.0467163]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區東新街69號"
+			},
+			"bbox": [121.5881347, 25.0467163, 121.5881347, 25.0467163]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.616026, 25.0486776]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區研究院路1段185號"
+			},
+			"bbox": [121.616026, 25.0486776, 121.616026, 25.0486776]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.616026, 25.0486776]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區研究院路1段45號"
+			},
+			"bbox": [121.616026, 25.0486776, 121.616026, 25.0486776]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6150897, 25.0455857]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區研究院路2段72號"
+			},
+			"bbox": [121.6150897, 25.0455857, 121.6150897, 25.0455857]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5888001, 25.0397638]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區福德街354號"
+			},
+			"bbox": [121.5888001, 25.0397638, 121.5888001, 25.0397638]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6061576, 25.0573026]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "南港區",
+				"裝設位置": "臺北市南港區興中路80巷14號1樓"
+			},
+			"bbox": [121.6061576, 25.0573026, 121.6061576, 25.0573026]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5009401, 25.0322237]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "中華汽車服務廠",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區興寧街26號"
+			},
+			"bbox": [121.5009401, 25.0322237, 121.5009401, 25.0322237]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4987907, 25.0347287]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區西園路1段145號"
+			},
+			"bbox": [121.4987907, 25.0347287, 121.4987907, 25.0347287]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49882, 25.0292477]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區西藏路201號地下停車場"
+			},
+			"bbox": [121.49882, 25.0292477, 121.49882, 25.0292477]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5029445, 25.0237714]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區青年路69號"
+			},
+			"bbox": [121.5029445, 25.0237714, 121.5029445, 25.0237714]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5055721, 25.0440285]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區峨眉街83號"
+			},
+			"bbox": [121.5055721, 25.0440285, 121.5055721, 25.0440285]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5075346, 25.0243329]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區國興路5號"
+			},
+			"bbox": [121.5075346, 25.0243329, 121.5075346, 25.0243329]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5088501, 25.0635865]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "公有停車場",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路1段1號"
+			},
+			"bbox": [121.5088501, 25.0635865, 121.5088501, 25.0635865]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5048673, 25.0328428]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區中華路2段40號"
+			},
+			"bbox": [121.5048673, 25.0328428, 121.5048673, 25.0328428]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4981085, 25.0256969]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區民和街70號"
+			},
+			"bbox": [121.4981085, 25.0256969, 121.4981085, 25.0256969]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.502465, 25.022663]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區青年路114號"
+			},
+			"bbox": [121.502465, 25.022663, 121.502465, 25.022663]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50147, 25.0202371]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區青年路152巷35號"
+			},
+			"bbox": [121.50147, 25.0202371, 121.50147, 25.0202371]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4945772, 25.0359188]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路2段154巷2號"
+			},
+			"bbox": [121.4945772, 25.0359188, 121.4945772, 25.0359188]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5008113, 25.0275104]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "車行",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區雙和街75號"
+			},
+			"bbox": [121.5008113, 25.0275104, 121.5008113, 25.0275104]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.494832, 25.0356424]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區和平西路3段251號1,2樓"
+			},
+			"bbox": [121.494832, 25.0356424, 121.494832, 25.0356424]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4907293, 25.031361]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區長順街臨131號"
+			},
+			"bbox": [121.4907293, 25.031361, 121.4907293, 25.031361]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5088501, 25.0635865]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "清潔隊",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路1段臨280之1號"
+			},
+			"bbox": [121.5088501, 25.0635865, 121.5088501, 25.0635865]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5040636, 25.0314118]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區中華路2段98號"
+			},
+			"bbox": [121.5040636, 25.0314118, 121.5040636, 25.0314118]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4987907, 25.0347287]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區西園路2段288之1號"
+			},
+			"bbox": [121.4987907, 25.0347287, 121.4987907, 25.0347287]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4987907, 25.0347287]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區西園路2段67-2號"
+			},
+			"bbox": [121.4987907, 25.0347287, 121.4987907, 25.0347287]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5033623, 25.030042]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區西藏路170號1樓"
+			},
+			"bbox": [121.5033623, 25.030042, 121.5033623, 25.030042]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5051264, 25.0337786]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區和平西路2段151號"
+			},
+			"bbox": [121.5051264, 25.0337786, 121.5051264, 25.0337786]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5046923, 25.0335466]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區和平西路2段190巷5號"
+			},
+			"bbox": [121.5046923, 25.0335466, 121.5046923, 25.0335466]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4968424, 25.0253674]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區東園街105號"
+			},
+			"bbox": [121.4968424, 25.0253674, 121.4968424, 25.0253674]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.497057, 25.0249133]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區東園街133號"
+			},
+			"bbox": [121.497057, 25.0249133, 121.497057, 25.0249133]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5051015, 25.0368415]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區柳州街87號"
+			},
+			"bbox": [121.5051015, 25.0368415, 121.5051015, 25.0368415]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4968061, 25.0383931]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區桂林路206號"
+			},
+			"bbox": [121.4968061, 25.0383931, 121.4968061, 25.0383931]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.493129, 25.0365309]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區桂林路244巷57號"
+			},
+			"bbox": [121.493129, 25.0365309, 121.493129, 25.0365309]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5049613, 25.0377099]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區桂林路30號"
+			},
+			"bbox": [121.5049613, 25.0377099, 121.5049613, 25.0377099]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5020302, 25.0410039]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區康定路114號"
+			},
+			"bbox": [121.5020302, 25.0410039, 121.5020302, 25.0410039]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5002996, 25.0271577]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區萬大路214號"
+			},
+			"bbox": [121.5002996, 25.0271577, 121.5002996, 25.0271577]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4995257, 25.0211865]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區萬大路423巷26號"
+			},
+			"bbox": [121.4995257, 25.0211865, 121.4995257, 25.0211865]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4971381, 25.0194192]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區萬大路500號"
+			},
+			"bbox": [121.4971381, 25.0194192, 121.4971381, 25.0194192]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4922904, 25.0291678]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區艋舺大道416號"
+			},
+			"bbox": [121.4922904, 25.0291678, 121.4922904, 25.0291678]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5088501, 25.0635865]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路1段21號"
+			},
+			"bbox": [121.5088501, 25.0635865, 121.5088501, 25.0635865]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4942044, 25.0349011]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路2段105號"
+			},
+			"bbox": [121.4942044, 25.0349011, 121.4942044, 25.0349011]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4939064, 25.0346225]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路2段117號"
+			},
+			"bbox": [121.4939064, 25.0346225, 121.4939064, 25.0346225]
+		},
+		{
+			"type": "Feature",
+			"id": "Taipei_City_Electric_Scooter_Charging_Station.fid-3d097ead_1887944e30e_3fc5",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4906784, 25.0314374]
+			},
+			"geometry_name": "geom",
+			"properties": {
+				"app_name": "檢驗站",
+				"c_name": "萬華區",
+				"裝設位置": "臺北市萬華區環河南路2段300號1樓"
+			},
+			"bbox": [121.4906784, 25.0314374, 121.4906784, 25.0314374]
+		}
+	]
+}

@@ -1,6 +1,42 @@
 {
 	"data": [
 		{
+			"name": "節能永續",
+			"index": "Energy saving and sustainable",
+			"components": ["150"],
+			"icon": "grass"
+		},
+		{
+			"name": "婦幼育兒",
+			"index": "Maternity and child care",
+			"components": [],
+			"icon": "pedal_bike"
+		},
+		{
+			"name": "居住環境",
+			"index": "Living Environment",
+			"components": [],
+			"icon": "pedal_bike"
+		},
+		{
+			"name": "旅遊觀光",
+			"index": "Sightseeing",
+			"components": [],
+			"icon": "commute"
+		},
+		{
+			"name": "性別友善",
+			"index": "gender friendly",
+			"components": [],
+			"icon": "language"
+		},
+		{
+			"name": "高齡長照",
+			"index": "Long-term photos for senior citizens",
+			"components": [],
+			"icon": "pedal_bike"
+		},
+		{
 			"name": "YouBike研究",
 			"index": "youbike",
 			"components": ["60", "142", "143", "144", "145", "146", "147"],
@@ -45,7 +81,7 @@
 		{
 			"name": "測試組件",
 			"index": "testing",
-			"components": ["117", "118", "61", "74"],
+			"components": ["117", "118", "61", "74", "150"],
 			"icon": "bug_report"
 		},
 		{
