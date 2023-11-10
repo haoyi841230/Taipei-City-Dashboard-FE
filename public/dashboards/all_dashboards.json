@@ -3,7 +3,7 @@
 		{
 			"name": "節能永續",
 			"index": "Energy saving and sustainable",
-			"components": ["150"],
+			"components": ["150", "151"],
 			"icon": "grass"
 		},
 		{

@@ -4138,17 +4138,21 @@
 					"index": "150",
 					"property": [
 						{
-							"key": "裝設位置",
-							"name": "裝設位置"
+							"key": "name",
+							"name": "單位名稱"
 						},
 						{
-							"key": "app_name",
+							"key": "Remark",
 							"name": "備註"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
 						}
 					],
 					"type": "symbol",
 					"icon": "triangle_green",
-					"title": "裝設位置"
+					"title": "電動車充換電站裝設位置"
 				}
 			],
 			"history_data": false,
@@ -4185,6 +4189,56 @@
 			"use_case": "圖表僅呈現臺北市電動車充換電站資訊統計，若要得知更電動車充換電站資訊，可透過地圖模式查詢。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=c66e2f53-92f5-4ccd-8aa9-eb71a288e09e"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"151": {
+			"id": 151,
+			"index": "Taipei_City_Electric_Vehicle_Charging_and_Swapping_Station_Information",
+			"map_config": [
+				{
+					"index": "151",
+					"property": [
+						{
+							"key": "name",
+							"name": "單位名稱"
+						},
+						{
+							"key": "remark",
+							"name": "備註"
+						},
+						{
+							"key": "quantity",
+							"name": "電池數量"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"icon": "triangle_white",
+					"title": "電動車充換電站裝設位置"
+				}
+			],
+			"history_data": false,
+			"chart_config": {
+				"color": ["#c3d9b5"],
+				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
+				"unit": "個電池"
+			},
+			"name": "臺北市電動車充換電站資訊",
+			"source": "產業局",
+			"time_from": "2023-04-11T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前臺北市電動車充換電站資訊統計",
+			"long_desc": "顯示當前臺北市電動車充換電站資訊統計，資料來源為產業局，不定期更新。",
+			"use_case": "圖表僅呈現臺北市電動車充換電站資訊統計，若要得知更電動車充換電站資訊，可透過地圖模式查詢。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=668313d7-bcfc-4c90-b769-e398b08a1b2d"
 			],
 			"tags": [],
 			"contributors": ["tuic"]
