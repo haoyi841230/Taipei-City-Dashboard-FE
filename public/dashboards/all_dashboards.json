@@ -1,37 +1,37 @@
 {
 	"data": [
 		{
-			"name": "節能永續",
+			"name": "韌性城市",
 			"index": "Energy saving and sustainable",
 			"components": ["150", "151"],
 			"icon": "grass"
 		},
 		{
-			"name": "婦幼育兒",
+			"name": "祝您好孕",
 			"index": "Maternity and child care",
 			"components": [],
 			"icon": "pedal_bike"
 		},
 		{
-			"name": "居住環境",
+			"name": "宜居臺北",
 			"index": "Living Environment",
-			"components": [],
+			"components": ["153", "154", "155"],
 			"icon": "pedal_bike"
 		},
 		{
-			"name": "旅遊觀光",
+			"name": "臺北歡迎您",
 			"index": "Sightseeing",
-			"components": [],
+			"components": ["156"],
 			"icon": "commute"
 		},
 		{
-			"name": "性別友善",
+			"name": "有緣在臺北",
 			"index": "gender friendly",
-			"components": [],
+			"components": ["152"],
 			"icon": "language"
 		},
 		{
-			"name": "高齡長照",
+			"name": "步步為銀",
 			"index": "Long-term photos for senior citizens",
 			"components": [],
 			"icon": "pedal_bike"

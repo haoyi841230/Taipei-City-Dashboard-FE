@@ -1,0 +1,1219 @@
+﻿ID(序號),位置(Location),Area(行政區),Address(地址),Longitude(經度),Latitude(緯度),,,,,
+1,榮富公園,北投區,臺北市北投區榮華三路與磺溪旁,121.5247,25.11433,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.5247, 25.11433]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@榮富公園@@,
+				@@address@@: @@臺北市北投區榮華三路與磺溪旁@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.5247, 25.11433, 121.5247, 25.11433]
+		},",,北投區,13
+2,和平青草園公園,萬華區,臺北市萬華區艋舺大道與西園路2段交叉口,121.49722,25.03267,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.49722, 25.03267]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@和平青草園公園@@,
+				@@address@@: @@臺北市萬華區艋舺大道與西園路2段交叉口@@,
+				@@area@@: @@萬華區@@
+			},
+			@@bbox@@: [121.49722, 25.03267, 121.49722, 25.03267]
+		},",,萬華區,5
+3,道南河濱公園,文山區,臺北市文山區景美恆光橋下游右側,121.56869,24.98167,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.56869, 24.98167]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@道南河濱公園@@,
+				@@address@@: @@臺北市文山區景美恆光橋下游右側@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.56869, 24.98167, 121.56869, 24.98167]
+		},",,文山區,8
+4,山水綠生態公園,南港區,臺北市南港區南深路37號,121.62499,25.0293,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.62499, 25.0293]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@山水綠生態公園@@,
+				@@address@@: @@臺北市南港區南深路37號@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.62499, 25.0293, 121.62499, 25.0293]
+		},",,南港區,9
+5,建成公園,大同區,臺北市大同區承德路2段35號旁,121.51858,25.05417,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51858, 25.05417]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@建成公園@@,
+				@@address@@: @@臺北市大同區承德路2段35號旁@@,
+				@@area@@: @@大同區@@
+			},
+			@@bbox@@: [121.51858, 25.05417, 121.51858, 25.05417]
+		},",,大同區,6
+6,潭美國小,內湖區,臺北市內湖區行善路179號,121.58107,25.05921,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.58107, 25.05921]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@潭美國小@@,
+				@@address@@: @@臺北市內湖區行善路179號@@,
+				@@area@@: @@內湖區@@
+			},
+			@@bbox@@: [121.58107, 25.05921, 121.58107, 25.05921]
+		},",,內湖區,6
+7,古亭國小,大安區,臺北市大安區羅斯福路3段201號,121.52848,25.02067,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52848, 25.02067]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@古亭國小@@,
+				@@address@@: @@臺北市大安區羅斯福路3段201號@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.52848, 25.02067, 121.52848, 25.02067]
+		},",,大安區,8
+8,文林國小,北投區,臺北市北投區文林北路155號,121.51475,25.10593,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51475, 25.10593]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@文林國小@@,
+				@@address@@: @@臺北市北投區文林北路155號@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.51475, 25.10593, 121.51475, 25.10593]
+		},",,信義區,5
+9,榮華公園,北投區,臺北市北投區明德路150巷,121.52212,25.11081,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52212, 25.11081]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@榮華公園@@,
+				@@address@@: @@臺北市北投區明德路150巷@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.52212, 25.11081, 121.52212, 25.11081]
+		},",,中山區,9
+10,石潭公園,內湖區,臺北市內湖區成功路2段東側,121.59173,25.06351,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.59173, 25.06351]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@石潭公園@@,
+				@@address@@: @@臺北市內湖區成功路2段東側@@,
+				@@area@@: @@內湖區@@
+			},
+			@@bbox@@: [121.59173, 25.06351, 121.59173, 25.06351]
+		},",,松山區,4
+11,萬芳4號公園,文山區,臺北市文山區萬和街1號對面,121.56839,25.00121,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.56839, 25.00121]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@萬芳4號公園@@,
+				@@address@@: @@臺北市文山區萬和街1號對面@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.56839, 25.00121, 121.56839, 25.00121]
+		},",,士林區,11
+12,樂活公園,內湖區,臺北市內湖區康樂街61巷15號旁,121.6186,25.06819,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.6186, 25.06819]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@樂活公園@@,
+				@@address@@: @@臺北市內湖區康樂街61巷15號旁@@,
+				@@area@@: @@內湖區@@
+			},
+			@@bbox@@: [121.6186, 25.06819, 121.6186, 25.06819]
+		},",,中正區,3
+13,興隆公園,文山區,臺北市文山區興隆路2段154巷與仙岩路交口,121.55175,24.99998,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.55175, 24.99998]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@興隆公園@@,
+				@@address@@: @@臺北市文山區興隆路2段154巷與仙岩路交口@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.55175, 24.99998, 121.55175, 24.99998]
+		},",,,
+14,大港墘公園,內湖區,臺北市內湖區瑞光路393巷旁,121.57374,25.07799,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.57374, 25.07799]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@大港墘公園@@,
+				@@address@@: @@臺北市內湖區瑞光路393巷旁@@,
+				@@area@@: @@內湖區@@
+			},
+			@@bbox@@: [121.57374, 25.07799, 121.57374, 25.07799]
+		},",,,
+15,眷村文化公園,信義區,臺北市信義區松勤路與莊敬路交口(信義國小西側),121.56262,25.03013,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.56262, 25.03013]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@眷村文化公園@@,
+				@@address@@: @@臺北市信義區松勤路與莊敬路交口(信義國小西側)@@,
+				@@area@@: @@信義區@@
+			},
+			@@bbox@@: [121.56262, 25.03013, 121.56262, 25.03013]
+		},",,,
+16,景華公園,文山區,臺北市文山區景興路與景華街交口,121.54318,24.99574,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54318, 24.99574]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@景華公園@@,
+				@@address@@: @@臺北市文山區景興路與景華街交口@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.54318, 24.99574, 121.54318, 24.99574]
+		},",,,
+17,明水公園,中山區,臺北市中山區北安路538巷1弄,121.54869,25.07912,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54869, 25.07912]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@明水公園@@,
+				@@address@@: @@臺北市中山區北安路538巷1弄@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.54869, 25.07912, 121.54869, 25.07912]
+		},",,,
+18,三民公園,松山區,臺北市松山區三民路、撫遠街298號,121.56744,25.06185,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.56744, 25.06185]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@三民公園@@,
+				@@address@@: @@臺北市松山區三民路、撫遠街298號@@,
+				@@area@@: @@松山區@@
+			},
+			@@bbox@@: [121.56744, 25.06185, 121.56744, 25.06185]
+		},",,,
+19,聯成公園,南港區,臺北市南港區忠孝東路6段250巷1弄,121.58887,25.04829,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.58887, 25.04829]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@聯成公園@@,
+				@@address@@: @@臺北市南港區忠孝東路6段250巷1弄@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.58887, 25.04829, 121.58887, 25.04829]
+		},",,,
+20,福中公園,士林區,臺北市士林區福港街129巷及107巷交會處,121.51895,25.08827,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51895, 25.08827]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@福中公園@@,
+				@@address@@: @@臺北市士林區福港街129巷及107巷交會處@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.51895, 25.08827, 121.51895, 25.08827]
+		},",,,
+21,玉成公園,南港區,臺北市南港區中坡南路55號,121.5857,25.04276,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.5857, 25.04276]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@玉成公園@@,
+				@@address@@: @@臺北市南港區中坡南路55號@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.5857, 25.04276, 121.5857, 25.04276]
+		},",,,
+22,石牌公園,北投區,臺北市北投區石牌路1段39巷內,121.50957,25.11741,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50957, 25.11741]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@石牌公園@@,
+				@@address@@: @@臺北市北投區石牌路1段39巷內@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50957, 25.11741, 121.50957, 25.11741]
+		},",,,
+23,立農公園,北投區,臺北市北投區承德路7段與吉利街口,121.50356,25.11907,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50356, 25.11907]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@立農公園@@,
+				@@address@@: @@臺北市北投區承德路7段與吉利街口@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50356, 25.11907, 121.50356, 25.11907]
+		},",,,
+24,四分綠地,南港區,臺北市南港區研究院路2段182巷58弄旁,121.61463,25.03628,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.61463, 25.03628]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@四分綠地@@,
+				@@address@@: @@臺北市南港區研究院路2段182巷58弄旁@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.61463, 25.03628, 121.61463, 25.03628]
+		},",,,
+25,磺港公園,北投區,臺北市北投區磺港路與大興街交叉口,121.50429,25.13086,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50429, 25.13086]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@磺港公園@@,
+				@@address@@: @@臺北市北投區磺港路與大興街交叉口@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50429, 25.13086, 121.50429, 25.13086]
+		},",,,
+26,永盛公園,中山區,臺北市中山區中山北路2段93巷26、40號間,121.52484,25.05909,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52484, 25.05909]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@永盛公園@@,
+				@@address@@: @@臺北市中山區中山北路2段93巷26、40號間@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.52484, 25.05909, 121.52484, 25.05909]
+		},",,,
+27,大佳河濱公園,中山區,臺北市中山區濱江街,121.52962,25.07518,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52962, 25.07518]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@大佳河濱公園@@,
+				@@address@@: @@臺北市中山區濱江街@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.52962, 25.07518, 121.52962, 25.07518]
+		},",,,
+28,中安公園,中山區,臺北市中山區中山北路2段65巷2弄內,121.52404,25.05655,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52404, 25.05655]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@中安公園@@,
+				@@address@@: @@臺北市中山區中山北路2段65巷2弄內@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.52404, 25.05655, 121.52404, 25.05655]
+		},",,,
+29,樹德公園,大同區,臺北市大同區大龍街129號,121.51629,25.06693,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51629, 25.06693]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@樹德公園@@,
+				@@address@@: @@臺北市大同區大龍街129號@@,
+				@@area@@: @@大同區@@
+			},
+			@@bbox@@: [121.51629, 25.06693, 121.51629, 25.06693]
+		},",,,
+30,景化公園,大同區,臺北市大同區伊寧街9巷(景化街巷弄中),121.51276,25.06541,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51276, 25.06541]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@景化公園@@,
+				@@address@@: @@臺北市大同區伊寧街9巷(景化街巷弄中)@@,
+				@@area@@: @@大同區@@
+			},
+			@@bbox@@: [121.51276, 25.06541, 121.51276, 25.06541]
+		},",,,
+31,朝陽公園,大同區,臺北市大同區重慶北路2段64巷口,121.51315,25.05599,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51315, 25.05599]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@朝陽公園@@,
+				@@address@@: @@臺北市大同區重慶北路2段64巷口@@,
+				@@area@@: @@大同區@@
+			},
+			@@bbox@@: [121.51315, 25.05599, 121.51315, 25.05599]
+		},",,,
+32,大安國小,大安區,臺北市大安區臥龍街129號,121.54966,25.01955,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54966, 25.01955]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@大安國小@@,
+				@@address@@: @@臺北市大安區臥龍街129號@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.54966, 25.01955, 121.54966, 25.01955]
+		},",,,
+33,和平實驗小學,大安區,臺北市大安區敦南街76巷28號,121.54671,25.02077,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54671, 25.02077]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@和平實驗小學@@,
+				@@address@@: @@臺北市大安區敦南街76巷28號@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.54671, 25.02077, 121.54671, 25.02077]
+		},",,,
+34,建安國小,大安區,臺北市大安區大安路2段99號,121.54615,25.02941,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54615, 25.02941]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@建安國小@@,
+				@@address@@: @@臺北市大安區大安路2段99號@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.54615, 25.02941, 121.54615, 25.02941]
+		},",,,
+35,花博公園美術園區,中山區,臺北市中山區中山北路以東民族東路以北(原民族公園),121.52375,25.06884,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52375, 25.06884]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@花博公園美術園區@@,
+				@@address@@: @@臺北市中山區中山北路以東民族東路以北(原民族公園)@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.52375, 25.06884, 121.52375, 25.06884]
+		},",,,
+36,象山公園,信義區,臺北市信義區信義路5段150巷旁,121.57002,25.03017,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.57002, 25.03017]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@象山公園@@,
+				@@address@@: @@臺北市信義區信義路5段150巷旁@@,
+				@@area@@: @@信義區@@
+			},
+			@@bbox@@: [121.57002, 25.03017, 121.57002, 25.03017]
+		},",,,
+37,士林4號廣場,士林區,臺北市士林區福林路與雨農路交叉口,121.53221,25.09612,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53221, 25.09612]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@士林4號廣場@@,
+				@@address@@: @@臺北市士林區福林路與雨農路交叉口@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.53221, 25.09612, 121.53221, 25.09612]
+		},",,,
+38,榮星公園,中山區,臺北市中山區民權東路與建國北路交叉口,121.53847,25.06382,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53847, 25.06382]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@榮星公園@@,
+				@@address@@: @@臺北市中山區民權東路與建國北路交叉口@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.53847, 25.06382, 121.53847, 25.06382]
+		},",,,
+39,碧湖公園,內湖區,臺北市內湖區內湖路2段175號(國立臺灣戲曲學院旁),121.58574,25.08221,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.58574, 25.08221]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@碧湖公園@@,
+				@@address@@: @@臺北市內湖區內湖路2段175號(國立臺灣戲曲學院旁)@@,
+				@@area@@: @@內湖區@@
+			},
+			@@bbox@@: [121.58574, 25.08221, 121.58574, 25.08221]
+		},",,,
+40,中研公園,南港區,臺北市南港區研究路2段12巷58弄,121.61314,25.04676,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.61314, 25.04676]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@中研公園@@,
+				@@address@@: @@臺北市南港區研究路2段12巷58弄@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.61314, 25.04676, 121.61314, 25.04676]
+		},",,,
+41,兒童新樂園(機械式),士林區,臺北市士林區承德路5段55號 ,121.51473,25.09715,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51473, 25.09715]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@兒童新樂園(機械式)@@,
+				@@address@@: @@臺北市士林區承德路5段55號 @@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.51473, 25.09715, 121.51473, 25.09715]
+		},",,,
+42,兒童新樂園(非機械式),士林區,臺北市士林區承德路5段55號 ,121.51473,25.09715,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51473, 25.09715]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@兒童新樂園(非機械式)@@,
+				@@address@@: @@臺北市士林區承德路5段55號 @@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.51473, 25.09715, 121.51473, 25.09715]
+		},",,,
+43,瑠公圳公園,大安區,臺北市大安區安東街40巷,121.54047,25.04397,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54047, 25.04397]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@瑠公圳公園@@,
+				@@address@@: @@臺北市大安區安東街40巷@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.54047, 25.04397, 121.54047, 25.04397]
+		},",,,
+44,松德公園,信義區,臺北市信義區松德路180巷8之1號對面,121.57319,25.03553,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.57319, 25.03553]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@松德公園@@,
+				@@address@@: @@臺北市信義區松德路180巷8之1號對面@@,
+				@@area@@: @@信義區@@
+			},
+			@@bbox@@: [121.57319, 25.03553, 121.57319, 25.03553]
+		},",,,
+45,東陽公園,南港區,臺北市南港區重陽路187巷,121.59844,25.05733,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.59844, 25.05733]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@東陽公園@@,
+				@@address@@: @@臺北市南港區重陽路187巷@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.59844, 25.05733, 121.59844, 25.05733]
+		},",,,
+46,三重世貿公園,南港區,臺北市南港區經貿二路106巷,121.61523,25.05796,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.61523, 25.05796]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@三重世貿公園@@,
+				@@address@@: @@臺北市南港區經貿二路106巷@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.61523, 25.05796, 121.61523, 25.05796]
+		},",,,
+47,日新國小,大同區,臺北市大同區太原路151號,121.51667,25.0544,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51667, 25.0544]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@日新國小@@,
+				@@address@@: @@臺北市大同區太原路151號@@,
+				@@area@@: @@大同區@@
+			},
+			@@bbox@@: [121.51667, 25.0544, 121.51667, 25.0544]
+		},",,,
+48,天母夢想樂園,士林區,臺北市士林區忠誠路2段,121.53342,25.11387,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53342, 25.11387]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@天母夢想樂園@@,
+				@@address@@: @@臺北市士林區忠誠路2段@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.53342, 25.11387, 121.53342, 25.11387]
+		},",,,
+49,大佳河濱公園(第3期),中山區,臺北市中山區濱江街,121.52962,25.07518,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52962, 25.07518]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@大佳河濱公園(第3期)@@,
+				@@address@@: @@臺北市中山區濱江街@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.52962, 25.07518, 121.52962, 25.07518]
+		},",,,
+50,萬慶公園,文山區,臺北市文山區育英街45巷旁,121.53773,24.9937,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53773, 24.9937]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@萬慶公園@@,
+				@@address@@: @@臺北市文山區育英街45巷旁@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.53773, 24.9937, 121.53773, 24.9937]
+		},",,,
+51,新新公園,南港區,臺北市南港路3段47巷26號,121.59052,25.05173,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.59052, 25.05173]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@新新公園@@,
+				@@address@@: @@臺北市南港路3段47巷26號@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.59052, 25.05173, 121.59052, 25.05173]
+		},",,,
+52,興隆國小,文山區,臺北市文山區福興路2號,121.55193,25.0024,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.55193, 25.0024]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@興隆國小@@,
+				@@address@@: @@臺北市文山區福興路2號@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.55193, 25.0024, 121.55193, 25.0024]
+		},",,,
+53,華中河濱公園,萬華區,臺北市萬華區環河南路3段與武成街63巷交叉口附近,121.49372,25.01852,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.49372, 25.01852]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@華中河濱公園@@,
+				@@address@@: @@臺北市萬華區環河南路3段與武成街63巷交叉口附近@@,
+				@@area@@: @@萬華區@@
+			},
+			@@bbox@@: [121.49372, 25.01852, 121.49372, 25.01852]
+		},",,,
+54,南港公園,南港區,臺北市南港區東新街170之1號,121.59059,25.04241,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.59059, 25.04241]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@南港公園@@,
+				@@address@@: @@臺北市南港區東新街170之1號@@,
+				@@area@@: @@南港區@@
+			},
+			@@bbox@@: [121.59059, 25.04241, 121.59059, 25.04241]
+		},",,,
+55,前港公園,士林區,臺北市士林區前港街134巷旁,121.52094,25.08651,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52094, 25.08651]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@前港公園@@,
+				@@address@@: @@臺北市士林區前港街134巷旁@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.52094, 25.08651, 121.52094, 25.08651]
+		},",,,
+56,中央藝文公園,中正區,臺北市中正區北平東路30號前,121.52791,25.04607,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52791, 25.04607]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@中央藝文公園@@,
+				@@address@@: @@臺北市中正區北平東路30號前@@,
+				@@area@@: @@中正區@@
+			},
+			@@bbox@@: [121.52791, 25.04607, 121.52791, 25.04607]
+		},",,,
+57,大佳河濱公園(第2期),中山區,臺北市中山區濱江街,121.52962,25.07518,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52962, 25.07518]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@大佳河濱公園(第2期)@@,
+				@@address@@: @@臺北市中山區濱江街@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.52962, 25.07518, 121.52962, 25.07518]
+		},",,,
+58,臺北市立臺北特殊教育學校,士林區,臺北市士林區忠誠路2段207巷3號,121.5361,25.11658,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.5361, 25.11658]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@臺北市立臺北特殊教育學校@@,
+				@@address@@: @@臺北市士林區忠誠路2段207巷3號@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.5361, 25.11658, 121.5361, 25.11658]
+		},",,,
+59,芝山國小,士林區,臺北市士林區德行東路285號,121.53648,25.1106,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53648, 25.1106]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@芝山國小@@,
+				@@address@@: @@臺北市士林區德行東路285號@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.53648, 25.1106, 121.53648, 25.1106]
+		},",,,
+60,齊東公園,中正區,臺北市中正區齊東街53巷巷口,121.52837,25.04177,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52837, 25.04177]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@齊東公園@@,
+				@@address@@: @@臺北市中正區齊東街53巷巷口@@,
+				@@area@@: @@中正區@@
+			},
+			@@bbox@@: [121.52837, 25.04177, 121.52837, 25.04177]
+		},",,,
+61,連雲公園,中正區,臺北市中正區連雲街37巷與新生南路一段146巷交口,121.53189,25.0353,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53189, 25.0353]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@連雲公園@@,
+				@@address@@: @@臺北市中正區連雲街37巷與新生南路一段146巷交口@@,
+				@@area@@: @@中正區@@
+			},
+			@@bbox@@: [121.53189, 25.0353, 121.53189, 25.0353]
+		},",,,
+62,辛亥生態公園,文山區,臺北市辛亥路4段186號對面,121.55661,25.00316,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.55661, 25.00316]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@辛亥生態公園@@,
+				@@address@@: @@臺北市辛亥路4段186號對面@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.55661, 25.00316, 121.55661, 25.00316]
+		},",,,
+63,老松國小,萬華區,臺北市萬華區桂林路64號,121.50277,25.03802,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50277, 25.03802]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@老松國小@@,
+				@@address@@: @@臺北市萬華區桂林路64號@@,
+				@@area@@: @@萬華區@@
+			},
+			@@bbox@@: [121.50277, 25.03802, 121.50277, 25.03802]
+		},",,,
+64,湖山6號公園,內湖區,臺北市內湖區大湖街166巷大湖派出所後方,121.60191,25.0835,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.60191, 25.0835]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@湖山6號公園@@,
+				@@address@@: @@臺北市內湖區大湖街166巷大湖派出所後方@@,
+				@@area@@: @@內湖區@@
+			},
+			@@bbox@@: [121.60191, 25.0835, 121.60191, 25.0835]
+		},",,,
+65,知行公園,北投區,臺北市北投區知行路255巷,121.46667,25.11973,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.46667, 25.11973]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@知行公園@@,
+				@@address@@: @@臺北市北投區知行路255巷@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.46667, 25.11973, 121.46667, 25.11973]
+		},",,,
+66,民生公園,松山區,臺北市松山區民生東路5段36巷4弄與8弄間,121.55813,25.05742,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.55813, 25.05742]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@民生公園@@,
+				@@address@@: @@臺北市松山區民生東路5段36巷4弄與8弄間@@,
+				@@area@@: @@松山區@@
+			},
+			@@bbox@@: [121.55813, 25.05742, 121.55813, 25.05742]
+		},",,,
+67,大安森林公園,大安區,臺北市大安區信義路3段100號,121.53653,25.03239,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53653, 25.03239]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@大安森林公園@@,
+				@@address@@: @@臺北市大安區信義路3段100號@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.53653, 25.03239, 121.53653, 25.03239]
+		},",,,
+68,青年公園(飛行探索遊戲場),萬華區,臺北市萬華區青年路188號對面,121.50367,25.02089,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50367, 25.02089]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@青年公園(飛行探索遊戲場)@@,
+				@@address@@: @@臺北市萬華區青年路188號對面@@,
+				@@area@@: @@萬華區@@
+			},
+			@@bbox@@: [121.50367, 25.02089, 121.50367, 25.02089]
+		},",,,
+69,天母公園,士林區,臺北市士林區中山北路7段141巷旁(天母公園內),121.53042,25.12593,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.53042, 25.12593]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@天母公園@@,
+				@@address@@: @@臺北市士林區中山北路7段141巷旁(天母公園內)@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.53042, 25.12593, 121.53042, 25.12593]
+		},",,,
+70,美崙公園,士林區,臺北市士林區美崙街152巷(美崙公園內),121.51839,25.09731,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51839, 25.09731]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@美崙公園@@,
+				@@address@@: @@臺北市士林區美崙街152巷(美崙公園內)@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.51839, 25.09731, 121.51839, 25.09731]
+		},",,,
+71,福星公園(公1公園),北投區,臺北市北投區承德路6段與文林北路交叉口,121.51322,25.10527,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.51322, 25.10527]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@福星公園(公1公園)@@,
+				@@address@@: @@臺北市北投區承德路6段與文林北路交叉口@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.51322, 25.10527, 121.51322, 25.10527]
+		},",,,
+72,七虎公園,北投區,臺北市北投區育仁路108號,121.5015,25.13615,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.5015, 25.13615]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@七虎公園@@,
+				@@address@@: @@臺北市北投區育仁路108號@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.5015, 25.13615, 121.5015, 25.13615]
+		},",,,
+73,福林公園,士林區,臺北市士林區中正路與福林路間(福林公園內),121.52997,25.09576,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52997, 25.09576]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@福林公園@@,
+				@@address@@: @@臺北市士林區中正路與福林路間(福林公園內)@@,
+				@@area@@: @@士林區@@
+			},
+			@@bbox@@: [121.52997, 25.09576, 121.52997, 25.09576]
+		},",,,
+74,花博公園新生園區,中山區,臺北市中山區新生北路3段105號旁,121.5288,25.07023,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.5288, 25.07023]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@花博公園新生園區@@,
+				@@address@@: @@臺北市中山區新生北路3段105號旁@@,
+				@@area@@: @@中山區@@
+			},
+			@@bbox@@: [121.5288, 25.07023, 121.5288, 25.07023]
+		},",,,
+75,洲美公園,北投區,臺北市北投區福美路199號旁(北臨福美路、南臨洲美街、東臨計畫道路範圍內),121.50618,25.10009,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50618, 25.10009]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@洲美公園@@,
+				@@address@@: @@臺北市北投區福美路199號旁(北臨福美路、南臨洲美街、東臨計畫道路範圍內)@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50618, 25.10009, 121.50618, 25.10009]
+		},",,,
+76,敦化公園,松山區,臺北市松山區八德路3段12巷52弄2之1號邊,121.55054,25.04645,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.55054, 25.04645]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@敦化公園@@,
+				@@address@@: @@臺北市松山區八德路3段12巷52弄2之1號邊@@,
+				@@area@@: @@松山區@@
+			},
+			@@bbox@@: [121.55054, 25.04645, 121.55054, 25.04645]
+		},",,,
+77,慶城公園,松山區,臺北市松山區慶城街16巷、南京東路3段303巷,121.5465,25.05337,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.5465, 25.05337]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@慶城公園@@,
+				@@address@@: @@臺北市松山區慶城街16巷、南京東路3段303巷@@,
+				@@area@@: @@松山區@@
+			},
+			@@bbox@@: [121.5465, 25.05337, 121.5465, 25.05337]
+		},",,,
+78,景美國小,文山區,臺北市文山區景文街108號,121.54078,24.98948,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54078, 24.98948]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@景美國小@@,
+				@@address@@: @@臺北市文山區景文街108號@@,
+				@@area@@: @@文山區@@
+			},
+			@@bbox@@: [121.54078, 24.98948, 121.54078, 24.98948]
+		},",,,
+79,三興國小,信義區,臺北市信義區基隆路2段99號,121.55833,25.02947,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.55833, 25.02947]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@三興國小@@,
+				@@address@@: @@臺北市信義區基隆路2段99號@@,
+				@@area@@: @@信義區@@
+			},
+			@@bbox@@: [121.55833, 25.02947, 121.55833, 25.02947]
+		},",,,
+80,長安公園,北投區,臺北市北投區育仁路(薇閣國小旁),121.50025,25.13506,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50025, 25.13506]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@長安公園@@,
+				@@address@@: @@臺北市北投區育仁路(薇閣國小旁)@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50025, 25.13506, 121.50025, 25.13506]
+		},",,,
+81,錦德公園,萬華區,臺北市萬華區德昌街與西園路2段281巷交叉口,121.49243,25.02335,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.49243, 25.02335]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@錦德公園@@,
+				@@address@@: @@臺北市萬華區德昌街與西園路2段281巷交叉口@@,
+				@@area@@: @@萬華區@@
+			},
+			@@bbox@@: [121.49243, 25.02335, 121.49243, 25.02335]
+		},",,,
+82,奇岩1號公園,北投區,臺北市北投區三合街一段及磺港路旁,121.50363,25.12838,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50363, 25.12838]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@奇岩1號公園@@,
+				@@address@@: @@臺北市北投區三合街一段及磺港路旁@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50363, 25.12838, 121.50363, 25.12838]
+		},",,,
+83,玉泉公園,大同區,臺北市大同區西寧北路28號(溫水游泳池外),121.50715,25.04955,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50715, 25.04955]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@玉泉公園@@,
+				@@address@@: @@臺北市大同區西寧北路28號(溫水游泳池外)@@,
+				@@area@@: @@大同區@@
+			},
+			@@bbox@@: [121.50715, 25.04955, 121.50715, 25.04955]
+		},",,,
+84,錦安公園,大安區,臺北市大安區金山南路2段203巷及麗水街口,121.52805,25.02799,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.52805, 25.02799]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@錦安公園@@,
+				@@address@@: @@臺北市大安區金山南路2段203巷及麗水街口@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.52805, 25.02799, 121.52805, 25.02799]
+		},",,,
+85,和安公園,大安區,臺北市大安區復興南路1段313巷,121.54445,25.03456,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.54445, 25.03456]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@和安公園@@,
+				@@address@@: @@臺北市大安區復興南路1段313巷@@,
+				@@area@@: @@大安區@@
+			},
+			@@bbox@@: [121.54445, 25.03456, 121.54445, 25.03456]
+		},",,,
+86,北投25號線形公園,北投區,臺北市北投區北投路一段20號旁-西安橋下,121.50166,25.12321,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.50166, 25.12321]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@北投25號線形公園@@,
+				@@address@@: @@臺北市北投區北投路一段20號旁-西安橋下@@,
+				@@area@@: @@北投區@@
+			},
+			@@bbox@@: [121.50166, 25.12321, 121.50166, 25.12321]
+		},",,,
+87,五分埔公園,信義區,臺北市信義區中坡北路、松隆路口(松山車站前),121.58024,25.04733,,"	{
+			@@type@@: @@Feature@@,
+			@@id@@: @@Inclusive_Playground_Information.fid-3d097ead_1887944e30e_3fc5@@,
+			@@geometry@@: {
+				@@type@@: @@Point@@,
+				@@coordinates@@: [121.58024, 25.04733]
+			},
+			@@geometry_name@@: @@geom@@,
+			@@properties@@: {@@name@@: @@五分埔公園@@,
+				@@address@@: @@臺北市信義區中坡北路、松隆路口(松山車站前)@@,
+				@@area@@: @@信義區@@
+			},
+			@@bbox@@: [121.58024, 25.04733, 121.58024, 25.04733]
+		},",,,
