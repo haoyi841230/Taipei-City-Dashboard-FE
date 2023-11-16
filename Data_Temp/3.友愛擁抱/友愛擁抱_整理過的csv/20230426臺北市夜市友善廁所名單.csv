@@ -1,4 +1,4 @@
-ID(編號),NightMarket_Nmae(夜市名稱),Store_Nmae(店家名稱),Address(地址),OpenTime(開放時間),CloseTime(關閉時間),Hholiday(休假日)
+ID(編號),NightMarket_Nmae(夜市名稱),Store_Nmae(店家名稱),Address(地址),OpenTime(開放時間),CloseTime(關閉時間),Holiday(休假日)
 1,寧夏夜市,鬍鬚張美食文化館,臺北市大同區寧夏路62號,10:00,01:30,無
 2,寧夏夜市,寧夏夜市觀光協會,臺北市大同區寧夏路58號2樓,17:00,22:30,不定時
 3,寧夏夜市,統一超商(7-11):鑫寧門市,臺北市大同區民生西路214號,00:00,23:59,無

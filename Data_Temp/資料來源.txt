@@ -27,3 +27,6 @@ https://github.com/tpe-doit/Taipei-Codefest-2023-Workshop
 臺北資料大平台: https://data.taipei
 
 臺北城市儀表板GitHub: https://github.com/tpe-doit/Taipei-City-Dashboard-FE
+
+
+https://docs.google.com/document/d/1Ot8Cfjejs4iEYbD8d4rstRlRz1EfSjBtxkl6MsUkXXA/edit?pli=1
