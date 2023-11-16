@@ -4277,7 +4277,9 @@
 			"short_desc": "顯示臺北市公廁點位統計資訊",
 			"long_desc": "顯示臺北市公廁點位統計資訊，資料來源為台北市環保局內部資料，不定期更新。",
 			"use_case": "圖表僅呈現臺北市公廁點位資訊資訊統計，若要得知更臺北市公廁點位資訊資訊，可透過地圖模式查詢。",
-			"links": null,
+			"links": [
+				"https://data.taipei/dataset/detail?id=ca205b54-a06f-4d84-894c-d6ab5079ce79"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4330,7 +4332,9 @@
 			"short_desc": "顯示臺北市狗便清潔袋箱統計資訊",
 			"long_desc": "顯示臺北市狗便清潔袋箱統計資訊，資料來源為台北市環保局內部資料，隨手清狗便違者最高罰鍰新臺幣6,000元，不定期更新。",
 			"use_case": "圖表僅呈現臺北市狗便清潔袋箱資訊統計，若要得知更臺北市狗便清潔袋箱資訊資訊，可透過地圖模式查詢。",
-			"links": null,
+			"links": [
+				"https://data.taipei/dataset/detail?id=d338aa80-2aec-4e9d-a7de-a5d980118e32"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4387,7 +4391,9 @@
 			"short_desc": "顯示臺北市共融式遊戲場統計資訊",
 			"long_desc": "顯示臺北市共融式遊戲場統計資訊，資料來源為台北市社會局內部資料，每月更新。",
 			"use_case": "圖表僅呈現臺北市共融式遊戲場資訊統計，若要得知更臺北市共融式遊戲場資訊，可透過地圖模式查詢。",
-			"links": null,
+			"links": [
+				"https://data.taipei/dataset/detail?id=2704f07d-4d1d-4cef-b53a-c44aef326d96"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4427,7 +4433,9 @@
 			"short_desc": "顯示臺北市健走步道統計資訊",
 			"long_desc": "顯示臺北市健走步道統計資訊，資料來源為台北市衛生局內部資料，每月更新。",
 			"use_case": "圖表僅呈現臺北市健走步道資訊統計，若要得知更臺北市健走步道資訊，可透過地圖模式查詢。",
-			"links": null,
+			"links": [
+				"https://data.taipei/dataset/detail?id=fde2a190-8299-4f70-9a1f-6c223109b512"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4492,7 +4500,72 @@
 			"short_desc": "顯示臺北市公眾區免費無線上網熱點統計資訊",
 			"long_desc": "顯示臺北市公眾區免費無線上網熱點統計資訊，資料來源為台北市資訊局內部資料，每6個月更新。",
 			"use_case": "圖表僅呈現臺北市公眾區免費無線上網熱點資訊統計，若要得知更臺北市公眾區免費無線上網熱點資訊，可透過地圖模式查詢。",
-			"links": null,
+			"links": [
+				"https://data.taipei/dataset/detail?id=6aa6532d-652f-4c1b-814a-4646b75407af"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"157": {
+			"id": 157,
+			"index": "",
+			"map_config": null,
+			"chart_config": {
+				"color": ["#6c7262"],
+				"types": ["DumbbellChart", "RadarChart", "ColumnChart"],
+				"unit": "座",
+				"map_filter": [
+					"area",
+					[
+						"北投區",
+						"士林區",
+						"內湖區",
+						"南港區",
+						"松山區",
+						"信義區",
+						"中山區",
+						"大同區",
+						"中正區",
+						"萬華區",
+						"大安區",
+						"文山區"
+					]
+				]
+			},
+			"name": "",
+			"source": "資訊局",
+			"history_data": null,
+			"time_from": null,
+			"time_to": "2023-10-20T00:00:00+08:00",
+			"update_freq": 6,
+			"update_freq_unit": "month",
+			"short_desc": "顯示臺北市公眾區免費無線上網熱點統計資訊",
+			"long_desc": "顯示臺北市公眾區免費無線上網熱點統計資訊，資料來源為台北市資訊局內部資料，每6個月更新。",
+			"use_case": "圖表僅呈現臺北市公眾區免費無線上網熱點資訊統計，若要得知更臺北市公眾區免費無線上網熱點資訊，可透過地圖模式查詢。",
+			"links": [],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"158": {
+			"id": 158,
+			"index": "Taipei_City_Senior_Services_and_Living_Alone_Elderly_Population",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
+				"color": ["#4dd97a", "#0a85f4"],
+				"unit": "人"
+			},
+			"name": "臺北市銀髮族服務臺北市獨居老人人數",
+			"source": "社會局",
+			"time_from": null,
+			"time_to": "2023-06-11T00:00:00+08:00",
+			"update_freq": 3,
+			"update_freq_unit": "month",
+			"short_desc": "顯示臺北市銀髮族服務臺北市獨居老人人數統計資訊",
+			"long_desc": "顯示臺北市銀髮族服務臺北市獨居老人人數統計資訊，資料來源為臺北市銀髮族服務臺北市獨居老人人數，每6個月更新。",
+			"use_case": "圖表僅呈現臺北市銀髮族服務臺北市獨居老人人數資訊統計，若要得知更臺北市銀髮族服務臺北市獨居老人人數資訊，可透過地圖模式查詢。",
+			"links": [],
 			"tags": [],
 			"contributors": ["tuic"]
 		}
