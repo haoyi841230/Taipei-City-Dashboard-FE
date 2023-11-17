@@ -35,6 +35,7 @@ import MapLegend from "./components/charts/MapLegend.vue";
 import MetroChart from "./components/charts/MetroChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import DumbbellChart from "./components/charts/DumbbellChart.vue";
+import MixedCharts from "./components/charts/MixedCharts.vue";
 
 const app = createApp(App);
 
@@ -58,4 +59,5 @@ app.component("MapLegend", MapLegend);
 app.component("MetroChart", MetroChart);
 app.component("HeatmapChart", HeatmapChart);
 app.component("DumbbellChart", DumbbellChart);
+app.component("MixedCharts", MixedCharts);
 app.mount("#app");

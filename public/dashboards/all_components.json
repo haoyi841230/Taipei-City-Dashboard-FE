@@ -4511,26 +4511,9 @@
 			"index": "",
 			"map_config": null,
 			"chart_config": {
-				"color": ["#6c7262"],
-				"types": ["DumbbellChart", "RadarChart", "ColumnChart"],
-				"unit": "座",
-				"map_filter": [
-					"area",
-					[
-						"北投區",
-						"士林區",
-						"內湖區",
-						"南港區",
-						"松山區",
-						"信義區",
-						"中山區",
-						"大同區",
-						"中正區",
-						"萬華區",
-						"大安區",
-						"文山區"
-					]
-				]
+				"color": ["#FD5696"],
+				"types": ["MixedCharts"],
+				"unit": "件"
 			},
 			"name": "",
 			"source": "資訊局",
