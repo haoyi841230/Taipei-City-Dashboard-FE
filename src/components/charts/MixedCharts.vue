@@ -3,73 +3,54 @@ import { ref } from "vue";
 
 const props = defineProps(["chart_config", "activeChart", "series"]);
 
+console.log(props.series[0].data);
 const chartOptions = {
 	components: {
 		apexchart: VueApexCharts,
 	},
 	data: {
-		series: [
-			{
-				name: "Website Blog",
-				type: "column",
-				data: [
-					440, 505, 414, 671, 227, 413, 201, 352, 752, 320, 257, 160,
-				],
-			},
-			{
-				name: "Social Media",
-				type: "line",
-				data: [23, 42, 35, 27, 43, 22, 17, 31, 22, 22, 12, 16],
-			},
-		],
+		series: props.series[0].data,
 		chartOptions: {
 			chart: {
-				height: 350,
-				type: "line",
+				width: 380,
+				type: "polarArea",
+			},
+			labels: ["Rose A", "Rose B", "Rose C", "Rose D", "Rose E"],
+			fill: {
+				opacity: 1,
 			},
 			stroke: {
-				width: [0, 4],
+				width: 1,
+				colors: undefined,
 			},
-			title: {
-				text: "Traffic Sources",
+			yaxis: {
+				show: false,
 			},
-			dataLabels: {
-				enabled: true,
-				enabledOnSeries: [1],
+			legend: {
+				position: "bottom",
 			},
-			labels: [
-				"01 Jan 2001",
-				"02 Jan 2001",
-				"03 Jan 2001",
-				"04 Jan 2001",
-				"05 Jan 2001",
-				"06 Jan 2001",
-				"07 Jan 2001",
-				"08 Jan 2001",
-				"09 Jan 2001",
-				"10 Jan 2001",
-				"11 Jan 2001",
-				"12 Jan 2001",
-			],
-			xaxis: {
-				type: "datetime",
-			},
-			yaxis: [
-				{
-					title: {
-						text: "Website Blog",
+			plotOptions: {
+				polarArea: {
+					rings: {
+						strokeWidth: 0,
+					},
+					spokes: {
+						strokeWidth: 0,
 					},
 				},
-				{
-					opposite: true,
-					title: {
-						text: "Social Media",
-					},
+			},
+			theme: {
+				monochrome: {
+					enabled: true,
+					shadeTo: "light",
+					shadeIntensity: 0.6,
 				},
-			],
+			},
 		},
 	},
 };
+
+const chart = ref(null);
 </script>
 
 <template>
@@ -77,7 +58,7 @@ const chartOptions = {
 		<apexchart
 			width="100%"
 			height="260px"
-			type="line"
+			type="polarArea"
 			:options="chartOptions"
 			:series="series"
 			ref="chart"
