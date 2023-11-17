@@ -286,6 +286,9 @@ export const maplayerCommonLayout = {
 	"symbol-triangle_white": {
 		"icon-image": "triangle_white",
 	},
+	"symbol-Dog_Waste": {
+		"icon-image": "Dog_Waste",
+	},
 	"symbol-youbike": {
 		"icon-image": [
 			"case",
