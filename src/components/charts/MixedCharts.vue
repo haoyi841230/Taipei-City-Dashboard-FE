@@ -1,23 +1,11 @@
 <script setup>
-import { ref, onMounted } from "vue";
-import VueApexCharts from "vue-apexcharts";
+import { ref, defineProps, onMounted } from "vue";
+import VueApexCharts from "vue3-apexcharts";
+
 const props = defineProps(["chart_config", "activeChart", "series"]);
-console.log(props.series[0].data);
+
 const chartOptions = ref({
-	series: [
-		{
-			name: "Website Blog",
-			type: "column",
-			data: [440, 505, 414, 671, 227, 413, 201, 352, 752, 320, 257, 160],
-			color: "#ffffcc",
-		},
-		{
-			name: "Social Media",
-			type: "line",
-			data: [23, 42, 35, 27, 43, 22, 17, 31, 22, 22, 12, 16],
-			color: "#ccffcc",
-		},
-	],
+	series: props.series,
 	chart: {
 		height: 350,
 		type: "line",
@@ -46,7 +34,7 @@ const chartOptions = ref({
 	xaxis: {
 		type: "datetime",
 	},
-	color: "#ffffcc",
+	color: ["#ffffcc", "#ccffcc"],
 	yaxis: [
 		{
 			title: {
@@ -64,16 +52,24 @@ const chartOptions = ref({
 	],
 });
 
-const chart = ref(null);
+const chartRef = ref(null);
+
+onMounted(() => {
+	// Access the chart instance using chartRef.value if needed
+});
 </script>
 
 <template>
 	<div v-if="activeChart === 'MixedCharts'">
-		<apexchart
-			type="line"
-			height="350"
+		<vue-apex-charts
 			:options="chartOptions"
-			:series="series"
-		></apexchart>
+			:series="
+				props.series.map((s, index) => ({
+					...s,
+					type: index === 0 ? 'column' : 'line',
+				}))
+			"
+			ref="chartRef"
+		></vue-apex-charts>
 	</div>
 </template>
