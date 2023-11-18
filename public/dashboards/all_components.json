@@ -4302,7 +4302,12 @@
 			],
 			"chart_config": {
 				"color": ["#bc7262"],
-				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
+				"types": [
+					"DistrictChart",
+					"RadarChart",
+					"ColumnChart",
+					"polarArea"
+				],
 				"unit": "座",
 				"map_filter": [
 					"area",
@@ -4663,6 +4668,29 @@
 			"short_desc": "顯示臺北市公園類型統計資訊",
 			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為臺北市公園類型按月別，不定期更新。。",
 			"use_case": "圖表僅呈現臺北市公園類型資訊統計，若要得知更臺北市公園類型資訊。",
+			"links": [],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"164": {
+			"id": 164,
+			"index": "Year_of_Establishment_for_Parks_and_Green_Spaces",
+			"map_config": null,
+			"history_data": null,
+			"chart_config": {
+				"color": ["#C5E1A5", "#CCDFF4"],
+				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
+				"unit": "座"
+			},
+			"name": "公園與綠地建置年",
+			"source": "主計處",
+			"time_from": "2013-01-01T00:00:00+08:00",
+			"time_to": "2016-01-07T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": "month",
+			"short_desc": "顯示公園與綠地建置年統計資訊",
+			"long_desc": "顯示公園與綠地建置年統計資訊，資料來源為公園與綠地建置年按月別，不定期更新。",
+			"use_case": "圖表僅呈現公園與綠地建置年資訊統計，若要得知更公園與綠地建置年資訊。",
 			"links": [],
 			"tags": [],
 			"contributors": ["tuic"]

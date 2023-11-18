@@ -72,7 +72,5 @@ onMounted(() => {
 </script>
 
 <template>
-	<div>
-		<div id="chart" style="width: 100%"></div>
-	</div>
+	<div id="chart" style="width: 100%"></div>
 </template>
