@@ -3,12 +3,18 @@ import { ref, defineProps, onMounted } from "vue";
 import VueApexCharts from "vue3-apexcharts";
 
 const props = defineProps(["chart_config", "activeChart", "series"]);
-
+console.warn("props", props);
 const chartOptions = ref({
 	series: props.series,
 	chart: {
 		height: 350,
 		type: "line",
+		toolbar: {
+			show: false,
+		},
+		zoom: {
+			enabled: false,
+		},
 	},
 	stroke: {
 		width: [0, 4],
@@ -18,18 +24,15 @@ const chartOptions = ref({
 		enabledOnSeries: [1],
 	},
 	labels: [
-		"01 Jan 2001",
-		"02 Jan 2001",
-		"03 Jan 2001",
-		"04 Jan 2001",
-		"05 Jan 2001",
-		"06 Jan 2001",
-		"07 Jan 2001",
-		"08 Jan 2001",
-		"09 Jan 2001",
-		"10 Jan 2001",
-		"11 Jan 2001",
-		"12 Jan 2001",
+		"2015",
+		"2016",
+		"2017",
+		"2018",
+		"2019",
+		"2020",
+		"2021",
+		"2022",
+		"2023",
 	],
 	xaxis: {
 		type: "datetime",

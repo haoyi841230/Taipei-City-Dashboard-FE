@@ -3956,18 +3956,6 @@
 					"#3D56FF",
 					"#BFDAB8",
 					"#ACCFFF"
-				],
-				"map_filter": [
-					"class",
-					[
-						"山區且土地限制",
-						"已設站",
-						"山區",
-						"鄰近已設站",
-						"未設站",
-						"土地限制",
-						"特殊條件限制"
-					]
 				]
 			},
 			"map_config": [
@@ -4303,10 +4291,10 @@
 			"chart_config": {
 				"color": ["#bc7262"],
 				"types": [
+					"polarArea",
 					"DistrictChart",
 					"RadarChart",
-					"ColumnChart",
-					"polarArea"
+					"ColumnChart"
 				],
 				"unit": "座",
 				"map_filter": [
@@ -4405,10 +4393,35 @@
 		"155": {
 			"id": 155,
 			"index": "Taipei_City_Walking_Trails",
-			"map_config": null,
+			"map_config": [
+				{
+					"index": "155",
+					"property": [
+						{
+							"key": "name",
+							"name": "步道名稱"
+						},
+						{
+							"key": "kilomete",
+							"name": "健走公里數"
+						},
+						{
+							"key": "transportation",
+							"name": "交通方式"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"icon": "triangle_white",
+					"title": "臺北市健走步道資訊"
+				}
+			],
 			"chart_config": {
 				"color": ["#6c7262"],
-				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
+				"types": ["ColumnChart", "DistrictChart", "RadarChart"],
 				"unit": "座",
 				"map_filter": [
 					"area",
@@ -4474,7 +4487,7 @@
 				}
 			],
 			"chart_config": {
-				"color": ["#6c7262"],
+				"color": ["#2c7262"],
 				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
 				"unit": "座",
 				"map_filter": [
@@ -4563,7 +4576,7 @@
 			"map_config": null,
 			"history_data": true,
 			"chart_config": {
-				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
+				"types": ["TimelineStackedChart", "TimelineSeparateChart"],
 				"color": ["#4dd97a", "#0a85f4"],
 				"unit": "人"
 			},
@@ -4576,7 +4589,9 @@
 			"short_desc": "顯示臺北市市區及河濱自行車租借概況按月別統計資訊",
 			"long_desc": "顯示臺北市市區及河濱自行車租借概況按月別統計資訊，資料來源為臺北市市區及河濱自行車租借概況按月別，每1個月更新。",
 			"use_case": "圖表僅呈現臺北市市區及河濱自行車租借概況按月別資訊統計，若要得知更臺北市市區及河濱自行車租借概況按月別資訊。",
-			"links": [],
+			"links": [
+				"https://data.taipei/dataset/detail?id=93f82a7c-76c4-4773-b5b1-79004b902003"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4668,7 +4683,9 @@
 			"short_desc": "顯示臺北市公園類型統計資訊",
 			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為臺北市公園類型按月別，不定期更新。。",
 			"use_case": "圖表僅呈現臺北市公園類型資訊統計，若要得知更臺北市公園類型資訊。",
-			"links": [],
+			"links": [
+				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4691,6 +4708,69 @@
 			"short_desc": "顯示公園與綠地建置年統計資訊",
 			"long_desc": "顯示公園與綠地建置年統計資訊，資料來源為公園與綠地建置年按月別，不定期更新。",
 			"use_case": "圖表僅呈現公園與綠地建置年資訊統計，若要得知更公園與綠地建置年資訊。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"165": {
+			"id": 165,
+			"index": "Taipei_Free_Annual_Usage_Figures",
+			"map_config": null,
+			"history_data": null,
+			"chart_config": {
+				"color": [
+					"#67baca",
+					"#5a8965",
+					"#477653",
+					"#9b976c",
+					"#fbf3ac",
+					"#7FBF7B",
+					"#8E8E8E",
+					"#40A461",
+					"#BEBEBE",
+					"#3D56FF",
+					"#BFDAB8",
+					"#ACCFFF"
+				],
+				"types": ["BarChart", "TreemapChart"],
+				"unit": "人次"
+			},
+			"name": "臺北市網路服務",
+			"source": "主計處",
+			"time_from": "1998-01-01T00:00:00+08:00",
+			"time_to": "2022-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示臺北市網路服務統計資訊",
+			"long_desc": "顯示臺北市網路服務統計資訊，資料來源為臺北市網路服務，不定期更新。",
+			"use_case": "圖表僅呈現臺北市網路服務資訊統計，若要得知臺北市網路服務資訊。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=b5925972-67f6-45da-a2ff-3208bbe64f14"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"166": {
+			"id": 166,
+			"index": "Park_Types_in_Taipei_City",
+			"map_config": null,
+			"history_data": null,
+			"chart_config": {
+				"color": ["#C5E1A5", "#ADED64"],
+				"types": ["MixedCharts"],
+				"unit": "座"
+			},
+			"name": "臺北市市區及河濱自行車人數年尾資統計資訊",
+			"source": "主計處",
+			"time_from": "2007-01-011T00:00:00+08:00",
+			"time_to": "2023-10-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"short_desc": "顯示臺北市市區及河濱自行車人數年尾資統計資訊",
+			"long_desc": "顯示臺北市市區及河濱自行車人數年尾資統計資訊，資料來源為臺北市市區及河濱自行車人數年尾資統計資訊，每1個月更新。",
+			"use_case": "圖表僅呈現臺北市市區及河濱自行車人數年尾資統計資訊，若要得知臺北市市區及河濱自行車人數年尾資統計資訊。",
 			"links": [],
 			"tags": [],
 			"contributors": ["tuic"]

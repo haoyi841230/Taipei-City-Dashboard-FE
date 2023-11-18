@@ -11,7 +11,7 @@ const chartOptions = ref({
 	},
 	labels: props.series[0].data.map((item) => item.x),
 	stroke: {
-		colors: ["#fff"],
+		colors: ["#000"],
 	},
 	fill: {
 		opacity: 0.8,
@@ -72,5 +72,7 @@ onMounted(() => {
 </script>
 
 <template>
-	<div id="chart" style="width: 100%"></div>
+	<div v-if="activeChart === 'polarArea'">
+		<div id="chart" style="width: 100%"></div>
+	</div>
 </template>
