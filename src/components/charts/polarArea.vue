@@ -1,15 +1,20 @@
 <script setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted, watchEffect, defineProps } from "vue";
 import VueApexCharts from "vue-apexcharts";
 
-const props = defineProps(["chart_config", "activeChart", "series"]);
+const { chart_config, activeChart, series } = defineProps([
+	"chart_config",
+	"activeChart",
+	"series",
+]);
 
 const chartOptions = ref({
-	series: props.series[0].data.map((item) => item.y),
+	series: series[0].data.map((item) => item.y),
 	chart: {
 		type: "polarArea",
 	},
-	labels: props.series[0].data.map((item) => item.x),
+	labels: series[0].data.map((item) => item.x),
+	colors: series[0].data.map((item) => item.z),
 	stroke: {
 		colors: ["#000"],
 	},
@@ -34,8 +39,8 @@ const chartOptions = ref({
 		polarArea: {
 			dataLabels: {
 				style: {
-					colors: ["#FFCCC"], // 設置數據標籤文字顏色
-					background: ["#333"], // 設置數據標籤背景色
+					colors: ["#FFCCC"],
+					background: ["#333"],
 				},
 			},
 		},
@@ -62,17 +67,43 @@ const chartOptions = ref({
 	],
 });
 
-const chart = ref(null);
+const chartEl = ref(null);
 
 onMounted(() => {
 	const options = chartOptions.value;
-	chart.value = new ApexCharts(document.querySelector("#chart"), options);
-	chart.value.render();
+	chartEl.value = new ApexCharts(document.querySelector("#chart"), options);
+	chartEl.value.render();
+});
+
+// 監聽 series 的變化
+watchEffect(() => {
+	console.log(series[0].data.map((item) => item.z));
+	if (chartEl.value) {
+		// 如果 chart 已經初始化，則更新圖表
+		chartEl.value.updateOptions({
+			series: series[0].data.map((item) => item.y),
+			labels: series[0].data.map((item) => item.x),
+			colors: [
+				"#006400",
+				"#228B22",
+				"#2E8B57",
+				"#008080",
+				"#20B2AA",
+				"#66CDAA",
+				"#3CB371",
+				"#8FBC8F",
+				"#9ACD32",
+				"#32CD32",
+				"#00FF00",
+				"#7FFF00",
+			],
+		});
+	}
 });
 </script>
 
 <template>
 	<div v-if="activeChart === 'polarArea'">
-		<div id="chart" style="width: 100%"></div>
+		<div id="chart" style="width: 100%" ref="chartEl"></div>
 	</div>
 </template>
