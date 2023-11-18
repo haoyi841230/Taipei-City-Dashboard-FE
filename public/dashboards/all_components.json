@@ -4289,8 +4289,8 @@
 				}
 			],
 			"chart_config": {
-				"color": ["#bc7262"],
-				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
+				"color": ["#A0522D"],
+				"types": ["RadarChart", "DistrictChart", "ColumnChart"],
 				"unit": "座",
 				"map_filter": [
 					"area",
@@ -4310,7 +4310,7 @@
 					]
 				]
 			},
-			"name": "臺北市狗便清潔袋箱資訊",
+			"name": "狗便清潔袋箱",
 			"source": "環保局",
 			"history_data": null,
 			"time_from": null,
@@ -4415,7 +4415,7 @@
 				}
 			],
 			"chart_config": {
-				"color": ["#6c7262"],
+				"color": ["#4682B4"],
 				"types": ["ColumnChart", "DistrictChart", "RadarChart"],
 				"unit": "座",
 				"map_filter": [
@@ -4436,7 +4436,7 @@
 					]
 				]
 			},
-			"name": "臺北市健走步道資訊",
+			"name": "健走步道資訊",
 			"source": "社會局",
 			"history_data": null,
 			"time_from": null,
@@ -4696,7 +4696,7 @@
 			"map_config": null,
 			"history_data": null,
 			"chart_config": {
-				"color": ["#C5E1A5", "#CCDFF4"],
+				"color": ["#DC143C", "#32CD32"],
 				"types": ["TimelineSeparateChart", "TimelineStackedChart"],
 				"unit": "座"
 			},
@@ -4722,18 +4722,20 @@
 			"history_data": true,
 			"chart_config": {
 				"color": [
-					"#67baca",
-					"#5a8965",
-					"#477653",
-					"#9b976c",
-					"#fbf3ac",
-					"#7FBF7B",
-					"#8E8E8E",
-					"#40A461",
-					"#BEBEBE",
-					"#3D56FF",
-					"#BFDAB8",
-					"#ACCFFF"
+					"#4B0082",
+					"#800080",
+					"#8B008B",
+					"#9932CC",
+					"#8A2BE2",
+					"#9400D3",
+					"#6A5ACD",
+					"#9370DB",
+					"#7B68EE",
+					"#BA55D3",
+					"#EE82EE",
+					"#DDA0DD",
+					"#D8BFD8",
+					"#E6E6FA"
 				],
 				"types": ["BarChart", "TreemapChart"],
 				"unit": "人次"
@@ -4780,13 +4782,47 @@
 		},
 		"167": {
 			"id": 167,
-			"index": "Taipei City Park Statistical Information",
-			"map_config": null,
+			"index": "Taipei_City_Park_Statistical_Information",
+			"map_config": [
+				{
+					"index": "167",
+					"property": [
+						{
+							"key": "name",
+							"name": "公園名稱"
+						},
+						{
+							"key": "pm_unit",
+							"name": "管理單位"
+						},
+						{
+							"key": "pm_type",
+							"name": "公園類別"
+						},
+						{
+							"key": "pm_attributes",
+							"name": "公園屬性"
+						},
+						{
+							"key": "pm_const_year",
+							"name": "建造年度"
+						},
+						{
+							"key": "address",
+							"name": "公園位置"
+						}
+					],
+					"type": "symbol",
+					"icon": "triangle_white",
+					"title": "臺北市公園統計資訊"
+				}
+			],
 			"history_data": null,
 			"chart_config": {
 				"color": ["#C5E1A5", "#ADED64", "#7BB661"],
 				"types": ["polarArea"],
-				"unit": "座"
+				"unit": "座",
+				"map_filter": null
 			},
 			"name": "臺北市公園統計資訊",
 			"source": "主計處",
