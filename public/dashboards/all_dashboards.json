@@ -1,9 +1,21 @@
 {
 	"data": [
 		{
-			"name": "零碳永續(韌性城市)",
+			"name": "行動減碳(韌性城市)",
 			"index": "Energy saving and sustainable",
-			"components": ["150", "151"],
+			"components": [
+				"164",
+				"167",
+				"160",
+
+				"155",
+				"156",
+				"165",
+
+				"153",
+				"159",
+				"166"
+			],
 			"icon": "grass"
 		},
 		{
@@ -81,7 +93,7 @@
 		{
 			"name": "測試組件",
 			"index": "testing",
-			"components": ["117", "118", "61", "74", "157"],
+			"components": ["117", "118", "61", "74", "161", "162", "163"],
 			"icon": "bug_report"
 		},
 		{
