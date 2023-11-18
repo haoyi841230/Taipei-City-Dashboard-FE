@@ -3,7 +3,7 @@ import { ref, defineProps, onMounted } from "vue";
 import VueApexCharts from "vue3-apexcharts";
 
 const props = defineProps(["chart_config", "activeChart", "series"]);
-console.warn("props", props);
+console.warn("props", props.series);
 const chartOptions = ref({
 	series: props.series,
 	chart: {
@@ -41,14 +41,14 @@ const chartOptions = ref({
 	yaxis: [
 		{
 			title: {
-				text: "Website Blog",
+				text: props.series[0].name,
 			},
 			color: "#ffffcc",
 		},
 		{
 			opposite: true,
 			title: {
-				text: "Social Media",
+				text: props.series[1].name,
 			},
 			color: "#ccffcc",
 		},

@@ -4290,12 +4290,7 @@
 			],
 			"chart_config": {
 				"color": ["#bc7262"],
-				"types": [
-					"polarArea",
-					"DistrictChart",
-					"RadarChart",
-					"ColumnChart"
-				],
+				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
 				"unit": "座",
 				"map_filter": [
 					"area",
@@ -4483,7 +4478,7 @@
 					],
 					"type": "symbol",
 					"icon": "triangle_white",
-					"title": "臺北市公眾區免費無線上網熱點資料"
+					"title": "臺北市公眾區免費無線上網熱點位置"
 				}
 			],
 			"chart_config": {
@@ -4508,7 +4503,7 @@
 					]
 				]
 			},
-			"name": "臺北市公眾區免費無線上網熱點資料(新版)",
+			"name": "臺北市公眾區免費無線上網熱點位置",
 			"source": "資訊局",
 			"history_data": null,
 			"time_from": null,
@@ -4576,9 +4571,9 @@
 			"map_config": null,
 			"history_data": true,
 			"chart_config": {
-				"types": ["TimelineStackedChart", "TimelineSeparateChart"],
+				"types": ["MixedCharts"],
 				"color": ["#4dd97a", "#0a85f4"],
-				"unit": "人"
+				"unit": "次"
 			},
 			"name": "臺北市區及河濱自行車租借概況按月別",
 			"source": "主計處",
@@ -4606,15 +4601,17 @@
 				"unit": "座"
 			},
 			"name": "臺北市公園類型",
-			"source": "主計處",
+			"source": "工務局公燈處",
 			"time_from": "2013-01-01T00:00:00+08:00",
 			"time_to": "2016-01-07T00:00:00+08:00",
 			"update_freq": null,
 			"update_freq_unit": "month",
 			"short_desc": "顯示臺北市公園類型統計資訊",
-			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為臺北市公園類型按月別，不定期更新。。",
+			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為工務局公燈處，不定期更新。",
 			"use_case": "圖表僅呈現臺北市公園類型資訊統計，若要得知更臺北市公園類型資訊。",
-			"links": [],
+			"links": [
+				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4629,15 +4626,17 @@
 				"unit": "座"
 			},
 			"name": "臺北市公園類型",
-			"source": "主計處",
+			"source": "工務局公燈處",
 			"time_from": "2013-01-01T00:00:00+08:00",
 			"time_to": "2016-01-07T00:00:00+08:00",
 			"update_freq": null,
 			"update_freq_unit": "month",
 			"short_desc": "顯示臺北市公園類型統計資訊",
-			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為臺北市公園類型按月別，不定期更新。。",
+			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為工務局公燈處，不定期更新。",
 			"use_case": "圖表僅呈現臺北市公園類型資訊統計，若要得知更臺北市公園類型資訊。",
-			"links": [],
+			"links": [
+				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4652,15 +4651,17 @@
 				"unit": "座"
 			},
 			"name": "臺北市公園類型",
-			"source": "主計處",
+			"source": "工務局公燈處",
 			"time_from": "2013-01-01T00:00:00+08:00",
 			"time_to": "2016-01-07T00:00:00+08:00",
 			"update_freq": null,
 			"update_freq_unit": "month",
 			"short_desc": "顯示臺北市公園類型統計資訊",
-			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為臺北市公園類型按月別，不定期更新。。",
+			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為工務局公燈處，不定期更新。",
 			"use_case": "圖表僅呈現臺北市公園類型資訊統計，若要得知更臺北市公園類型資訊。",
-			"links": [],
+			"links": [
+				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4675,13 +4676,13 @@
 				"unit": "座"
 			},
 			"name": "臺北市公園類型",
-			"source": "主計處",
+			"source": "工務局公燈處",
 			"time_from": "2013-01-01T00:00:00+08:00",
 			"time_to": "2016-01-07T00:00:00+08:00",
 			"update_freq": null,
 			"update_freq_unit": "month",
 			"short_desc": "顯示臺北市公園類型統計資訊",
-			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為臺北市公園類型按月別，不定期更新。。",
+			"long_desc": "顯示臺北市公園類型統計資訊，資料來源為工務局公燈處，不定期更新。",
 			"use_case": "圖表僅呈現臺北市公園類型資訊統計，若要得知更臺北市公園類型資訊。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
@@ -4706,7 +4707,7 @@
 			"update_freq": null,
 			"update_freq_unit": "month",
 			"short_desc": "顯示公園與綠地建置年統計資訊",
-			"long_desc": "顯示公園與綠地建置年統計資訊，資料來源為公園與綠地建置年按月別，不定期更新。",
+			"long_desc": "顯示公園與綠地建置年統計資訊，資料來源為主計處，不定期更新。",
 			"use_case": "圖表僅呈現公園與綠地建置年資訊統計，若要得知更公園與綠地建置年資訊。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
@@ -4718,7 +4719,7 @@
 			"id": 165,
 			"index": "Taipei_Free_Annual_Usage_Figures",
 			"map_config": null,
-			"history_data": null,
+			"history_data": true,
 			"chart_config": {
 				"color": [
 					"#67baca",
@@ -4744,7 +4745,7 @@
 			"update_freq": 1,
 			"update_freq_unit": "year",
 			"short_desc": "顯示臺北市網路服務統計資訊",
-			"long_desc": "顯示臺北市網路服務統計資訊，資料來源為臺北市網路服務，不定期更新。",
+			"long_desc": "顯示臺北市網路服務統計資訊，資料來源為主計處，不定期更新。",
 			"use_case": "圖表僅呈現臺北市網路服務資訊統計，若要得知臺北市網路服務資訊。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=b5925972-67f6-45da-a2ff-3208bbe64f14"
@@ -4754,7 +4755,7 @@
 		},
 		"166": {
 			"id": 166,
-			"index": "Park_Types_in_Taipei_City",
+			"index": "Year-End_Statistics_on_Bicycle_Usage_in_Taipei_City_Urban_and_Riverside_Areas",
 			"map_config": null,
 			"history_data": null,
 			"chart_config": {
@@ -4769,8 +4770,33 @@
 			"update_freq": 1,
 			"update_freq_unit": "month",
 			"short_desc": "顯示臺北市市區及河濱自行車人數年尾資統計資訊",
-			"long_desc": "顯示臺北市市區及河濱自行車人數年尾資統計資訊，資料來源為臺北市市區及河濱自行車人數年尾資統計資訊，每1個月更新。",
+			"long_desc": "顯示臺北市市區及河濱自行車人數年尾資統計資訊，資料來源為主計處，每1個月更新。",
 			"use_case": "圖表僅呈現臺北市市區及河濱自行車人數年尾資統計資訊，若要得知臺北市市區及河濱自行車人數年尾資統計資訊。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=93f82a7c-76c4-4773-b5b1-79004b902003"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"167": {
+			"id": 167,
+			"index": "Taipei City Park Statistical Information",
+			"map_config": null,
+			"history_data": null,
+			"chart_config": {
+				"color": ["#C5E1A5", "#ADED64", "#7BB661"],
+				"types": ["polarArea"],
+				"unit": "座"
+			},
+			"name": "臺北市公園統計資訊",
+			"source": "主計處",
+			"time_from": "2013-01-01T00:00:00+08:00",
+			"time_to": "2016-01-07T00:00:00+08:00",
+			"update_freq": null,
+			"update_freq_unit": "month",
+			"short_desc": "顯示臺北市公園統計資訊",
+			"long_desc": "顯示臺北市公園統計資訊，資料來源為工務局公燈處，不定期更新。",
+			"use_case": "圖表僅呈現臺北市公園統計資訊，若要得知臺北市公園類型統計資訊，可透過地圖模式查詢。",
 			"links": [],
 			"tags": [],
 			"contributors": ["tuic"]
