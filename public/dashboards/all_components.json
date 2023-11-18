@@ -4284,7 +4284,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "Dog_Waste",
+					"icon": "Poop_bag",
 					"title": "臺北市狗便清潔袋箱資訊"
 				}
 			],
@@ -4410,7 +4410,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "triangle_white",
+					"icon": "Health_trail",
 					"title": "臺北市健走步道資訊"
 				}
 			],
@@ -4477,7 +4477,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "triangle_white",
+					"icon": "Free-wifi",
 					"title": "臺北市公眾區免費無線上網熱點位置"
 				}
 			],
@@ -4813,7 +4813,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "triangle_white",
+					"icon": "Park",
 					"title": "臺北市公園統計資訊"
 				}
 			],
@@ -4865,18 +4865,12 @@
 						"fill-color": "#9b976c"
 					},
 					"type": "fill",
-					"title": "臺北市公眾區免費無線上網熱點訊號範圍"
+					"title": "公眾區免費無線上網熱點訊號機台"
 				}
 			],
 			"chart_config": {
-				"color": [
-					"#6c7262"
-				],
-				"types": [
-					"DistrictChart",
-					"RadarChart",
-					"ColumnChart"
-				],
+				"color": ["#2c7262"],
+				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
 				"unit": "座",
 				"map_filter": [
 					"area",
@@ -4896,7 +4890,7 @@
 					]
 				]
 			},
-			"name": "臺北市公眾區免費無線上網熱點訊號範圍",
+			"name": "公眾區免費無線上網熱點訊號機台",
 			"source": "資訊局",
 			"history_data": null,
 			"time_from": null,
@@ -4910,9 +4904,7 @@
 				"https://data.taipei/dataset/detail?id=6aa6532d-652f-4c1b-814a-4646b75407af"
 			],
 			"tags": [],
-			"contributors": [
-				"tuic"
-			]
+			"contributors": ["tuic"]
 		}
 	}
 }
