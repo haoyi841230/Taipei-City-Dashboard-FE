@@ -7,11 +7,18 @@ const { chart_config, activeChart, series } = defineProps([
 	"activeChart",
 	"series",
 ]);
-
+//console.warn("chart_config", chart_config.unit);
 const chartOptions = ref({
 	series: series[0].data.map((item) => item.y),
 	chart: {
 		type: "polarArea",
+	},
+	xaxis: {
+		labels: {
+			style: {
+				colors: "#ffffff", // 修改為白色
+			},
+		},
 	},
 	labels: series[0].data.map((item) => item.x),
 	colors: series[0].data.map((item) => item.z),
@@ -65,6 +72,13 @@ const chartOptions = ref({
 			},
 		},
 	],
+	tooltip: {
+		y: {
+			formatter: function (val) {
+				return String(val) + chart_config.unit; // 在提示框中顯示單位
+			},
+		},
+	},
 });
 
 const chartEl = ref(null);

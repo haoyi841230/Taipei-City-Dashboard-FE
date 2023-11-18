@@ -37,6 +37,8 @@ import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import DumbbellChart from "./components/charts/DumbbellChart.vue";
 import polarArea from "./components/charts/polarArea.vue";
 import MixedCharts from "./components/charts/MixedCharts.vue";
+import Stepline from "./components/charts/Stepline.vue";
+import Pyramid from "./components/charts/Pyramid.vue";
 const app = createApp(App);
 
 // Add Core Packages: Vue-Router, Pinia, Apexcharts
@@ -61,4 +63,6 @@ app.component("HeatmapChart", HeatmapChart);
 app.component("DumbbellChart", DumbbellChart);
 app.component("polarArea", polarArea);
 app.component("MixedCharts", MixedCharts);
+app.component("Stepline", Stepline);
+app.component("Pyramid", Pyramid);
 app.mount("#app");
