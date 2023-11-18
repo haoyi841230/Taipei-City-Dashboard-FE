@@ -4134,6 +4134,20 @@
 			"index": "Taipei_City_Electric_Vehicle_Charging_and_Swapping_Station_Information",
 			"map_config": [
 				{
+					"index": "188",
+					"property": [
+						{
+							"key": "area",
+							"name": "區"
+						}
+					],
+					"paint": {
+						"fill-color": "#Ffd200"
+					},
+					"type": "fill",
+					"title": "臺北市行政區域"
+				},
+				{
 					"index": "151",
 					"property": [
 						{
@@ -4937,26 +4951,14 @@
 		},
 		"188": {
 			"id": 188,
-			"index": "Taipei_City_Free_Public_Wi-Fi_Hotspots_Data",
+			"index": "1Taipei_City_Free_Public_Wi-Fi_Hotspots_Data",
 			"map_config": [
 				{
-					"index": "187",
+					"index": "188",
 					"property": [
 						{
-							"key": "name",
-							"name": "熱點名稱"
-						},
-						{
-							"key": "agency",
-							"name": "機關名稱"
-						},
-						{
-							"key": "vendor_id",
-							"name": "提供業者"
-						},
-						{
-							"key": "address",
-							"name": "地址"
+							"key": "TOWN",
+							"name": "區"
 						}
 					],
 					"paint": {
@@ -4964,30 +4966,6 @@
 					},
 					"type": "fill",
 					"title": "公眾區免費無線上網熱點訊號機台"
-				},
-				{
-					"index": "156",
-					"property": [
-						{
-							"key": "name",
-							"name": "熱點名稱"
-						},
-						{
-							"key": "agency",
-							"name": "機關名稱"
-						},
-						{
-							"key": "vendor_id",
-							"name": "提供業者"
-						},
-						{
-							"key": "address",
-							"name": "地址"
-						}
-					],
-					"type": "symbol",
-					"icon": "Free-wifi",
-					"title": "臺北市公眾區免費無線上網熱點位置"
 				}
 			],
 			"chart_config": {
@@ -5012,7 +4990,7 @@
 					]
 				]
 			},
-			"name": "公眾區免費無線上網熱點訊號機台",
+			"name": "XXX",
 			"source": "資訊局",
 			"history_data": null,
 			"time_from": null,
