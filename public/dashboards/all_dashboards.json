@@ -3,7 +3,7 @@
 		{
 			"name": "零碳永續(韌性城市)",
 			"index": "Energy saving and sustainable",
-			"components": ["150", "151"],
+			"components": ["153", "155", "159", "160"],
 			"icon": "grass"
 		},
 		{
@@ -81,7 +81,7 @@
 		{
 			"name": "測試組件",
 			"index": "testing",
-			"components": ["117", "118", "61", "74", "157"],
+			"components": ["117", "118", "61", "74", "161", "162", "163"],
 			"icon": "bug_report"
 		},
 		{

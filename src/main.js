@@ -35,8 +35,8 @@ import MapLegend from "./components/charts/MapLegend.vue";
 import MetroChart from "./components/charts/MetroChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import DumbbellChart from "./components/charts/DumbbellChart.vue";
+import polarArea from "./components/charts/polarArea.vue";
 import MixedCharts from "./components/charts/MixedCharts.vue";
-
 const app = createApp(App);
 
 // Add Core Packages: Vue-Router, Pinia, Apexcharts
@@ -59,5 +59,6 @@ app.component("MapLegend", MapLegend);
 app.component("MetroChart", MetroChart);
 app.component("HeatmapChart", HeatmapChart);
 app.component("DumbbellChart", DumbbellChart);
+app.component("polarArea", polarArea);
 app.component("MixedCharts", MixedCharts);
 app.mount("#app");
