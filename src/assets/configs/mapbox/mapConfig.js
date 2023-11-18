@@ -289,6 +289,18 @@ export const maplayerCommonLayout = {
 	"symbol-Dog_Waste": {
 		"icon-image": "Dog_Waste",
 	},
+	"symbol-Free-wifi": {
+		"icon-image": "Free-wifi",
+	},
+	"symbol-Health_trail": {
+		"icon-image": "Health_trail",
+	},
+	"symbol-Park": {
+		"icon-image": "Park",
+	},
+	"symbol-Poop_bag": {
+		"icon-image": "Poop_bag",
+	},
 	"symbol-youbike": {
 		"icon-image": [
 			"case",

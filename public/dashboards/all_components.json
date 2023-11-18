@@ -4284,7 +4284,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "Dog_Waste",
+					"icon": "Poop_bag",
 					"title": "臺北市狗便清潔袋箱資訊"
 				}
 			],
@@ -4410,7 +4410,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "triangle_white",
+					"icon": "Health_trail",
 					"title": "臺北市健走步道資訊"
 				}
 			],
@@ -4477,7 +4477,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "triangle_white",
+					"icon": "Free-wifi",
 					"title": "臺北市公眾區免費無線上網熱點位置"
 				}
 			],
@@ -4813,7 +4813,7 @@
 						}
 					],
 					"type": "symbol",
-					"icon": "triangle_white",
+					"icon": "Park",
 					"title": "臺北市公園統計資訊"
 				}
 			],
@@ -4834,6 +4834,99 @@
 			"long_desc": "顯示臺北市公園統計資訊，資料來源為工務局公燈處，不定期更新。",
 			"use_case": "圖表僅呈現臺北市公園統計資訊，若要得知臺北市公園類型統計資訊，可透過地圖模式查詢。",
 			"links": [],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"187": {
+			"id": 187,
+			"index": "Taipei_City_Free_Public_Wi-Fi_Hotspots_Data",
+			"map_config": [
+				{
+					"index": "187",
+					"property": [
+						{
+							"key": "name",
+							"name": "熱點名稱"
+						},
+						{
+							"key": "agency",
+							"name": "機關名稱"
+						},
+						{
+							"key": "vendor_id",
+							"name": "提供業者"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"paint": {
+						"fill-color": "#Ffd200"
+					},
+					"type": "fill",
+					"title": "公眾區免費無線上網熱點訊號機台"
+				},
+				{
+					"index": "156",
+					"property": [
+						{
+							"key": "name",
+							"name": "熱點名稱"
+						},
+						{
+							"key": "agency",
+							"name": "機關名稱"
+						},
+						{
+							"key": "vendor_id",
+							"name": "提供業者"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"icon": "Free-wifi",
+					"title": "臺北市公眾區免費無線上網熱點位置"
+				}
+			],
+			"chart_config": {
+				"color": ["#2c7262"],
+				"types": ["DistrictChart", "RadarChart", "ColumnChart"],
+				"unit": "座",
+				"map_filter": [
+					"area",
+					[
+						"北投區",
+						"士林區",
+						"內湖區",
+						"南港區",
+						"松山區",
+						"信義區",
+						"中山區",
+						"大同區",
+						"中正區",
+						"萬華區",
+						"大安區",
+						"文山區"
+					]
+				]
+			},
+			"name": "公眾區免費無線上網熱點訊號機台",
+			"source": "資訊局",
+			"history_data": null,
+			"time_from": null,
+			"time_to": "2023-10-20T00:00:00+08:00",
+			"update_freq": 6,
+			"update_freq_unit": "month",
+			"short_desc": "顯示臺北市公眾區免費無線上網熱點統計資訊",
+			"long_desc": "顯示臺北市公眾區免費無線上網熱點統計資訊，資料來源為台北市資訊局內部資料，每6個月更新。",
+			"use_case": "圖表僅呈現臺北市公眾區免費無線上網熱點資訊統計，若要得知更臺北市公眾區免費無線上網熱點資訊，可透過地圖模式查詢。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=6aa6532d-652f-4c1b-814a-4646b75407af"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		}
