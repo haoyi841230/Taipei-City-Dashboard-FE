@@ -4862,10 +4862,34 @@
 						}
 					],
 					"paint": {
-						"fill-color": "#9b976c"
+						"fill-color": "#Ffd200"
 					},
 					"type": "fill",
 					"title": "公眾區免費無線上網熱點訊號機台"
+				},
+				{
+					"index": "156",
+					"property": [
+						{
+							"key": "name",
+							"name": "熱點名稱"
+						},
+						{
+							"key": "agency",
+							"name": "機關名稱"
+						},
+						{
+							"key": "vendor_id",
+							"name": "提供業者"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"icon": "Free-wifi",
+					"title": "臺北市公眾區免費無線上網熱點位置"
 				}
 			],
 			"chart_config": {
