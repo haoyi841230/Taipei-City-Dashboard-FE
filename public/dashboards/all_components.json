@@ -4071,6 +4071,20 @@
 			"index": "Taipei_City_Electric_Scooter_Charging_Station",
 			"map_config": [
 				{
+					"index": "188",
+					"property": [
+						{
+							"key": "area",
+							"name": "區"
+						}
+					],
+					"paint": {
+						"fill-color": "#Ffd200"
+					},
+					"type": "fill",
+					"title": "臺北市行政區域"
+				},
+				{
 					"index": "150",
 					"property": [
 						{
@@ -4290,6 +4304,20 @@
 			"index": "Dog_Waste_Cleanup_Bag_Box",
 			"map_config": [
 				{
+					"index": "188",
+					"property": [
+						{
+							"key": "area",
+							"name": "區"
+						}
+					],
+					"paint": {
+						"fill-color": "#Ffd200"
+					},
+					"type": "fill",
+					"title": "臺北市行政區域"
+				},
+				{
 					"index": "153",
 					"property": [
 						{
@@ -4403,6 +4431,20 @@
 			"id": 155,
 			"index": "Taipei_City_Walking_Trails",
 			"map_config": [
+				{
+					"index": "188",
+					"property": [
+						{
+							"key": "area",
+							"name": "區"
+						}
+					],
+					"paint": {
+						"fill-color": "#Ffd200"
+					},
+					"type": "fill",
+					"title": "臺北市行政區域"
+				},
 				{
 					"index": "155",
 					"property": [
