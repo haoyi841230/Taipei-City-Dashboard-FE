@@ -301,6 +301,12 @@ export const maplayerCommonLayout = {
 	"symbol-Poop_bag": {
 		"icon-image": "Poop_bag",
 	},
+	"symbol-Battery": {
+		"icon-image": "Battery",
+	},
+	"symbol-Electric": {
+		"icon-image": "Electric",
+	},
 	"symbol-youbike": {
 		"icon-image": [
 			"case",

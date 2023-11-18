@@ -12,5 +12,8 @@ export const chartTypes = {
 	RadarChart: "雷達圖",
 	HeatmapChart: "熱力圖",
 	DumbbellChart: "甘特圖",
-	polarArea: "混合圖",
+	polarArea: "玫瑰圖",
+	MixedCharts: "混合圖",
+	Stepline: "階梯圖",
+	Pyramid: "金字塔圖",
 };
