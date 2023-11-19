@@ -53,6 +53,14 @@ const chartOptions = ref({
 			color: "#ccffcc",
 		},
 	],
+	tooltip: {
+  theme: "dark", // 設定主題為 dark
+  y: {
+   formatter: function (val) {
+    return String(val) + String(props.chart_config.unit); // 在提示框中顯示單位
+   },
+  },
+ },
 });
 
 const chartRef = ref(null);
